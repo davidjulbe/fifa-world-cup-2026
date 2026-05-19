@@ -1,0 +1,502 @@
+{
+  "name": "New Zealand",
+  "code": "NZL",
+  "confederation": "OFC",
+  "group": "G",
+
+  "tournament_stats": {
+    "matches_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "goals_for": 0,
+    "goals_against": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "clean_sheets": 0
+  },
+
+  "players": [
+    {
+      "id": "NZL_001",
+      "name": "Max Crocombe",
+      "number": 1,
+      "position": "GK",
+      "caps": 22,
+      "age": 32,
+      "height_cm": 194,
+      "current_club": "Millwall FC",
+      "national_league": "EFL Championship",
+      "league_ranking": 7.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NZL_002",
+      "name": "Tim Payne",
+      "number": 2,
+      "position": "RB",
+      "caps": 49,
+      "age": 32,
+      "height_cm": 179,
+      "current_club": "Wellington Phoenix",
+      "national_league": "A-League",
+      "league_ranking": 54.8,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NZL_003",
+      "name": "Francis de Vries",
+      "number": 3,
+      "position": "LB",
+      "caps": 18,
+      "age": 31,
+      "height_cm": 188,
+      "current_club": "Auckland FC",
+      "national_league": "A-League",
+      "league_ranking": 54.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NZL_004",
+      "name": "Tyler Bindon",
+      "number": 4,
+      "position": "CB",
+      "caps": 23,
+      "age": 21,
+      "height_cm": 190,
+      "current_club": "Sheffield United",
+      "national_league": "EFL Championship",
+      "league_ranking": 7.13,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NZL_005",
+      "name": "Michael Boxall",
+      "number": 5,
+      "position": "CB",
+      "caps": 61,
+      "age": 37,
+      "height_cm": 191,
+      "current_club": "Minnesota United FC",
+      "national_league": "MLS",
+      "league_ranking": 10.12,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NZL_006",
+      "name": "Joe Bell",
+      "number": 6,
+      "position": "CDM",
+      "caps": 31,
+      "age": 27,
+      "height_cm": 182,
+      "current_club": "Viking FK",
+      "national_league": "Eliteserien",
+      "league_ranking": 21.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NZL_007",
+      "name": "Matthew Garbett",
+      "number": 7,
+      "position": "CAM",
+      "caps": 35,
+      "age": 24,
+      "height_cm": 188,
+      "current_club": "Peterborough United",
+      "national_league": "EFL League One",
+      "league_ranking": 41.18,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NZL_008",
+      "name": "Marko Stamenić",
+      "number": 8,
+      "position": "CDM",
+      "caps": 37,
+      "age": 24,
+      "height_cm": 188,
+      "current_club": "Swansea City",
+      "national_league": "EFL Championship",
+      "league_ranking": 7.11,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NZL_009",
+      "name": "Chris Wood",
+      "number": 9,
+      "position": "ST",
+      "caps": 88,
+      "age": 34,
+      "height_cm": 191,
+      "current_club": "Nottingham Forest",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.16,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NZL_010",
+      "name": "Sarpreet Singh",
+      "number": 10,
+      "position": "RM",
+      "caps": 26,
+      "age": 27,
+      "height_cm": 180,
+      "current_club": "Wellington Phoenix",
+      "national_league": "A-League",
+      "club_league_ranking": 54.8,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NZL_011",
+      "name": "Elijah Just",
+      "number": 11,
+      "position": "LM",
+      "caps": 42,
+      "age": 26,
+      "height_cm": 174,
+      "current_club": "Motherwell",
+      "national_league": "Premiership",
+      "club_league_ranking": 33.4,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NZL_012",
+      "name": "Alex Paulsen",
+      "number": 12,
+      "position": "GK",
+      "caps": 6,
+      "age": 23,
+      "height_cm": 184,
+      "current_club": "Lechia Gdańsk",
+      "national_league": "Ekstraklasa",
+      "club_league_ranking": 13.16,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NZL_013",
+      "name": "Liberato Cacace",
+      "number": 13,
+      "position": "LB",
+      "caps": 35,
+      "age": 25,
+      "height_cm": 183,
+      "current_club": "Wrexham",
+      "national_league": "EFL Championship",
+      "club_league_ranking": 7.7,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NZL_014",
+      "name": "Alex Rufer",
+      "number": 14,
+      "position": "CM",
+      "caps": 24,
+      "age": 29,
+      "height_cm": 184,
+      "current_club": "Wellington Phoenix",
+      "national_league": "A-League",
+      "club_league_ranking": 54.6,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NZL_015",
+      "name": "Nando Pijnaker",
+      "number": 15,
+      "position": "CB",
+      "caps": 23,
+      "age": 27,
+      "height_cm": 191,
+      "current_club": "Auckland FC",
+      "national_league": "A-League",
+      "club_league_ranking": 54.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NZL_016",
+      "name": "Finn Surman",
+      "number": 16,
+      "position": "CB",
+      "caps": 17,
+      "age": 22,
+      "height_cm": 190,
+      "current_club": "Portland Timbers",
+      "national_league": "MLS",
+      "club_league_ranking": 10.21,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NZL_017",
+      "name": "Kosta Barbarouses",
+      "number": 17,
+      "position": "RW",
+      "caps": 74,
+      "age": 36,
+      "height_cm": 171,
+      "current_club": "Western Sydney Wanderers",
+      "national_league": "A-League",
+      "club_league_ranking": 54.12,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NZL_018",
+      "name": "Ben Waine",
+      "number": 18,
+      "position": "ST",
+      "caps": 30,
+      "age": 26,
+      "height_cm": 179,
+      "current_club": "Port Vale",
+      "national_league": "EFL League One",
+      "club_league_ranking": 41.22,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NZL_019",
+      "name": "Ben Old",
+      "number": 19,
+      "position": "LM",
+      "caps": 22,
+      "age": 23,
+      "height_cm": 173,
+      "current_club": "Saint-Étienne",
+      "national_league": "Ligue 2",
+      "club_league_ranking": 34.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NZL_020",
+      "name": "Callum McCowatt",
+      "number": 20,
+      "position": "RM",
+      "caps": 30,
+      "age": 27,
+      "height_cm": 179,
+      "current_club": "Silkeborg",
+      "national_league": "Superligaen",
+      "club_league_ranking": 12.11,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    }
+  ]
+}
