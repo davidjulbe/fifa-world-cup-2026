@@ -1,8 +1,8 @@
 {
-  "name": "Austria",
-  "code": "AUT",
+  "name": "Switzerland",
+  "code": "SUI",
   "confederation": "UEFA",
-  "group": "J",
+  "group": "B",
 
   "tournament_stats": {
     "matches_played": 0,
@@ -18,16 +18,16 @@
 
   "players": [
     {
-      "id": "AUT_001",
-      "name": "Alexander Schlager",
+      "id": "SUI_001",
+      "name": "Gregor Kobel",
       "number": 1,
       "position": "GK",
-      "caps": 25,
-      "age": 30,
-      "height_cm": 184,
-      "current_club": "RB Salzburg",
-      "national_league": "Austrian Bundesliga",
-      "club_league_ranking": 23.3,
+      "caps": 20,
+      "age": 28,
+      "height_cm": 195,
+      "current_club": "Borussia Dortmund",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.2,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -43,64 +43,16 @@
     },
 
     {
-      "id": "AUT_002",
-      "name": "David Affengruber",
+      "id": "SUI_002",
+      "name": "Miro Muheim",
       "number": 2,
-      "position": "CB",
-      "caps": 1,
-      "age": 25,
-      "height_cm": 185,
-      "current_club": "Elche",
-      "national_league": "La Liga",
-      "club_league_ranking": 3.17,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "AUT_003",
-      "name": "Kevin Danso",
-      "number": 3,
-      "position": "CB",
-      "caps": 31,
-      "age": 27,
-      "height_cm": 190,
-      "current_club": "Tottenham Hotspur",
-      "national_league": "Premier League",
-      "club_league_ranking": 1.17,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "AUT_004",
-      "name": "Xaver Schlager",
-      "number": 4,
-      "position": "CDM",
-      "caps": 50,
+      "position": "LB",
+      "caps": 8,
       "age": 28,
-      "height_cm": 174,
-      "current_club": "RB Leipzig",
+      "height_cm": 182,
+      "current_club": "Hamburger SV",
       "national_league": "Bundesliga",
-      "club_league_ranking": 5.3,
+      "club_league_ranking": 5.13,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -115,13 +67,13 @@
     },
 
     {
-      "id": "AUT_005",
-      "name": "Stefan Posch",
-      "number": 5,
+      "id": "SUI_003",
+      "name": "Silvan Widmer",
+      "number": 3,
       "position": "RB",
-      "caps": 51,
-      "age": 29,
-      "height_cm": 190,
+      "caps": 58,
+      "age": 33,
+      "height_cm": 183,
       "current_club": "Mainz 05",
       "national_league": "Bundesliga",
       "club_league_ranking": 5.10,
@@ -139,16 +91,64 @@
     },
 
     {
-      "id": "AUT_006",
-      "name": "Nicolas Seiwald",
+      "id": "SUI_004",
+      "name": "Nico Elvedi",
+      "number": 4,
+      "position": "CB",
+      "caps": 65,
+      "age": 29,
+      "height_cm": 188,
+      "current_club": "Borussia Mönchengladbach",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.12,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "SUI_005",
+      "name": "Manuel Akanji",
+      "number": 5,
+      "position": "CB",
+      "caps": 79,
+      "age": 30,
+      "height_cm": 188,
+      "current_club": "Inter Milan",
+      "national_league": "Serie A",
+      "club_league_ranking": 2.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "SUI_006",
+      "name": "Denis Zakaria",
       "number": 6,
       "position": "CDM",
-      "caps": 46,
-      "age": 25,
-      "height_cm": 180,
-      "current_club": "RB Leipzig",
-      "national_league": "Bundesliga",
-      "club_league_ranking": 5.3,
+      "caps": 63,
+      "age": 29,
+      "height_cm": 190,
+      "current_club": "Monaco",
+      "national_league": "Ligue 1",
+      "club_league_ranking": 4.7,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -163,16 +163,16 @@
     },
 
     {
-      "id": "AUT_007",
-      "name": "Marko Arnautović",
+      "id": "SUI_007",
+      "name": "Breel Embolo",
       "number": 7,
       "position": "ST",
-      "caps": 132,
-      "age": 37,
-      "height_cm": 192,
-      "current_club": "Crvena Zvezda",
-      "national_league": "Serbian Super Liga",
-      "club_league_ranking": 57.1,
+      "caps": 85,
+      "age": 29,
+      "height_cm": 187,
+      "current_club": "Stade Rennais",
+      "national_league": "Ligue 1",
+      "club_league_ranking": 4.6,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -187,16 +187,16 @@
     },
 
     {
-      "id": "AUT_008",
-      "name": "David Alaba",
+      "id": "SUI_008",
+      "name": "Remo Freuler",
       "number": 8,
-      "position": "LB",
-      "caps": 112,
-      "age": 33,
-      "height_cm": 180,
-      "current_club": "Real Madrid",
-      "national_league": "La Liga",
-      "club_league_ranking": 3.2,
+      "position": "CDM",
+      "caps": 86,
+      "age": 34,
+      "height_cm": 181,
+      "current_club": "Bologna",
+      "national_league": "Serie A",
+      "club_league_ranking": 2.8,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -211,159 +211,13 @@
     },
 
     {
-      "id": "AUT_009",
-      "name": "Marcel Sabitzer",
+      "id": "SUI_009",
+      "name": "Johan Manzambi",
       "number": 9,
       "position": "CM",
-      "caps": 97,
-      "age": 32,
-      "height_cm": 178,
-      "current_club": "Borussia Dortmund",
-      "national_league": "Bundesliga",
-      "club_league_ranking": 5.2,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "AUT_010",
-      "name": "Florian Grillitsch",
-      "number": 10,
-      "position": "CDM",
-      "caps": 58,
-      "age": 30,
-      "height_cm": 187,
-      "current_club": "Braga",
-      "national_league": "Liga Portugal",
-      "club_league_ranking": 8.4,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "AUT_011",
-      "name": "Michael Gregoritsch",
-      "number": 11,
-      "position": "ST",
-      "caps": 74,
-      "age": 32,
-      "height_cm": 193,
-      "current_club": "FC Augsburg",
-      "national_league": "Bundesliga",
-      "club_league_ranking": 5.9,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "AUT_012",
-      "name": "Florian Wiegele",
-      "number": 12,
-      "position": "GK",
-      "caps": 1,
-      "age": 25,
-      "height_cm": 205,
-      "current_club": "Viktoria Plzeň",
-      "national_league": "Czech 1. Liga",
-      "club_league_ranking": 27.3,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "clean_sheets": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "AUT_013",
-      "name": "Patrick Pentz",
-      "number": 13,
-      "position": "GK",
-      "caps": 18,
-      "age": 29,
-      "height_cm": 183,
-      "current_club": "Brøndby",
-      "national_league": "Superligaen",
-      "club_league_ranking": 12.4,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "clean_sheets": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "AUT_014",
-      "name": "Saša Kalajdžić",
-      "number": 14,
-      "position": "ST",
-      "caps": 21,
-      "age": 28,
-      "height_cm": 200,
-      "current_club": "LASK",
-      "national_league": "Austrian Bundesliga",
-      "club_league_ranking": 23.1,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "AUT_015",
-      "name": "Philipp Lienhart",
-      "number": 15,
-      "position": "CB",
-      "caps": 40,
-      "age": 29,
-      "height_cm": 189,
+      "caps": 10,
+      "age": 20,
+      "height_cm": 182,
       "current_club": "Freiburg",
       "national_league": "Bundesliga",
       "club_league_ranking": 5.7,
@@ -381,40 +235,64 @@
     },
 
     {
-      "id": "AUT_016",
-      "name": "Phillipp Mwene",
-      "number": 16,
-      "position": "LB",
+      "id": "SUI_010",
+      "name": "Granit Xhaka",
+      "number": 10,
+      "position": "CDM",
+      "caps": 144,
+      "age": 33,
+      "height_cm": 186,
+      "current_club": "Sunderland",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.7,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "SUI_011",
+      "name": "Dan Ndoye",
+      "number": 11,
+      "position": "RW",
       "caps": 29,
+      "age": 25,
+      "height_cm": 184,
+      "current_club": "Nottingham Forest",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.16,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "SUI_012",
+      "name": "Yvon Mvogo",
+      "number": 12,
+      "position": "GK",
+      "caps": 12,
       "age": 32,
-      "height_cm": 170,
-      "current_club": "Mainz 05",
-      "national_league": "Bundesliga",
-      "club_league_ranking": 5.10,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "AUT_017",
-      "name": "Carney Chukwuemeka",
-      "number": 17,
-      "position": "CAM",
-      "caps": 2,
-      "age": 22,
       "height_cm": 187,
-      "current_club": "Borussia Dortmund",
-      "national_league": "Bundesliga",
-      "club_league_ranking": 5.2,
+      "current_club": "Lorient",
+      "national_league": "Ligue 1",
+      "club_league_ranking": 4.9,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -424,117 +302,22 @@
         "assists": 0,
         "yellow_cards": 0,
         "red_cards": 0,
+        "clean_sheets": 0,
         "rating": 6.0
       }
     },
 
     {
-      "id": "AUT_018",
-      "name": "Romano Schmid",
-      "number": 18,
-      "position": "LM",
-      "caps": 33,
-      "age": 26,
-      "height_cm": 168,
-      "current_club": "Werder Bremen",
-      "national_league": "Bundesliga",
-      "club_league_ranking": 5.15,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "AUT_019",
-      "name": "Christoph Baumgartner",
-      "number": 19,
-      "position": "CAM",
-      "caps": 58,
-      "age": 26,
-      "height_cm": 180,
-      "current_club": "RB Leipzig",
-      "national_league": "Bundesliga",
-      "club_league_ranking": 5.3,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "AUT_020",
-      "name": "Konrad Laimer",
-      "number": 20,
-      "position": "RB",
-      "caps": 56,
-      "age": 29,
-      "height_cm": 180,
-      "current_club": "Bayern München",
-      "national_league": "Bundesliga",
-      "club_league_ranking": 5.1,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "AUT_021",
-      "name": "Patrick Wimmer",
-      "number": 21,
-      "position": "LM",
-      "caps": 30,
-      "age": 25,
-      "height_cm": 182,
-      "current_club": "Wolfsburg",
-      "national_league": "Bundesliga",
-      "club_league_ranking": 5.16,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "AUT_022",
-      "name": "Alexander Prass",
-      "number": 22,
+      "id": "SUI_013",
+      "name": "Ricardo Rodriguez",
+      "number": 13,
       "position": "LB",
-      "caps": 18,
-      "age": 25,
-      "height_cm": 180,
-      "current_club": "Hoffenheim",
-      "national_league": "Bundesliga",
-      "club_league_ranking": 5.5,
+      "caps": 136,
+      "age": 33,
+      "height_cm": 182,
+      "current_club": "Real Betis",
+      "national_league": "La Liga",
+      "club_league_ranking": 3.5,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -549,16 +332,16 @@
     },
 
     {
-      "id": "AUT_023",
-      "name": "Marco Friedl",
-      "number": 23,
-      "position": "CB",
-      "caps": 10,
-      "age": 28,
-      "height_cm": 187,
-      "current_club": "Werder Bremen",
-      "national_league": "Bundesliga",
-      "club_league_ranking": 5.15,
+      "id": "SUI_014",
+      "name": "Ardon Jashari",
+      "number": 14,
+      "position": "CDM",
+      "caps": 6,
+      "age": 23,
+      "height_cm": 181,
+      "current_club": "AC Milan",
+      "national_league": "Serie A",
+      "club_league_ranking": 2.5,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -573,16 +356,40 @@
     },
 
     {
-      "id": "AUT_024",
-      "name": "Paul Wanner",
-      "number": 24,
-      "position": "CAM",
-      "caps": 2,
-      "age": 20,
+      "id": "SUI_015",
+      "name": "Djibril Sow",
+      "number": 15,
+      "position": "CDM",
+      "caps": 50,
+      "age": 29,
+      "height_cm": 184,
+      "current_club": "Sevilla",
+      "national_league": "La Liga",
+      "club_league_ranking": 3.13,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "SUI_016",
+      "name": "Christian Fassnacht",
+      "number": 16,
+      "position": "RW",
+      "caps": 21,
+      "age": 32,
       "height_cm": 185,
-      "current_club": "PSV",
-      "national_league": "Eredivisie",
-      "club_league_ranking": 11.1,
+      "current_club": "Young Boys",
+      "national_league": "Swiss Super League",
+      "club_league_ranking": 24.6,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -597,16 +404,209 @@
     },
 
     {
-      "id": "AUT_025",
-      "name": "Michael Svoboda",
+      "id": "SUI_017",
+      "name": "Rubén Vargas",
+      "number": 17,
+      "position": "LW",
+      "caps": 60,
+      "age": 27,
+      "height_cm": 177,
+      "current_club": "Sevilla",
+      "national_league": "La Liga",
+      "club_league_ranking": 3.13,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "SUI_018",
+      "name": "Eray Cömert",
+      "number": 18,
+      "position": "CB",
+      "caps": 20,
+      "age": 28,
+      "height_cm": 183,
+      "current_club": "Valencia",
+      "national_league": "La Liga",
+      "club_league_ranking": 3.9,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "SUI_019",
+      "name": "Noah Okafor",
+      "number": 19,
+      "position": "ST",
+      "caps": 24,
+      "age": 26,
+      "height_cm": 185,
+      "current_club": "Leeds United",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.14,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "SUI_020",
+      "name": "Michel Aebischer",
+      "number": 20,
+      "position": "CM",
+      "caps": 38,
+      "age": 29,
+      "height_cm": 183,
+      "current_club": "Pisa",
+      "national_league": "Serie A",
+      "club_league_ranking": 2.20,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "SUI_021",
+      "name": "Marvin Keller",
+      "number": 21,
+      "position": "GK",
+      "caps": 0,
+      "age": 23,
+      "height_cm": 190,
+      "current_club": "Young Boys",
+      "national_league": "Swiss Super League",
+      "club_league_ranking": 24.6,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "SUI_022",
+      "name": "Fabian Rieder",
+      "number": 22,
+      "position": "CAM",
+      "caps": 27,
+      "age": 24,
+      "height_cm": 179,
+      "current_club": "FC Augsburg",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.9,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "SUI_023",
+      "name": "Zeki Amdouni",
+      "number": 23,
+      "position": "ST",
+      "caps": 27,
+      "age": 25,
+      "height_cm": 185,
+      "current_club": "Burnley",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.19,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "SUI_024",
+      "name": "Aurèle Amenda",
+      "number": 24,
+      "position": "CB",
+      "caps": 6,
+      "age": 22,
+      "height_cm": 197,
+      "current_club": "Eintracht Frankfurt",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.8,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "SUI_025",
+      "name": "Luca Jaquez",
       "number": 25,
       "position": "CB",
-      "caps": 4,
-      "age": 27,
-      "height_cm": 195,
-      "current_club": "Venezia",
-      "national_league": "Serie B",
-      "club_league_ranking": 29.1,
+      "caps": 2,
+      "age": 23,
+      "height_cm": 187,
+      "current_club": "Stuttgart",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.4,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -621,16 +621,16 @@
     },
 
     {
-      "id": "AUT_026",
-      "name": "Alessandro Schöpf",
+      "id": "SUI_026",
+      "name": "Cedric Itten",
       "number": 26,
-      "position": "CDM",
-      "caps": 35,
-      "age": 32,
-      "height_cm": 178,
-      "current_club": "Wolfsberger",
-      "national_league": "Austrian Bundesliga",
-      "club_league_ranking": 23.8,
+      "position": "ST",
+      "caps": 13,
+      "age": 29,
+      "height_cm": 189,
+      "current_club": "Fortuna Düsseldorf",
+      "national_league": "2. Bundesliga",
+      "club_league_ranking": 30.17,
 
       "tournament_stats": {
         "started_matches": 0,
