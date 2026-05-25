@@ -1,0 +1,647 @@
+{
+  "name": "Norway",
+  "code": "NOR",
+  "confederation": "UEFA",
+  "group": "I",
+
+  "tournament_stats": {
+    "matches_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "goals_for": 0,
+    "goals_against": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "clean_sheets": 0
+  },
+
+  "players": [
+    {
+      "id": "NOR_001",
+      "name": "Ørjan Nyland",
+      "number": 1,
+      "position": "GK",
+      "caps": 69,
+      "age": 35,
+      "height_cm": 192,
+      "current_club": "Sevilla",
+      "national_league": "La Liga",
+      "club_league_ranking": 3.13,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NOR_002",
+      "name": "Morten Thorsby",
+      "number": 2,
+      "position": "CM",
+      "caps": 30,
+      "age": 30,
+      "height_cm": 188,
+      "current_club": "Cremonese",
+      "national_league": "Serie A",
+      "club_league_ranking": 2.18,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NOR_003",
+      "name": "Kristoffer Ajer",
+      "number": 3,
+      "position": "CB",
+      "caps": 50,
+      "age": 28,
+      "height_cm": 197,
+      "current_club": "Brentford",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.9,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NOR_004",
+      "name": "Leo Østigård",
+      "number": 4,
+      "position": "CB",
+      "caps": 36,
+      "age": 26,
+      "height_cm": 182,
+      "current_club": "Genoa",
+      "national_league": "Serie A",
+      "club_league_ranking": 2.16,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NOR_005",
+      "name": "David Møller Wolfe",
+      "number": 5,
+      "position": "LB",
+      "caps": 20,
+      "age": 24,
+      "height_cm": 185,
+      "current_club": "Wolves",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.20,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NOR_006",
+      "name": "Patrick Berg",
+      "number": 6,
+      "position": "CDM",
+      "caps": 41,
+      "age": 28,
+      "height_cm": 178,
+      "current_club": "Bodø/Glimt",
+      "national_league": "Eliteserien",
+      "club_league_ranking": 21.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NOR_007",
+      "name": "Alexander Sørloth",
+      "number": 7,
+      "position": "ST",
+      "caps": 70,
+      "age": 30,
+      "height_cm": 195,
+      "current_club": "Atlético de Madrid",
+      "national_league": "La Liga",
+      "club_league_ranking": 3.4,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NOR_008",
+      "name": "Sander Berge",
+      "number": 8,
+      "position": "CDM",
+      "caps": 64,
+      "age": 28,
+      "height_cm": 195,
+      "current_club": "Fulham",
+      "national_league": "La Liga",
+      "club_league_ranking": 1.11,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NOR_009",
+      "name": "Erling Håland",
+      "number": 9,
+      "position": "ST",
+      "caps": 49,
+      "age": 25,
+      "height_cm": 195,
+      "current_club": "Manchester City",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NOR_010",
+      "name": "Martin Ødegaard",
+      "number": 10,
+      "position": "CAM",
+      "caps": 67,
+      "age": 27,
+      "height_cm": 178,
+      "current_club": "Arsenal",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NOR_011",
+      "name": "Jørgen Strand Larsen",
+      "number": 11,
+      "position": "ST",
+      "caps": 26,
+      "age": 26,
+      "height_cm": 194,
+      "current_club": "Crystal Palace",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.15,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NOR_012",
+      "name": "Sander Tangvik",
+      "number": 12,
+      "position": "GK",
+      "caps": 0,
+      "age": 23,
+      "height_cm": 193,
+      "current_club": "Hamburger SV",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.13,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NOR_013",
+      "name": "Egil Selvik",
+      "number": 13,
+      "position": "GK",
+      "caps": 6,
+      "age": 28,
+      "height_cm": 193,
+      "current_club": "Watford",
+      "national_league": "EFL Championship",
+      "club_league_ranking": 7.16,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NOR_014",
+      "name": "Fredrik Aursnes",
+      "number": 14,
+      "position": "CM",
+      "caps": 20,
+      "age": 30,
+      "height_cm": 179,
+      "current_club": "Benfica",
+      "national_league": "Liga Portugal",
+      "club_league_ranking": 8.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NOR_015",
+      "name": "Fredrik André Bjørkan",
+      "number": 15,
+      "position": "LB",
+      "caps": 19,
+      "age": 27,
+      "height_cm": 180,
+      "current_club": "Bodø/Glimt",
+      "national_league": "Eliteserien",
+      "club_league_ranking": 21.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NOR_016",
+      "name": "Marcus Holmgren Pedersen",
+      "number": 16,
+      "position": "RB",
+      "caps": 31,
+      "age": 25,
+      "height_cm": 182,
+      "current_club": "Torino",
+      "national_league": "Serie A",
+      "club_league_ranking": 2.12,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NOR_017",
+      "name": "Torbjørn Heggem",
+      "number": 17,
+      "position": "CB",
+      "caps": 13,
+      "age": 27,
+      "height_cm": 192,
+      "current_club": "Bologna",
+      "national_league": "Serie A",
+      "club_league_ranking": 2.8,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NOR_018",
+      "name": "Kristian Thorstvedt",
+      "number": 18,
+      "position": "CM",
+      "caps": 35,
+      "age": 27,
+      "height_cm": 189,
+      "current_club": "Sassuolo",
+      "national_league": "Serie A",
+      "club_league_ranking": 2.11,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NOR_019",
+      "name": "Thelo Aasgaard",
+      "number": 19,
+      "position": "CAM",
+      "caps": 6,
+      "age": 24,
+      "height_cm": 188,
+      "current_club": "Rangers",
+      "national_league": "Premiership",
+      "club_league_ranking": 33.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NOR_020",
+      "name": "Antonio Nusa",
+      "number": 20,
+      "position": "LM",
+      "caps": 22,
+      "age": 21,
+      "height_cm": 183,
+      "current_club": "RB Leipzig",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NOR_021",
+      "name": "Andreas Schjelderup",
+      "number": 21,
+      "position": "LM",
+      "caps": 10,
+      "age": 22,
+      "height_cm": 176,
+      "current_club": "Benfica",
+      "national_league": "Liga Portugal",
+      "club_league_ranking": 8.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NOR_022",
+      "name": "Oscar Bobb",
+      "number": 22,
+      "position": "RM",
+      "caps": 18,
+      "age": 22,
+      "height_cm": 174,
+      "current_club": "Fulham",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.11,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NOR_023",
+      "name": "Jens Petter Hauge",
+      "number": 23,
+      "position": "LM",
+      "caps": 14,
+      "age": 26,
+      "height_cm": 184,
+      "current_club": "Bodø/Glimt",
+      "national_league": "Eliteserien",
+      "club_league_ranking": 21.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NOR_024",
+      "name": "Sondre Langås",
+      "number": 24,
+      "position": "CB",
+      "caps": 2,
+      "age": 25,
+      "height_cm": 190,
+      "current_club": "Derby County",
+      "national_league": "EFL Championship",
+      "club_league_ranking": 7.8,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NOR_025",
+      "name": "Henrik Falchener",
+      "number": 25,
+      "position": "CB",
+      "caps": 1,
+      "age": 23,
+      "height_cm": 194,
+      "current_club": "Viking FK",
+      "national_league": "Eliteserien",
+      "club_league_ranking": 21.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "NOR_026",
+      "name": "Julian Ryerson",
+      "number": 26,
+      "position": "RB",
+      "caps": 41,
+      "age": 28,
+      "height_cm": 183,
+      "current_club": "Borussia Dortmund",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    }
+  ]
+}
