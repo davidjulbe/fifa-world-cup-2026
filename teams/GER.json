@@ -1,8 +1,8 @@
 {
-  "name": "Sweden",
-  "code": "SWE",
+  "name": "Germany",
+  "code": "GER",
   "confederation": "UEFA",
-  "group": "F",
+  "group": "E",
 
   "tournament_stats": {
     "matches_played": 0,
@@ -18,16 +18,16 @@
 
   "players": [
     {
-      "id": "SWE_001",
-      "name": "Jacob Widell Zetterström",
+      "id": "GER_001",
+      "name": "Manuel Neuer",
       "number": 1,
       "position": "GK",
-      "caps": 2,
-      "age": 27,
-      "height_cm": 197,
-      "current_club": "Derby County",
-      "national_league": "EFL Championship",
-      "club_league_ranking": 7.8,
+      "caps": 124,
+      "age": 40,
+      "height_cm": 193,
+      "current_club": "Bayern München",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.1,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -43,16 +43,16 @@
     },
 
     {
-      "id": "SWE_002",
-      "name": "Gustaf Lagerbielke",
+      "id": "GER_002",
+      "name": "Antonio Rüdiger",
       "number": 2,
       "position": "CB",
-      "caps": 9,
-      "age": 26,
-      "height_cm": 193,
-      "current_club": "Braga",
-      "national_league": "Liga Portugal",
-      "club_league_ranking": 8.4,
+      "caps": 82,
+      "age": 33,
+      "height_cm": 190,
+      "current_club": "Real Madrid",
+      "national_league": "La Liga",
+      "club_league_ranking": 3.2,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -67,133 +67,13 @@
     },
 
     {
-      "id": "SWE_003",
-      "name": "Victor Lindelöf",
+      "id": "GER_003",
+      "name": "Waldemar Anton",
       "number": 3,
       "position": "CB",
-      "caps": 75,
-      "age": 31,
-      "height_cm": 187,
-      "current_club": "Aston Villa",
-      "national_league": "Premier League",
-      "club_league_ranking": 1.4,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "SWE_004",
-      "name": "Isak Hien",
-      "number": 4,
-      "position": "CB",
-      "caps": 27,
-      "age": 27,
-      "height_cm": 191,
-      "current_club": "Atalanta",
-      "national_league": "Serie A",
-      "club_league_ranking": 2.7,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "SWE_005",
-      "name": "Gabriel Gudmundsson",
-      "number": 5,
-      "position": "LB",
-      "caps": 23,
-      "age": 27,
-      "height_cm": 180,
-      "current_club": "Leeds United",
-      "national_league": "Premier League",
-      "club_league_ranking": 1.14,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "SWE_006",
-      "name": "Emil Holm",
-      "number": 6,
-      "position": "RB",
-      "caps": 16,
-      "age": 26,
-      "height_cm": 192,
-      "current_club": "Juventus",
-      "national_league": "Serie A",
-      "club_league_ranking": 2.6,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "SWE_007",
-      "name": "Lucas Bergvall",
-      "number": 7,
-      "position": "CM",
-      "caps": 8,
-      "age": 26,
-      "height_cm": 187,
-      "current_club": "Tottenham Hotspur",
-      "national_league": "Premier League",
-      "club_league_ranking": 1.17,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "SWE_008",
-      "name": "Daniel Svensson",
-      "number": 8,
-      "position": "LB",
-      "caps": 11,
-      "age": 24,
-      "height_cm": 181,
+      "caps": 12,
+      "age": 29,
+      "height_cm": 189,
       "current_club": "Borussia Dortmund",
       "national_league": "Bundesliga",
       "club_league_ranking": 5.2,
@@ -211,185 +91,16 @@
     },
 
     {
-      "id": "SWE_009",
-      "name": "Alexander Isak",
-      "number": 9,
-      "position": "ST",
-      "caps": 56,
-      "age": 26,
-      "height_cm": 192,
-      "current_club": "Liverpool",
-      "national_league": "Premier League",
-      "club_league_ranking": 1.5,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "SWE_010",
-      "name": "Benjamin Nygren",
-      "number": 10,
-      "position": "CAM",
-      "caps": 9,
-      "age": 24,
-      "height_cm": 184,
-      "current_club": "Celtic",
-      "national_league": "Premiership",
-      "club_league_ranking": 33.1,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "SWE_011",
-      "name": "Anthony Elanga",
-      "number": 11,
-      "position": "RW",
-      "caps": 28,
-      "age": 24,
-      "height_cm": 178,
-      "current_club": "Newcastle United",
-      "national_league": "Premier League",
-      "club_league_ranking": 1.12,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "SWE_012",
-      "name": "Viktor Johansson",
-      "number": 12,
-      "position": "GK",
-      "caps": 12,
-      "age": 27,
-      "height_cm": 186,
-      "current_club": "Stoke City",
-      "national_league": "EFL Championship",
-      "club_league_ranking": 7.17,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "clean_sheets": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "SWE_013",
-      "name": "Ken Sema",
-      "number": 13,
-      "position": "LW",
-      "caps": 32,
-      "age": 32,
-      "height_cm": 180,
-      "current_club": "Pafos FC",
-      "national_league": "1. Division",
-      "club_league_ranking": 25.4,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "SWE_014",
-      "name": "Hjalmar Ekdal",
-      "number": 14,
+      "id": "GER_004",
+      "name": "Jonathan Tah",
+      "number": 4,
       "position": "CB",
-      "caps": 11,
-      "age": 27,
-      "height_cm": 187,
-      "current_club": "Burnley",
-      "national_league": "Premier League",
-      "club_league_ranking": 1.19,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "SWE_015",
-      "name": "Carl Starfelt",
-      "number": 15,
-      "position": "CB",
-      "caps": 17,
-      "age": 31,
-      "height_cm": 185,
-      "current_club": "Celta de Vigo",
-      "national_league": "La Liga",
-      "club_league_ranking": 3.6,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "SWE_016",
-      "name": "Jesper Karlström",
-      "number": 16,
-      "position": "CDM",
-      "caps": 23,
+      "caps": 45,
       "age": 30,
-      "height_cm": 183,
-      "current_club": "Udinese",
-      "national_league": "Serie A",
-      "club_league_ranking": 2.10,
+      "height_cm": 195,
+      "current_club": "Bayern München",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.1,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -404,13 +115,61 @@
     },
 
     {
-      "id": "SWE_017",
-      "name": "Viktor Gyökeres",
-      "number": 17,
+      "id": "GER_005",
+      "name": "Aleksandar Pavlović",
+      "number": 5,
+      "position": "CDM",
+      "caps": 9,
+      "age": 22,
+      "height_cm": 188,
+      "current_club": "Bayern München",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "GER_006",
+      "name": "Joshua Kimmich",
+      "number": 6,
+      "position": "RB",
+      "caps": 108,
+      "age": 31,
+      "height_cm": 177,
+      "current_club": "Bayern München",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "GER_007",
+      "name": "Kai Havertz",
+      "number": 7,
       "position": "ST",
-      "caps": 32,
-      "age": 28,
-      "height_cm": 189,
+      "caps": 57,
+      "age": 27,
+      "height_cm": 193,
       "current_club": "Arsenal",
       "national_league": "Premier League",
       "club_league_ranking": 1.1,
@@ -428,13 +187,134 @@
     },
 
     {
-      "id": "SWE_018",
-      "name": "Yasin Ayari",
-      "number": 18,
+      "id": "GER_008",
+      "name": "Leon Goretzka",
+      "number": 8,
       "position": "CDM",
-      "caps": 19,
-      "age": 22,
-      "height_cm": 172,
+      "caps": 69,
+      "age": 31,
+      "height_cm": 189,
+      "current_club": "Bayern München",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "GER_009",
+      "name": "Jamie Leweling",
+      "number": 9,
+      "position": "RM",
+      "caps": 4,
+      "age": 25,
+      "height_cm": 184,
+      "current_club": "Stuttgart",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.4,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "GER_010",
+      "name": "Jamal Musiala",
+      "number": 10,
+      "position": "CAM",
+      "caps": 40,
+      "age": 23,
+      "height_cm": 186,
+      "current_club": "Bayern München",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "GER_011",
+      "name": "Nick Woltemade",
+      "number": 11,
+      "position": "ST",
+      "caps": 10,
+      "age": 24,
+      "height_cm": 198,
+      "current_club": "Newcastle United",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.12,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "GER_012",
+      "name": "Oliver Baumann",
+      "number": 12,
+      "position": "GK",
+      "caps": 11,
+      "age": 36,
+      "height_cm": 187,
+      "current_club": "Hoffenheim",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.5,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "GER_013",
+      "name": "Pascal Groß",
+      "number": 13,
+      "position": "CDM",
+      "caps": 18,
+      "age": 34,
+      "height_cm": 181,
       "current_club": "Brighton & Hove Albion",
       "national_league": "Premier League",
       "club_league_ranking": 1.8,
@@ -452,88 +332,16 @@
     },
 
     {
-      "id": "SWE_019",
-      "name": "Mattias Svanberg",
-      "number": 19,
-      "position": "CM",
-      "caps": 39,
-      "age": 27,
-      "height_cm": 185,
-      "current_club": "Wolfsburg",
-      "national_league": "Bundesliga",
-      "club_league_ranking": 5.16,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "SWE_020",
-      "name": "Eric Smith",
-      "number": 20,
-      "position": "CB",
-      "caps": 0,
-      "age": 29,
-      "height_cm": 190,
-      "current_club": "St. Pauli FC",
-      "national_league": "Bundesliga",
-      "club_league_ranking": 5.18,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "SWE_021",
-      "name": "Alexander Bernhardsson",
-      "number": 21,
-      "position": "RW",
-      "caps": 9,
-      "age": 27,
-      "height_cm": 185,
-      "current_club": "Holstein Kiel",
-      "national_league": "2. Bundesliga",
-      "club_league_ranking": 30.12,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "SWE_022",
-      "name": "Besfort Zeneli",
-      "number": 22,
-      "position": "CM",
-      "caps": 6,
+      "id": "GER_014",
+      "name": "Maximilian Beier",
+      "number": 14,
+      "position": "ST",
+      "caps": 7,
       "age": 23,
       "height_cm": 183,
-      "current_club": "Union Saint-Gilloise",
-      "national_league": "Pro League",
-      "club_league_ranking": 6.2,
+      "current_club": "Borussia Dortmund",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.2,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -548,16 +356,160 @@
     },
 
     {
-      "id": "SWE_023",
-      "name": "Kristoffer Nordfeldt",
-      "number": 23,
+      "id": "GER_015",
+      "name": "Nico Schlotterbeck",
+      "number": 15,
+      "position": "CB",
+      "caps": 25,
+      "age": 26,
+      "height_cm": 191,
+      "current_club": "Borussia Dortmund",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "GER_016",
+      "name": "Angelo Stiller",
+      "number": 16,
+      "position": "CDM",
+      "caps": 7,
+      "age": 25,
+      "height_cm": 183,
+      "current_club": "Stuttgart",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.4,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "GER_017",
+      "name": "Florian Wirtz",
+      "number": 17,
+      "position": "CAM",
+      "caps": 39,
+      "age": 23,
+      "height_cm": 176,
+      "current_club": "Liverpool",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.5,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "GER_018",
+      "name": "Nathaniel Brown",
+      "number": 18,
+      "position": "LB",
+      "caps": 3,
+      "age": 22,
+      "height_cm": 176,
+      "current_club": "Eintracht Frankfurt",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.8,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "GER_019",
+      "name": "Leroy Sané",
+      "number": 19,
+      "position": "RM",
+      "caps": 74,
+      "age": 30,
+      "height_cm": 183,
+      "current_club": "Galatasaray",
+      "national_league": "Süper Lig",
+      "club_league_ranking": 16.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "GER_020",
+      "name": "Nadiem Amiri",
+      "number": 20,
+      "position": "CAM",
+      "caps": 9,
+      "age": 29,
+      "height_cm": 180,
+      "current_club": "Mainz 05",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.10,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "GER_021",
+      "name": "Alexander Nübel",
+      "number": 21,
       "position": "GK",
-      "caps": 20,
-      "age": 36,
-      "height_cm": 190,
-      "current_club": "AIK",
-      "national_league": "Allsvenskan",
-      "club_league_ranking": 17.10,
+      "caps": 3,
+      "age": 29,
+      "height_cm": 193,
+      "current_club": "Stuttgart",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.4,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -573,16 +525,16 @@
     },
 
     {
-      "id": "SWE_024",
-      "name": "Elliot Stroud",
-      "number": 24,
+      "id": "GER_022",
+      "name": "David Raum",
+      "number": 22,
       "position": "LB",
-      "caps": 0,
-      "age": 23,
-      "height_cm": 183,
-      "current_club": "Mjällby",
-      "national_league": "Allsvenskan",
-      "club_league_ranking": 17.6,
+      "caps": 36,
+      "age": 28,
+      "height_cm": 181,
+      "current_club": "RB Leipzig",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.3,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -597,16 +549,64 @@
     },
 
     {
-      "id": "SWE_025",
-      "name": "Gustaf Nilsson",
+      "id": "GER_023",
+      "name": "Felix Nmecha",
+      "number": 23,
+      "position": "CDM",
+      "caps": 6,
+      "age": 25,
+      "height_cm": 192,
+      "current_club": "Borussia Dortmund",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "GER_024",
+      "name": "Malick Thiaw",
+      "number": 24,
+      "position": "CB",
+      "caps": 5,
+      "age": 24,
+      "height_cm": 194,
+      "current_club": "Newcastle United",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.12,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "GER_025",
+      "name": "Lennart Karl",
       "number": 25,
-      "position": "ST",
-      "caps": 8,
-      "age": 29,
-      "height_cm": 197,
-      "current_club": "Club Brugge",
-      "national_league": "Pro League",
-      "club_league_ranking": 6.1,
+      "position": "CAM",
+      "caps": 2,
+      "age": 18,
+      "height_cm": 168,
+      "current_club": "Bayern München",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.1,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -621,16 +621,16 @@
     },
 
     {
-      "id": "SWE_026",
-      "name": "Taha Ali",
+      "id": "GER_026",
+      "name": "Deniz Undav",
       "number": 26,
-      "position": "LW",
-      "caps": 1,
-      "age": 27,
-      "height_cm": 174,
-      "current_club": "Malmö",
-      "national_league": "Allsvenskan",
-      "club_league_ranking": 17.9,
+      "position": "ST",
+      "caps": 7,
+      "age": 29,
+      "height_cm": 179,
+      "current_club": "Stuttgart",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.4,
 
       "tournament_stats": {
         "started_matches": 0,
