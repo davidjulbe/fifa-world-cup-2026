@@ -1,0 +1,647 @@
+{
+  "name": "Japan",
+  "code": "JPN",
+  "confederation": "AFC",
+  "group": "F",
+
+  "tournament_stats": {
+    "matches_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "goals_for": 0,
+    "goals_against": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "clean_sheets": 0
+  },
+
+  "players": [
+    {
+      "id": "JPN_001",
+      "name": "Zion Suzuki",
+      "number": 1,
+      "position": "GK",
+      "caps": 23,
+      "age": 23,
+      "height_cm": 190,
+      "current_club": "Parma",
+      "national_league": "Serie A",
+      "club_league_ranking": 2.13,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "JPN_002",
+      "name": "Yukinari Sugawara",
+      "number": 2,
+      "position": "RB",
+      "caps": 20,
+      "age": 25,
+      "height_cm": 179,
+      "current_club": "Werder Bremen",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.15,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "JPN_003",
+      "name": "Shōgo Taniguchi",
+      "number": 3,
+      "position": "CB",
+      "caps": 37,
+      "age": 34,
+      "height_cm": 183,
+      "current_club": "Sint-Truidense",
+      "national_league": "Pro League",
+      "club_league_ranking": 6.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "JPN_004",
+      "name": "Kō Itakura",
+      "number": 4,
+      "position": "CB",
+      "caps": 39,
+      "age": 29,
+      "height_cm": 188,
+      "current_club": "Ajax",
+      "national_league": "Erdedivisie",
+      "club_league_ranking": 11.5,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "JPN_005",
+      "name": "Yūto Nagatomo",
+      "number": 5,
+      "position": "LB",
+      "caps": 144,
+      "age": 39,
+      "height_cm": 170,
+      "current_club": "FC Tokyo",
+      "national_league": "J. League",
+      "club_league_ranking": 15.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "JPN_006",
+      "name": "Wataru Endo",
+      "number": 6,
+      "position": "CDM",
+      "caps": 72,
+      "age": 33,
+      "height_cm": 178,
+      "current_club": "Liverpool",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.5,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "JPN_007",
+      "name": "Ao Tanaka",
+      "number": 7,
+      "position": "CM",
+      "caps": 37,
+      "age": 27,
+      "height_cm": 180,
+      "current_club": "Leeds United",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.14,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "JPN_008",
+      "name": "Takefusa Kubo",
+      "number": 8,
+      "position": "RM",
+      "caps": 48,
+      "age": 25,
+      "height_cm": 173,
+      "current_club": "Real Sociedad",
+      "national_league": "La Liga",
+      "club_league_ranking": 3.10,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "JPN_009",
+      "name": "Keisuke Gotō",
+      "number": 9,
+      "position": "ST",
+      "caps": 3,
+      "age": 21,
+      "height_cm": 191,
+      "current_club": "Sint-Truidense",
+      "national_league": "Pro League",
+      "club_league_ranking": 6.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "JPN_010",
+      "name": "Ritsu Dōan",
+      "number": 10,
+      "position": "RM",
+      "caps": 64,
+      "age": 27,
+      "height_cm": 172,
+      "current_club": "Eintracht Frankfurt",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.8,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "JPN_011",
+      "name": "Daizen Maeda",
+      "number": 11,
+      "position": "LW",
+      "caps": 27,
+      "age": 28,
+      "height_cm": 173,
+      "current_club": "Celtic",
+      "national_league": "Premiership",
+      "club_league_ranking": 33.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "JPN_012",
+      "name": "Keisuke Ōsako",
+      "number": 12,
+      "position": "GK",
+      "caps": 11,
+      "age": 26,
+      "height_cm": 187,
+      "current_club": "Sanfrecce Hiroshima",
+      "national_league": "J. League",
+      "club_league_ranking": 15.7,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "JPN_013",
+      "name": "Keito Nakamura",
+      "number": 13,
+      "position": "LM",
+      "caps": 24,
+      "age": 25,
+      "height_cm": 180,
+      "current_club": "Stade de Reims",
+      "national_league": "Ligue 2",
+      "club_league_ranking": 34.6,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "JPN_014",
+      "name": "Junya Itō",
+      "number": 14,
+      "position": "RM",
+      "caps": 68,
+      "age": 33,
+      "height_cm": 176,
+      "current_club": "Genk",
+      "national_league": "Pro League",
+      "club_league_ranking": 6.7,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "JPN_015",
+      "name": "Daichi Kamada",
+      "number": 15,
+      "position": "CM",
+      "caps": 49,
+      "age": 29,
+      "height_cm": 184,
+      "current_club": "Crystal Palace",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.15,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "JPN_016",
+      "name": "Tsuyoshi Watanabe",
+      "number": 16,
+      "position": "CB",
+      "caps": 10,
+      "age": 29,
+      "height_cm": 186,
+      "current_club": "Feyenoord",
+      "national_league": "Erdedivisie",
+      "club_league_ranking": 11.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "JPN_017",
+      "name": "Yuito Suzuki",
+      "number": 17,
+      "position": "CAM",
+      "caps": 6,
+      "age": 24,
+      "height_cm": 175,
+      "current_club": "Freiburg",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.7,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "JPN_018",
+      "name": "Ayase Ueda",
+      "number": 18,
+      "position": "ST",
+      "caps": 38,
+      "age": 27,
+      "height_cm": 182,
+      "current_club": "Feyenoord",
+      "national_league": "Erdedivisie",
+      "club_league_ranking": 11.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "JPN_019",
+      "name": "Kōki Ogawa",
+      "number": 19,
+      "position": "ST",
+      "caps": 14,
+      "age": 28,
+      "height_cm": 186,
+      "current_club": "NEC Nijmegen",
+      "national_league": "Erdedivisie",
+      "club_league_ranking": 11.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "JPN_020",
+      "name": "Ayumu Seko",
+      "number": 20,
+      "position": "CB",
+      "caps": 13,
+      "age": 26,
+      "height_cm": 185,
+      "current_club": "Le Havre",
+      "national_league": "Ligue 1",
+      "club_league_ranking": 4.14,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "JPN_021",
+      "name": "Hiroki Itō",
+      "number": 21,
+      "position": "CB",
+      "caps": 23,
+      "age": 27,
+      "height_cm": 188,
+      "current_club": "Bayern München",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "JPN_022",
+      "name": "Takehiro Tomiyasu",
+      "number": 22,
+      "position": "RB",
+      "caps": 42,
+      "age": 27,
+      "height_cm": 188,
+      "current_club": "Ajax",
+      "national_league": "Erdedivisie",
+      "club_league_ranking": 11.5,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "JPN_023",
+      "name": "Tomoki Hayakawa",
+      "number": 23,
+      "position": "GK",
+      "caps": 3,
+      "age": 27,
+      "height_cm": 187,
+      "current_club": "Kashima Antlers",
+      "national_league": "J. League",
+      "club_league_ranking": 15.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "JPN_024",
+      "name": "Kaishū Sano",
+      "number": 24,
+      "position": "CDM",
+      "caps": 12,
+      "age": 25,
+      "height_cm": 176,
+      "current_club": "Mainz 05",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.10,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "JPN_025",
+      "name": "Junnosuke Suzuki",
+      "number": 25,
+      "position": "CB",
+      "caps": 6,
+      "age": 22,
+      "height_cm": 180,
+      "current_club": "F.C. København",
+      "national_league": "Superligaen",
+      "club_league_ranking": 12.7,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "JPN_026",
+      "name": "Kento Shiogai",
+      "number": 26,
+      "position": "ST",
+      "caps": 1,
+      "age": 21,
+      "height_cm": 180,
+      "current_club": "Wolfsburg",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.16,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    }
+  ]
+}
