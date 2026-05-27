@@ -1,8 +1,8 @@
 {
-  "name": "New Zealand",
-  "code": "NZL",
-  "confederation": "OFC",
-  "group": "G",
+  "name": "United States of America",
+  "code": "USA",
+  "confederation": "CONCACAF",
+  "group": "D",
 
   "tournament_stats": {
     "matches_played": 0,
@@ -18,16 +18,16 @@
 
   "players": [
     {
-      "id": "NZL_001",
-      "name": "Max Crocombe",
+      "id": "USA_001",
+      "name": "Matt Turner",
       "number": 1,
       "position": "GK",
-      "caps": 22,
-      "age": 32,
-      "height_cm": 194,
-      "current_club": "Millwall FC",
-      "national_league": "EFL Championship",
-      "club_league_ranking": 7.3,
+      "caps": 53,
+      "age": 31,
+      "height_cm": 191,
+      "current_club": "New England Revolution",
+      "national_league": "MLS",
+      "club_league_ranking": 10.7,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -43,16 +43,16 @@
     },
 
     {
-      "id": "NZL_002",
-      "name": "Tim Payne",
+      "id": "USA_002",
+      "name": "Sergiño Dest",
       "number": 2,
       "position": "RB",
-      "caps": 49,
-      "age": 32,
-      "height_cm": 179,
-      "current_club": "Wellington Phoenix",
-      "national_league": "A-League",
-      "club_league_ranking": 54.8,
+      "caps": 37,
+      "age": 25,
+      "height_cm": 171,
+      "current_club": "PSV",
+      "national_league": "Eredivisie",
+      "club_league_ranking": 11.1,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -67,16 +67,16 @@
     },
 
     {
-      "id": "NZL_003",
-      "name": "Francis de Vries",
+      "id": "USA_003",
+      "name": "Chris Richards",
       "number": 3,
-      "position": "LB",
-      "caps": 18,
-      "age": 31,
+      "position": "CB",
+      "caps": 36,
+      "age": 26,
       "height_cm": 188,
-      "current_club": "Auckland FC",
-      "national_league": "A-League",
-      "club_league_ranking": 54.3,
+      "current_club": "Crystal Palace",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.15,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -91,64 +91,16 @@
     },
 
     {
-      "id": "NZL_004",
-      "name": "Tyler Bindon",
+      "id": "USA_004",
+      "name": "Tyler Adams",
       "number": 4,
-      "position": "CB",
-      "caps": 23,
-      "age": 21,
-      "height_cm": 190,
-      "current_club": "Sheffield United",
-      "national_league": "EFL Championship",
-      "club_league_ranking": 7.13,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "NZL_005",
-      "name": "Michael Boxall",
-      "number": 5,
-      "position": "CB",
-      "caps": 61,
-      "age": 37,
-      "height_cm": 191,
-      "current_club": "Minnesota United FC",
-      "national_league": "MLS",
-      "club_league_ranking": 10.12,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "NZL_006",
-      "name": "Joe Bell",
-      "number": 6,
       "position": "CDM",
-      "caps": 31,
+      "caps": 52,
       "age": 27,
-      "height_cm": 182,
-      "current_club": "Viking FK",
-      "national_league": "Eliteserien",
-      "club_league_ranking": 21.1,
+      "height_cm": 175,
+      "current_club": "Bournemouth",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.6,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -163,16 +115,64 @@
     },
 
     {
-      "id": "NZL_007",
-      "name": "Matthew Garbett",
+      "id": "USA_005",
+      "name": "Antonee Robinson",
+      "number": 5,
+      "position": "LB",
+      "caps": 52,
+      "age": 28,
+      "height_cm": 183,
+      "current_club": "Fulham",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.11,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "USA_006",
+      "name": "Auston Trusty",
+      "number": 6,
+      "position": "CB",
+      "caps": 6,
+      "age": 27,
+      "height_cm": 191,
+      "current_club": "Celtic",
+      "national_league": "Premiership",
+      "club_league_ranking": 33.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "USA_007",
+      "name": "Giovanni Reyna",
       "number": 7,
       "position": "CAM",
-      "caps": 35,
-      "age": 24,
-      "height_cm": 188,
-      "current_club": "Peterborough United",
-      "national_league": "EFL League One",
-      "club_league_ranking": 41.18,
+      "caps": 36,
+      "age": 23,
+      "height_cm": 185,
+      "current_club": "Borussia Mönchengladbach",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.12,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -187,16 +187,16 @@
     },
 
     {
-      "id": "NZL_008",
-      "name": "Marko Stamenić",
+      "id": "USA_008",
+      "name": "Weston McKennie",
       "number": 8,
-      "position": "CDM",
-      "caps": 37,
-      "age": 24,
-      "height_cm": 188,
-      "current_club": "Swansea City",
-      "national_league": "EFL Championship",
-      "club_league_ranking": 7.11,
+      "position": "CM",
+      "caps": 64,
+      "age": 27,
+      "height_cm": 185,
+      "current_club": "Juventus",
+      "national_league": "Serie A",
+      "club_league_ranking": 2.6,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -211,113 +211,16 @@
     },
 
     {
-      "id": "NZL_009",
-      "name": "Chris Wood",
+      "id": "USA_009",
+      "name": "Ricardo Pepi",
       "number": 9,
       "position": "ST",
-      "caps": 88,
-      "age": 34,
-      "height_cm": 191,
-      "current_club": "Nottingham Forest",
-      "national_league": "Premier League",
-      "club_league_ranking": 1.16,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "NZL_010",
-      "name": "Sarpreet Singh",
-      "number": 10,
-      "position": "RM",
-      "caps": 26,
-      "age": 27,
-      "height_cm": 180,
-      "current_club": "Wellington Phoenix",
-      "national_league": "A-League",
-      "club_league_ranking": 54.8,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "NZL_011",
-      "name": "Elijah Just",
-      "number": 11,
-      "position": "LM",
-      "caps": 42,
-      "age": 26,
-      "height_cm": 174,
-      "current_club": "Motherwell",
-      "national_league": "Premiership",
-      "club_league_ranking": 33.4,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "NZL_012",
-      "name": "Alex Paulsen",
-      "number": 12,
-      "position": "GK",
-      "caps": 6,
-      "age": 23,
-      "height_cm": 184,
-      "current_club": "Lechia Gdańsk",
-      "national_league": "Ekstraklasa",
-      "club_league_ranking": 13.16,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "clean_sheets": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "NZL_013",
-      "name": "Liberato Cacace",
-      "number": 13,
-      "position": "LB",
       "caps": 35,
-      "age": 25,
-      "height_cm": 183,
-      "current_club": "Wrexham",
-      "national_league": "EFL Championship",
-      "club_league_ranking": 7.7,
+      "age": 23,
+      "height_cm": 185,
+      "current_club": "PSV",
+      "national_league": "Eredivisie",
+      "club_league_ranking": 11.1,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -332,16 +235,112 @@
     },
 
     {
-      "id": "NZL_014",
-      "name": "Alex Rufer",
+      "id": "USA_010",
+      "name": "Christian Pulisic",
+      "number": 10,
+      "position": "RW",
+      "caps": 84,
+      "age": 27,
+      "height_cm": 178,
+      "current_club": "AC Milan",
+      "national_league": "Serie A",
+      "club_league_ranking": 2.5,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "USA_011",
+      "name": "Brenden Aaronson",
+      "number": 11,
+      "position": "RM",
+      "caps": 57,
+      "age": 25,
+      "height_cm": 177,
+      "current_club": "Leeds United",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.14,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "USA_012",
+      "name": "Miles Robinson",
+      "number": 12,
+      "position": "CB",
+      "caps": 38,
+      "age": 29,
+      "height_cm": 188,
+      "current_club": "FC Cincinnati",
+      "national_league": "MLS",
+      "club_league_ranking": 10.16,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "USA_013",
+      "name": "Tim Ream",
+      "number": 13,
+      "position": "CB",
+      "caps": 80,
+      "age": 38,
+      "height_cm": 185,
+      "current_club": "Charlotte FC",
+      "national_league": "MLS",
+      "club_league_ranking": 10.14,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "USA_014",
+      "name": "Sebastian Berhalter",
       "number": 14,
       "position": "CM",
-      "caps": 24,
-      "age": 29,
-      "height_cm": 184,
-      "current_club": "Wellington Phoenix",
-      "national_league": "A-League",
-      "club_league_ranking": 54.8,
+      "caps": 11,
+      "age": 25,
+      "height_cm": 175,
+      "current_club": "Vancouver Whitecaps FC",
+      "national_league": "MLS",
+      "club_league_ranking": 10.2,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -356,184 +355,232 @@
     },
 
     {
-      "id": "NZL_015",
-      "name": "Nando Pijnaker",
+      "id": "USA_015",
+      "name": "Cristian Roldan",
       "number": 15,
+      "position": "CDM",
+      "caps": 45,
+      "age": 31,
+      "height_cm": 172,
+      "current_club": "Seattle Sounders FC",
+      "national_league": "MLS",
+      "club_league_ranking": 10.10,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "USA_016",
+      "name": "Alex Freeman",
+      "number": 16,
+      "position": "RB",
+      "caps": 15,
+      "age": 21,
+      "height_cm": 188,
+      "current_club": "Villarreal",
+      "national_league": "La Liga",
+      "club_league_ranking": 3.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "USA_017",
+      "name": "Malik Tillman",
+      "number": 17,
+      "position": "CAM",
+      "caps": 28,
+      "age": 24,
+      "height_cm": 187,
+      "current_club": "Bayer Leverkusen",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.6,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "USA_018",
+      "name": "Maximilian Arfsten",
+      "number": 18,
+      "position": "LB",
+      "caps": 18,
+      "age": 25,
+      "height_cm": 185,
+      "current_club": "Columbus Crew",
+      "national_league": "MLS",
+      "club_league_ranking": 10.21,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "USA_019",
+      "name": "Haji Wright",
+      "number": 19,
+      "position": "ST",
+      "caps": 20,
+      "age": 28,
+      "height_cm": 193,
+      "current_club": "Coventry City",
+      "national_league": "EFL Championship",
+      "club_league_ranking": 7.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "USA_020",
+      "name": "Folarin Balogun",
+      "number": 20,
+      "position": "ST",
+      "caps": 25,
+      "age": 24,
+      "height_cm": 178,
+      "current_club": "Monaco",
+      "national_league": "Ligue 1",
+      "club_league_ranking": 4.7,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "USA_021",
+      "name": "Timothy Weah",
+      "number": 21,
+      "position": "RM",
+      "caps": 49,
+      "age": 26,
+      "height_cm": 182,
+      "current_club": "Olympique de Marseille",
+      "national_league": "Ligue 1",
+      "club_league_ranking": 4.5,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "USA_022",
+      "name": "Mark McKenzie",
+      "number": 22,
       "position": "CB",
-      "caps": 23,
+      "caps": 27,
+      "age": 27,
+      "height_cm": 184,
+      "current_club": "Toulouse",
+      "national_league": "Ligue 1",
+      "club_league_ranking": 4.10,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "USA_023",
+      "name": "Joe Scally",
+      "number": 23,
+      "position": "RB",
+      "caps": 24,
+      "age": 23,
+      "height_cm": 184,
+      "current_club": "Borussia Mönchengladbach",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.12,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "USA_024",
+      "name": "Matt Freese",
+      "number": 24,
+      "position": "GK",
+      "caps": 14,
       "age": 27,
       "height_cm": 191,
-      "current_club": "Auckland FC",
-      "national_league": "A-League",
-      "club_league_ranking": 54.3,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "NZL_016",
-      "name": "Finn Surman",
-      "number": 16,
-      "position": "CB",
-      "caps": 17,
-      "age": 22,
-      "height_cm": 190,
-      "current_club": "Portland Timbers",
+      "current_club": "New York City FC",
       "national_league": "MLS",
-      "club_league_ranking": 10.23,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "NZL_017",
-      "name": "Kosta Barbarouses",
-      "number": 17,
-      "position": "RW",
-      "caps": 74,
-      "age": 36,
-      "height_cm": 171,
-      "current_club": "Western Sydney Wanderers",
-      "national_league": "A-League",
-      "club_league_ranking": 54.12,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "NZL_018",
-      "name": "Ben Waine",
-      "number": 18,
-      "position": "ST",
-      "caps": 30,
-      "age": 26,
-      "height_cm": 179,
-      "current_club": "Port Vale",
-      "national_league": "EFL League One",
-      "club_league_ranking": 41.22,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "NZL_019",
-      "name": "Ben Old",
-      "number": 19,
-      "position": "LM",
-      "caps": 22,
-      "age": 23,
-      "height_cm": 173,
-      "current_club": "Saint-Étienne",
-      "national_league": "Ligue 2",
-      "club_league_ranking": 34.3,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "NZL_020",
-      "name": "Callum McCowatt",
-      "number": 20,
-      "position": "RM",
-      "caps": 30,
-      "age": 27,
-      "height_cm": 179,
-      "current_club": "Silkeborg",
-      "national_league": "Superligaen",
-      "club_league_ranking": 12.9,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "NZL_021",
-      "name": "Jesse Randall",
-      "number": 21,
-      "position": "LW",
-      "caps": 9,
-      "age": 23,
-      "height_cm": 176,
-      "current_club": "Auckland FC",
-      "national_league": "A-League",
-      "club_league_ranking": 54.3,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "NZL_022",
-      "name": "Michael Woud",
-      "number": 22,
-      "position": "GK",
-      "caps": 6,
-      "age": 27,
-      "height_cm": 196,
-      "current_club": "Auckland FC",
-      "national_league": "A-League",
-      "club_league_ranking": 54.3,
+      "club_league_ranking": 10.17,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -549,64 +596,16 @@
     },
 
     {
-      "id": "NZL_023",
-      "name": "Ryan Thomas",
-      "number": 23,
-      "position": "CM",
-      "caps": 25,
-      "age": 31,
-      "height_cm": 176,
-      "current_club": "PEC Zwolle",
-      "national_league": "Eredivisie",
-      "club_league_ranking": 11.15,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "NZL_024",
-      "name": "Callan Elliot",
-      "number": 24,
-      "position": "RB",
-      "caps": 9,
-      "age": 26,
-      "height_cm": 177,
-      "current_club": "Auckland FC",
-      "national_league": "A-League",
-      "club_league_ranking": 54.3,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "NZL_025",
-      "name": "Lachlan Bayliss",
+      "id": "USA_025",
+      "name": "Chris Brady",
       "number": 25,
-      "position": "CM",
-      "caps": 2,
-      "age": 23,
-      "height_cm": 178,
-      "current_club": "Newcastle Jets",
-      "national_league": "A-League",
-      "club_league_ranking": 54.1,
+      "position": "GK",
+      "caps": 0,
+      "age": 22,
+      "height_cm": 190,
+      "current_club": "Chicago Fire FC",
+      "national_league": "MLS",
+      "club_league_ranking": 10.5,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -616,21 +615,22 @@
         "assists": 0,
         "yellow_cards": 0,
         "red_cards": 0,
+        "clean_sheets": 0,
         "rating": 6.0
       }
     },
 
     {
-      "id": "NZL_026",
-      "name": "Tommy Smith",
+      "id": "USA_026",
+      "name": "Alejandro Zendejas",
       "number": 26,
-      "position": "CB",
-      "caps": 56,
-      "age": 36,
-      "height_cm": 188,
-      "current_club": "Braintree Town",
-      "national_league": "National League",
-      "club_league_ranking": 77.23,
+      "position": "RW",
+      "caps": 13,
+      "age": 28,
+      "height_cm": 167,
+      "current_club": "Club América",
+      "national_league": "Liga MX",
+      "club_league_ranking": 19.8,
 
       "tournament_stats": {
         "started_matches": 0,
