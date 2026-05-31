@@ -1,0 +1,647 @@
+{
+  "name": "Brazil",
+  "code": "BRA",
+  "confederation": "CONMEBOL",
+  "group": "C",
+
+  "tournament_stats": {
+    "matches_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "goals_for": 0,
+    "goals_against": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "clean_sheets": 0
+  },
+
+  "players": [
+    {
+      "id": "BRA_001",
+      "name": "Alisson Becker",
+      "number": 1,
+      "position": "GK",
+      "caps": 76,
+      "age": 33,
+      "height_cm": 193,
+      "current_club": "Liverpool",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.5,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BRA_002",
+      "name": "Wesley França",
+      "number": 2,
+      "position": "RB",
+      "caps": 6,
+      "age": 22,
+      "height_cm": 178,
+      "current_club": "Roma",
+      "national_league": "Serie A",
+      "club_league_ranking": 2.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BRA_003",
+      "name": "Gabriel Magalhães",
+      "number": 3,
+      "position": "CB",
+      "caps": 17,
+      "age": 28,
+      "height_cm": 190,
+      "current_club": "Arsenal",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BRA_004",
+      "name": "Marquinhos Corrêa",
+      "number": 4,
+      "position": "CB",
+      "caps": 104,
+      "age": 32,
+      "height_cm": 183,
+      "current_club": "Paris Saint-Germain",
+      "national_league": "Ligue 1",
+      "club_league_ranking": 4.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BRA_005",
+      "name": "Carlos Henrique Casemiro",
+      "number": 5,
+      "position": "CDM",
+      "caps": 84,
+      "age": 34,
+      "height_cm": 185,
+      "current_club": "Manchester United",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BRA_006",
+      "name": "Alex Sandro da Silva",
+      "number": 6,
+      "position": "LB",
+      "caps": 43,
+      "age": 35,
+      "height_cm": 180,
+      "current_club": "Flamengo",
+      "national_league": "Brazilian Serie A",
+      "club_league_ranking": 9.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BRA_007",
+      "name": "Vinícius Júnior",
+      "number": 7,
+      "position": "LW",
+      "caps": 47,
+      "age": 25,
+      "height_cm": 176,
+      "current_club": "Real Madrid",
+      "national_league": "La Liga",
+      "club_league_ranking": 3.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BRA_008",
+      "name": "Bruno Guimarães",
+      "number": 8,
+      "position": "CM",
+      "caps": 41,
+      "age": 28,
+      "height_cm": 182,
+      "current_club": "Newcastle United",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.12,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BRA_009",
+      "name": "Matheus Cunha",
+      "number": 9,
+      "position": "ST",
+      "caps": 21,
+      "age": 27,
+      "height_cm": 183,
+      "current_club": "Manchester United",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BRA_010",
+      "name": "Neymar Júnior",
+      "number": 10,
+      "position": "LW",
+      "caps": 128,
+      "age": 34,
+      "height_cm": 175,
+      "current_club": "Santos",
+      "national_league": "Brazilian Serie A",
+      "club_league_ranking": 9.15,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BRA_011",
+      "name": "Raphinha Belloli",
+      "number": 11,
+      "position": "LW",
+      "caps": 37,
+      "age": 29,
+      "height_cm": 176,
+      "current_club": "FC Barcelona",
+      "national_league": "La Liga",
+      "club_league_ranking": 3.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BRA_012",
+      "name": "Weverton da Silva",
+      "number": 12,
+      "position": "GK",
+      "caps": 10,
+      "age": 38,
+      "height_cm": 189,
+      "current_club": "Grêmio",
+      "national_league": "Brazilian Serie A",
+      "club_league_ranking": 9.16,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BRA_013",
+      "name": "Danilo Luiz",
+      "number": 13,
+      "position": "RB",
+      "caps": 68,
+      "age": 34,
+      "height_cm": 184,
+      "current_club": "Flamengo",
+      "national_league": "Brazilian Serie A",
+      "club_league_ranking": 9.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BRA_014",
+      "name": "Gleison Bremer",
+      "number": 14,
+      "position": "CB",
+      "caps": 6,
+      "age": 29,
+      "height_cm": 188,
+      "current_club": "Juventus",
+      "national_league": "Serie A",
+      "club_league_ranking": 2.6,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BRA_015",
+      "name": "Léo Pereira",
+      "number": 15,
+      "position": "CB",
+      "caps": 2,
+      "age": 30,
+      "height_cm": 188,
+      "current_club": "Flamengo",
+      "national_league": "Brazilian Serie A",
+      "club_league_ranking": 9.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BRA_016",
+      "name": "Douglas Santos",
+      "number": 16,
+      "position": "LB",
+      "caps": 5,
+      "age": 32,
+      "height_cm": 175,
+      "current_club": "Zenit Saint Petersburg",
+      "national_league": "Russian Premier League",
+      "club_league_ranking": 22.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BRA_017",
+      "name": "Fabinho Tavares",
+      "number": 17,
+      "position": "CDM",
+      "caps": 31,
+      "age": 32,
+      "height_cm": 188,
+      "current_club": "Al-Ittihad",
+      "national_league": "Saudi Pro League",
+      "club_league_ranking": 36.5,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BRA_018",
+      "name": "Danilo Santos",
+      "number": 18,
+      "position": "CM",
+      "caps": 2,
+      "age": 25,
+      "height_cm": 176,
+      "current_club": "Botafogo",
+      "national_league": "Brazilian Serie A",
+      "club_league_ranking": 9.12,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BRA_019",
+      "name": "Endrick de Sousa",
+      "number": 19,
+      "position": "ST",
+      "caps": 15,
+      "age": 19,
+      "height_cm": 173,
+      "current_club": "Olympique Lyonnais",
+      "national_league": "Ligue 1",
+      "club_league_ranking": 4.4,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BRA_020",
+      "name": "Lucas Paquetá",
+      "number": 20,
+      "position": "CAM",
+      "caps": 61,
+      "age": 28,
+      "height_cm": 180,
+      "current_club": "Flamengo",
+      "national_league": "Brazilian Serie A",
+      "club_league_ranking": 9.12,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BRA_021",
+      "name": "Luiz Henrique da Silva",
+      "number": 21,
+      "position": "RW",
+      "caps": 13,
+      "age": 25,
+      "height_cm": 182,
+      "current_club": "Zenit Saint Petersburg",
+      "national_league": "Russian Premier League",
+      "club_league_ranking": 22.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BRA_022",
+      "name": "Gabriel Martinelli",
+      "number": 22,
+      "position": "LW",
+      "caps": 22,
+      "age": 24,
+      "height_cm": 178,
+      "current_club": "Arsenal",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BRA_023",
+      "name": "Ederson Moraes",
+      "number": 23,
+      "position": "GK",
+      "caps": 31,
+      "age": 32,
+      "height_cm": 188,
+      "current_club": "Fenerbahçe",
+      "national_league": "Süper Lig",
+      "club_league_ranking": 16.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BRA_024",
+      "name": "Roger Ibañez",
+      "number": 24,
+      "position": "CB",
+      "caps": 5,
+      "age": 27,
+      "height_cm": 185,
+      "current_club": "Al-Ahli",
+      "national_league": "Saudi Pro League",
+      "club_league_ranking": 36.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BRA_025",
+      "name": "Igor Thiago Rodrigues",
+      "number": 25,
+      "position": "ST",
+      "caps": 2,
+      "age": 24,
+      "height_cm": 191,
+      "current_club": "Brentford",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.9,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BRA_026",
+      "name": "Rayan Rocha",
+      "number": 26,
+      "position": "RW",
+      "caps": 1,
+      "age": 19,
+      "height_cm": 186,
+      "current_club": "Bournemouth",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.6,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    }
+  ]
+}
