@@ -1,8 +1,8 @@
 {
-  "name": "Curaçao",
-  "code": "CUW",
-  "confederation": "CONCACAF",
-  "group": "E",
+  "name": "Australia",
+  "code": "AUS",
+  "confederation": "AFC",
+  "group": "D",
 
   "tournament_stats": {
     "matches_played": 0,
@@ -18,16 +18,16 @@
 
   "players": [
     {
-      "id": "CUW_001",
-      "name": "Eloy Room",
+      "id": "AUS_001",
+      "name": "Mathew Ryan",
       "number": 1,
       "position": "GK",
-      "caps": 71,
-      "age": 37,
-      "height_cm": 190,
-      "current_club": "Miami FC",
-      "national_league": "USL Championship",
-      "club_league_ranking": 75.11,
+      "caps": 104,
+      "age": 34,
+      "height_cm": 184,
+      "current_club": "Levante",
+      "national_league": "La Liga",
+      "club_league_ranking": 3.16,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -43,16 +43,16 @@
     },
 
     {
-      "id": "CUW_002",
-      "name": "Shurandy Sambo",
+      "id": "AUS_002",
+      "name": "Miloš Degenek",
       "number": 2,
-      "position": "RB",
-      "caps": 7,
-      "age": 24,
-      "height_cm": 174,
-      "current_club": "Sparta Rotterdam",
-      "national_league": "Eredivisie",
-      "club_league_ranking": 11.10,
+      "position": "CB",
+      "caps": 56,
+      "age": 32,
+      "height_cm": 187,
+      "current_club": "APOEL",
+      "national_league": "1. Division",
+      "club_league_ranking": 25.5,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -67,16 +67,16 @@
     },
 
     {
-      "id": "CUW_003",
-      "name": "Juriën Gaari",
+      "id": "AUS_003",
+      "name": "Alessandro Circati",
       "number": 3,
       "position": "CB",
-      "caps": 59,
-      "age": 32,
-      "height_cm": 183,
-      "current_club": "Abha FC",
-      "national_league": "Saudi First Division",
-      "club_league_ranking": 78.1,
+      "caps": 12,
+      "age": 22,
+      "height_cm": 190,
+      "current_club": "Parma",
+      "national_league": "Serie A",
+      "club_league_ranking": 2.13,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -91,16 +91,16 @@
     },
 
     {
-      "id": "CUW_004",
-      "name": "Roshon van Eijma",
+      "id": "AUS_004",
+      "name": "Jacob Italiano",
       "number": 4,
-      "position": "CB",
-      "caps": 27,
-      "age": 28,
-      "height_cm": 186,
-      "current_club": "RKC Waalwijk",
-      "national_league": "Eerste Divisie",
-      "club_league_ranking": 71.6,
+      "position": "RB",
+      "caps": 4,
+      "age": 24,
+      "height_cm": 177,
+      "current_club": "Grazer AK",
+      "national_league": "Austrian Bundesliga",
+      "club_league_ranking": 23.10,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -115,16 +115,16 @@
     },
 
     {
-      "id": "CUW_005",
-      "name": "Sherel Floranus",
+      "id": "AUS_005",
+      "name": "Jordan Bos",
       "number": 5,
       "position": "LB",
-      "caps": 27,
-      "age": 27,
-      "height_cm": 181,
-      "current_club": "PEC Zwolle",
-      "national_league": "Eredivisie",
-      "club_league_ranking": 11.15,
+      "caps": 26,
+      "age": 23,
+      "height_cm": 180,
+      "current_club": "Feyenoord",
+      "national_league": "Erdedivisie",
+      "club_league_ranking": 11.2,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -139,16 +139,16 @@
     },
 
     {
-      "id": "CUW_006",
-      "name": "Godfried Roemeratoe",
+      "id": "AUS_006",
+      "name": "Jason Geria",
       "number": 6,
-      "position": "CDM",
-      "caps": 27,
-      "age": 26,
-      "height_cm": 178,
-      "current_club": "RKC Waalwijk",
-      "national_league": "Eerste Divisie",
-      "club_league_ranking": 71.6,
+      "position": "RB",
+      "caps": 13,
+      "age": 33,
+      "height_cm": 184,
+      "current_club": "Albrirex Niigata",
+      "national_league": "J2. League",
+      "club_league_ranking": 81.6,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -163,16 +163,16 @@
     },
 
     {
-      "id": "CUW_007",
-      "name": "Juninho Bacuna",
+      "id": "AUS_007",
+      "name": "Mathew Leckie",
       "number": 7,
-      "position": "CM",
-      "caps": 48,
-      "age": 28,
-      "height_cm": 178,
-      "current_club": "Volendam",
-      "national_league": "Eredivisie",
-      "club_league_ranking": 11.16,
+      "position": "LW",
+      "caps": 79,
+      "age": 35,
+      "height_cm": 181,
+      "current_club": "Melbourne City",
+      "national_league": "A-League",
+      "club_league_ranking": 54.6,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -187,16 +187,16 @@
     },
 
     {
-      "id": "CUW_008",
-      "name": "Livano Comenencia",
+      "id": "AUS_008",
+      "name": "Connor Metcalfe",
       "number": 8,
-      "position": "CDM",
-      "caps": 19,
-      "age": 22,
-      "height_cm": 187,
-      "current_club": "Zürich",
-      "national_league": "Swiss Super League",
-      "club_league_ranking": 24.10,
+      "position": "CM",
+      "caps": 35,
+      "age": 26,
+      "height_cm": 183,
+      "current_club": "St. Pauli FC",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.18,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -211,16 +211,16 @@
     },
 
     {
-      "id": "CUW_009",
-      "name": "Jürgen Locadia",
+      "id": "AUS_009",
+      "name": "Mohamed Touré",
       "number": 9,
       "position": "ST",
-      "caps": 13,
-      "age": 32,
-      "height_cm": 185,
-      "current_club": "Miami FC",
-      "national_league": "USL Championship",
-      "club_league_ranking": 75.11,
+      "caps": 9,
+      "age": 24,
+      "height_cm": 186,
+      "current_club": "Norwich City",
+      "national_league": "EFL Championship",
+      "club_league_ranking": 7.9,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -235,112 +235,40 @@
     },
 
     {
-      "id": "CUW_010",
-      "name": "Leandro Bacuna",
+      "id": "AUS_010",
+      "name": "Ajdin Hrustic",
       "number": 10,
       "position": "CM",
-      "caps": 71,
-      "age": 34,
-      "height_cm": 187,
-      "current_club": "Iğdır",
-      "national_league": "TFF 1. Lig",
-      "club_league_ranking": 79.13,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CUW_011",
-      "name": "Jeremy Antonisse",
-      "number": 11,
-      "position": "LW",
-      "caps": 26,
-      "age": 24,
-      "height_cm": 184,
-      "current_club": "Kifisia",
-      "national_league": "Greek Super League",
-      "club_league_ranking": 32.10,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CUW_012",
-      "name": "Sontje Hansen",
-      "number": 12,
-      "position": "RW",
-      "caps": 5,
-      "age": 24,
-      "height_cm": 173,
-      "current_club": "Middlesbrough",
-      "national_league": "EFL Championship",
-      "club_league_ranking": 7.5,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CUW_013",
-      "name": "Tyrese Noslin",
-      "number": 13,
-      "position": "RM",
-      "caps": 6,
-      "age": 23,
-      "height_cm": 182,
-      "current_club": "Telstar",
-      "national_league": "Eredivisie",
-      "club_league_ranking": 11.14,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CUW_014",
-      "name": "Kenji Gorré",
-      "number": 14,
-      "position": "LW",
       "caps": 37,
-      "age": 31,
+      "age": 29,
+      "height_cm": 183,
+      "current_club": "Heracles Almelo",
+      "national_league": "Eredivisie",
+      "club_league_ranking": 11.18,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "AUS_011",
+      "name": "Awer Mabil",
+      "number": 11,
+      "position": "RW",
+      "caps": 38,
+      "age": 30,
       "height_cm": 178,
-      "current_club": "Maccabi Haifa",
-      "national_league": "Ligat Ha'Al",
-      "club_league_ranking": 42.5,
+      "current_club": "Castellón",
+      "national_league": "La Liga 2",
+      "club_league_ranking": 20.6,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -355,16 +283,16 @@
     },
 
     {
-      "id": "CUW_015",
-      "name": "Ar'jany Martha",
-      "number": 15,
-      "position": "LB",
-      "caps": 8,
-      "age": 22,
-      "height_cm": 180,
-      "current_club": "Rotherham United",
-      "national_league": "EFL League One",
-      "club_league_ranking": 41.23,
+      "id": "AUS_012",
+      "name": "Paul Izzo",
+      "number": 12,
+      "position": "GK",
+      "caps": 4,
+      "age": 31,
+      "height_cm": 185,
+      "current_club": "Randers",
+      "national_league": "Superligaen",
+      "club_league_ranking": 12.10,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -374,21 +302,22 @@
         "assists": 0,
         "yellow_cards": 0,
         "red_cards": 0,
+        "clean_sheets": 0,
         "rating": 6.0
       }
     },
 
     {
-      "id": "CUW_016",
-      "name": "Jearl Margaritha",
-      "number": 16,
-      "position": "LW",
-      "caps": 21,
-      "age": 26,
+      "id": "AUS_013",
+      "name": "Aiden O'Neill",
+      "number": 13,
+      "position": "CDM",
+      "caps": 30,
+      "age": 27,
       "height_cm": 181,
-      "current_club": "Beveren",
-      "national_league": "Challenger Pro League",
-      "club_league_ranking": 64.1,
+      "current_club": "New York City FC",
+      "national_league": "MLS",
+      "club_league_ranking": 10.17,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -403,112 +332,88 @@
     },
 
     {
-      "id": "CUW_017",
-      "name": "Brandley Kuwas",
+      "id": "AUS_014",
+      "name": "Cameron Devlin",
+      "number": 14,
+      "position": "CM",
+      "caps": 4,
+      "age": 28,
+      "height_cm": 171,
+      "current_club": "Hearts",
+      "national_league": "Premiership",
+      "club_league_ranking": 33.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "AUS_015",
+      "name": "Kai Trewin",
+      "number": 15,
+      "position": "CB",
+      "caps": 5,
+      "age": 25,
+      "height_cm": 180,
+      "current_club": "New York City FC",
+      "national_league": "MLS",
+      "club_league_ranking": 10.17,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "AUS_016",
+      "name": "Aziz Behich",
+      "number": 16,
+      "position": "LB",
+      "caps": 83,
+      "age": 35,
+      "height_cm": 170,
+      "current_club": "Melbourne City",
+      "national_league": "A-League",
+      "club_league_ranking": 54.6,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "AUS_017",
+      "name": "Nestory Irankunda",
       "number": 17,
       "position": "RW",
-      "caps": 34,
-      "age": 33,
-      "height_cm": 178,
-      "current_club": "Volendam",
-      "national_league": "Eredivisie",
-      "club_league_ranking": 11.16,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CUW_018",
-      "name": "Armando Obispo",
-      "number": 18,
-      "position": "CB",
-      "caps": 5,
-      "age": 27,
-      "height_cm": 185,
-      "current_club": "PSV",
-      "national_league": "Eredivisie",
-      "club_league_ranking": 11.1,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CUW_019",
-      "name": "Gervane Kastaneer",
-      "number": 19,
-      "position": "ST",
-      "caps": 28,
-      "age": 30,
-      "height_cm": 185,
-      "current_club": "Terengganu",
-      "national_league": "Malaysian Super Liga",
-      "club_league_ranking": 80.5,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CUW_020",
-      "name": "Joshua Brenet",
-      "number": 20,
-      "position": "RB",
-      "caps": 17,
-      "age": 32,
-      "height_cm": 181,
-      "current_club": "Kayserispor",
-      "national_league": "Süper Lig",
-      "club_league_ranking": 16.17,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CUW_021",
-      "name": "Tahith Chong",
-      "number": 21,
-      "position": "RW",
-      "caps": 5,
-      "age": 26,
-      "height_cm": 185,
-      "current_club": "Sheffield United",
+      "caps": 14,
+      "age": 20,
+      "height_cm": 175,
+      "current_club": "Watford",
       "national_league": "EFL Championship",
-      "club_league_ranking": 7.13,
+      "club_league_ranking": 7.16,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -523,16 +428,113 @@
     },
 
     {
-      "id": "CUW_022",
-      "name": "Kevin Felida",
+      "id": "AUS_018",
+      "name": "Patrick Beach",
+      "number": 18,
+      "position": "GK",
+      "caps": 1,
+      "age": 22,
+      "height_cm": 188,
+      "current_club": "Melbourne City",
+      "national_league": "A-League",
+      "club_league_ranking": 54.6,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "AUS_019",
+      "name": "Harry Souttar",
+      "number": 19,
+      "position": "CB",
+      "caps": 37,
+      "age": 27,
+      "height_cm": 198,
+      "current_club": "Leicester City",
+      "national_league": "EFL Championship",
+      "club_league_ranking": 7.23,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "AUS_020",
+      "name": "Cristian Volpato",
+      "number": 20,
+      "position": "RW",
+      "caps": 0,
+      "age": 22,
+      "height_cm": 187,
+      "current_club": "Sassuolo",
+      "national_league": "Serie A",
+      "club_league_ranking": 2.11,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "AUS_021",
+      "name": "Cameron Burgess",
+      "number": 21,
+      "position": "CB",
+      "caps": 26,
+      "age": 30,
+      "height_cm": 194,
+      "current_club": "Swansea City",
+      "national_league": "EFL Championship",
+      "club_league_ranking": 7.11,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "AUS_022",
+      "name": "Jackson Irvine",
       "number": 22,
       "position": "CM",
-      "caps": 19,
-      "age": 26,
-      "height_cm": 174,
-      "current_club": "Den Bosch",
-      "national_league": "Eerste Divisie",
-      "club_league_ranking": 71.9,
+      "caps": 81,
+      "age": 33,
+      "height_cm": 189,
+      "current_club": "St. Pauli FC",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.18,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -547,89 +549,16 @@
     },
 
     {
-      "id": "CUW_023",
-      "name": "Riechedly Bazoer",
+      "id": "AUS_023",
+      "name": "Nishan Velupillay",
       "number": 23,
-      "position": "CB",
-      "caps": 4,
-      "age": 29,
-      "height_cm": 184,
-      "current_club": "Konyaspor",
-      "national_league": "Süper Lig",
-      "club_league_ranking": 16.9,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CUW_024",
-      "name": "Deveron Fonville",
-      "number": 24,
-      "position": "CB",
-      "caps": 1,
-      "age": 23,
-      "height_cm": 178,
-      "current_club": "NEC Nijmegen",
-      "national_league": "Erdedivisie",
-      "club_league_ranking": 11.3,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CUW_025",
-      "name": "Tyrick Bodak",
-      "number": 25,
-      "position": "GK",
-      "caps": 4,
-      "age": 24,
-      "height_cm": 190,
-      "current_club": "Telstar",
-      "national_league": "Eredivisie",
-      "club_league_ranking": 11.14,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "clean_sheets": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CUW_026",
-      "name": "Trevor Doornbusch",
-      "number": 26,
-      "position": "GK",
+      "position": "RW",
       "caps": 7,
-      "age": 26,
-      "height_cm": 188,
-      "current_club": "VVV-Venlo",
-      "national_league": "Eerste Divisie",
-      "club_league_ranking": 71.13,
+      "age": 25,
+      "height_cm": 181,
+      "current_club": "Melbourne Victory",
+      "national_league": "A-League",
+      "club_league_ranking": 54.4,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -639,7 +568,78 @@
         "assists": 0,
         "yellow_cards": 0,
         "red_cards": 0,
-        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "AUS_024",
+      "name": "Paul Okon-Engstler",
+      "number": 24,
+      "position": "CDM",
+      "caps": 5,
+      "age": 21,
+      "height_cm": 186,
+      "current_club": "Sydney FC",
+      "national_league": "A-League",
+      "club_league_ranking": 54.5,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "AUS_025",
+      "name": "Lucas Herrington",
+      "number": 25,
+      "position": "CB",
+      "caps": 3,
+      "age": 18,
+      "height_cm": 192,
+      "current_club": "Colorado Rapids",
+      "national_league": "MLS",
+      "club_league_ranking": 10.20,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "AUS_026",
+      "name": "Tete Yengi",
+      "number": 26,
+      "position": "ST",
+      "caps": 0,
+      "age": 25,
+      "height_cm": 197,
+      "current_club": "Machida Zelvia",
+      "national_league": "J. League",
+      "club_league_ranking": 15.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
         "rating": 6.0
       }
     }

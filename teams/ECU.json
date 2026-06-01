@@ -1,7 +1,7 @@
 {
-  "name": "Curaçao",
-  "code": "CUW",
-  "confederation": "CONCACAF",
+  "name": "Ecuador",
+  "code": "ECU",
+  "confederation": "CONMEBOL",
   "group": "E",
 
   "tournament_stats": {
@@ -18,16 +18,16 @@
 
   "players": [
     {
-      "id": "CUW_001",
-      "name": "Eloy Room",
+      "id": "ECU_001",
+      "name": "Hernán Galíndez",
       "number": 1,
       "position": "GK",
-      "caps": 71,
-      "age": 37,
-      "height_cm": 190,
-      "current_club": "Miami FC",
-      "national_league": "USL Championship",
-      "club_league_ranking": 75.11,
+      "caps": 34,
+      "age": 39,
+      "height_cm": 189,
+      "current_club": "Huracán",
+      "national_league": "Liga Profesional Argentina",
+      "club_league_ranking": 14.13,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -43,40 +43,16 @@
     },
 
     {
-      "id": "CUW_002",
-      "name": "Shurandy Sambo",
+      "id": "ECU_002",
+      "name": "Félix Torres",
       "number": 2,
-      "position": "RB",
-      "caps": 7,
-      "age": 24,
-      "height_cm": 174,
-      "current_club": "Sparta Rotterdam",
-      "national_league": "Eredivisie",
-      "club_league_ranking": 11.10,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CUW_003",
-      "name": "Juriën Gaari",
-      "number": 3,
       "position": "CB",
-      "caps": 59,
-      "age": 32,
-      "height_cm": 183,
-      "current_club": "Abha FC",
-      "national_league": "Saudi First Division",
-      "club_league_ranking": 78.1,
+      "caps": 48,
+      "age": 29,
+      "height_cm": 187,
+      "current_club": "Internacional de Porto Alegre",
+      "national_league": "Brazilian Serie A",
+      "club_league_ranking": 9.14,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -91,16 +67,40 @@
     },
 
     {
-      "id": "CUW_004",
-      "name": "Roshon van Eijma",
+      "id": "ECU_003",
+      "name": "Piero Hincapié",
+      "number": 3,
+      "position": "LB",
+      "caps": 51,
+      "age": 24,
+      "height_cm": 184,
+      "current_club": "Arsenal",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "ECU_004",
+      "name": "Joel Ordóñez",
       "number": 4,
       "position": "CB",
-      "caps": 27,
-      "age": 28,
-      "height_cm": 186,
-      "current_club": "RKC Waalwijk",
-      "national_league": "Eerste Divisie",
-      "club_league_ranking": 71.6,
+      "caps": 16,
+      "age": 22,
+      "height_cm": 188,
+      "current_club": "Club Brugge",
+      "national_league": "Pro League",
+      "club_league_ranking": 6.1,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -115,16 +115,16 @@
     },
 
     {
-      "id": "CUW_005",
-      "name": "Sherel Floranus",
+      "id": "ECU_005",
+      "name": "Jordy Alcívar",
       "number": 5,
-      "position": "LB",
-      "caps": 27,
-      "age": 27,
-      "height_cm": 181,
-      "current_club": "PEC Zwolle",
-      "national_league": "Eredivisie",
-      "club_league_ranking": 11.15,
+      "position": "CDM",
+      "caps": 10,
+      "age": 26,
+      "height_cm": 172,
+      "current_club": "Independiente del Valle",
+      "national_league": "Ecuatorian Serie A",
+      "club_league_ranking": 26.1,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -139,16 +139,16 @@
     },
 
     {
-      "id": "CUW_006",
-      "name": "Godfried Roemeratoe",
+      "id": "ECU_006",
+      "name": "Willian Pacho",
       "number": 6,
-      "position": "CDM",
-      "caps": 27,
-      "age": 26,
-      "height_cm": 178,
-      "current_club": "RKC Waalwijk",
-      "national_league": "Eerste Divisie",
-      "club_league_ranking": 71.6,
+      "position": "CB",
+      "caps": 34,
+      "age": 24,
+      "height_cm": 188,
+      "current_club": "Paris Saint-Germain",
+      "national_league": "Ligue 1",
+      "club_league_ranking": 4.1,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -283,16 +283,16 @@
     },
 
     {
-      "id": "CUW_012",
-      "name": "Sontje Hansen",
+      "id": "ECU_012",
+      "name": "Moisés Ramírez",
       "number": 12,
-      "position": "RW",
-      "caps": 5,
-      "age": 24,
-      "height_cm": 173,
-      "current_club": "Middlesbrough",
-      "national_league": "EFL Championship",
-      "club_league_ranking": 7.5,
+      "position": "GK",
+      "caps": 7,
+      "age": 25,
+      "height_cm": 185,
+      "current_club": "Kifisia",
+      "national_league": "Greek Super League",
+      "club_league_ranking": 32.10,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -302,6 +302,7 @@
         "assists": 0,
         "yellow_cards": 0,
         "red_cards": 0,
+        "clean_sheets": 0,
         "rating": 6.0
       }
     },
@@ -523,16 +524,16 @@
     },
 
     {
-      "id": "CUW_022",
-      "name": "Kevin Felida",
+      "id": "ECU_022",
+      "name": "Gonzalo Valle",
       "number": 22,
-      "position": "CM",
-      "caps": 19,
-      "age": 26,
-      "height_cm": 174,
-      "current_club": "Den Bosch",
-      "national_league": "Eerste Divisie",
-      "club_league_ranking": 71.9,
+      "position": "GK",
+      "caps": 3,
+      "age": 30,
+      "height_cm": 185,
+      "current_club": "LDU Quito",
+      "national_league": "Ecuatorian Serie A",
+      "club_league_ranking": 26.6,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -542,6 +543,7 @@
         "assists": 0,
         "yellow_cards": 0,
         "red_cards": 0,
+        "clean_sheets": 0,
         "rating": 6.0
       }
     },

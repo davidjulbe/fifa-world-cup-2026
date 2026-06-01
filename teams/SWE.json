@@ -140,15 +140,15 @@
 
     {
       "id": "SWE_006",
-      "name": "Emil Holm",
+      "name": "Herman Johansson",
       "number": 6,
-      "position": "RB",
-      "caps": 16,
-      "age": 26,
-      "height_cm": 192,
-      "current_club": "Juventus",
-      "national_league": "Serie A",
-      "club_league_ranking": 2.6,
+      "position": "RWB",
+      "caps": 2,
+      "age": 28,
+      "height_cm": 190,
+      "current_club": "FC Dallas",
+      "national_league": "MLS",
+      "club_league_ranking": 10.8,
 
       "tournament_stats": {
         "started_matches": 0,
