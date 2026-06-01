@@ -1,0 +1,647 @@
+{
+  "name": "Brazil",
+  "code": "BRA",
+  "confederation": "CONMEBOL",
+  "group": "C",
+
+  "tournament_stats": {
+    "matches_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "goals_for": 0,
+    "goals_against": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "clean_sheets": 0
+  },
+
+  "players": [
+    {
+      "id": "CUW_001",
+      "name": "Eloy Room",
+      "number": 1,
+      "position": "GK",
+      "caps": 71,
+      "age": 37,
+      "height_cm": 190,
+      "current_club": "Miami FC",
+      "national_league": "USL Championship",
+      "club_league_ranking": 75.11,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CUW_002",
+      "name": "Shurandy Sambo",
+      "number": 2,
+      "position": "RB",
+      "caps": 7,
+      "age": 24,
+      "height_cm": 174,
+      "current_club": "Sparta Rotterdam",
+      "national_league": "Eredivisie",
+      "club_league_ranking": 11.10,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CUW_003",
+      "name": "Juriën Gaari",
+      "number": 3,
+      "position": "CB",
+      "caps": 59,
+      "age": 32,
+      "height_cm": 183,
+      "current_club": "Abha FC",
+      "national_league": "Saudi First Division",
+      "club_league_ranking": 78.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CUW_004",
+      "name": "Roshon van Eijma",
+      "number": 4,
+      "position": "CB",
+      "caps": 27,
+      "age": 28,
+      "height_cm": 186,
+      "current_club": "RKC Waalwijk",
+      "national_league": "Eerste Divisie",
+      "club_league_ranking": 71.6,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CUW_005",
+      "name": "Sherel Floranus",
+      "number": 5,
+      "position": "LB",
+      "caps": 27,
+      "age": 27,
+      "height_cm": 181,
+      "current_club": "PEC Zwolle",
+      "national_league": "Eredivisie",
+      "club_league_ranking": 11.15,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CUW_006",
+      "name": "Godfried Roemeratoe",
+      "number": 6,
+      "position": "CDM",
+      "caps": 27,
+      "age": 26,
+      "height_cm": 178,
+      "current_club": "RKC Waalwijk",
+      "national_league": "Eerste Divisie",
+      "club_league_ranking": 71.6,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CUW_007",
+      "name": "Juninho Bacuna",
+      "number": 7,
+      "position": "CM",
+      "caps": 48,
+      "age": 28,
+      "height_cm": 178,
+      "current_club": "Volendam",
+      "national_league": "Eredivisie",
+      "club_league_ranking": 11.16,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CUW_008",
+      "name": "Livano Comenencia",
+      "number": 8,
+      "position": "CDM",
+      "caps": 19,
+      "age": 22,
+      "height_cm": 187,
+      "current_club": "Zürich",
+      "national_league": "Swiss Super League",
+      "club_league_ranking": 24.10,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CUW_009",
+      "name": "Jürgen Locadia",
+      "number": 9,
+      "position": "ST",
+      "caps": 13,
+      "age": 32,
+      "height_cm": 185,
+      "current_club": "Miami FC",
+      "national_league": "USL Championship",
+      "club_league_ranking": 75.11,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CUW_010",
+      "name": "Leandro Bacuna",
+      "number": 10,
+      "position": "CM",
+      "caps": 71,
+      "age": 34,
+      "height_cm": 187,
+      "current_club": "Iğdır",
+      "national_league": "TFF 1. Lig",
+      "club_league_ranking": 79.13,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CUW_011",
+      "name": "Jeremy Antonisse",
+      "number": 11,
+      "position": "LW",
+      "caps": 26,
+      "age": 24,
+      "height_cm": 184,
+      "current_club": "Kifisia",
+      "national_league": "Greek Super League",
+      "club_league_ranking": 32.10,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CUW_012",
+      "name": "Sontje Hansen",
+      "number": 12,
+      "position": "RW",
+      "caps": 5,
+      "age": 24,
+      "height_cm": 173,
+      "current_club": "Middlesbrough",
+      "national_league": "EFL Championship",
+      "club_league_ranking": 7.5,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CUW_013",
+      "name": "Tyrese Noslin",
+      "number": 13,
+      "position": "RM",
+      "caps": 6,
+      "age": 23,
+      "height_cm": 182,
+      "current_club": "Telstar",
+      "national_league": "Eredivisie",
+      "club_league_ranking": 11.14,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CUW_014",
+      "name": "Kenji Gorré",
+      "number": 14,
+      "position": "LW",
+      "caps": 37,
+      "age": 31,
+      "height_cm": 178,
+      "current_club": "Maccabi Haifa",
+      "national_league": "Ligat Ha'Al",
+      "club_league_ranking": 42.5,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CUW_015",
+      "name": "Ar'jany Martha",
+      "number": 15,
+      "position": "LB",
+      "caps": 8,
+      "age": 22,
+      "height_cm": 180,
+      "current_club": "Rotherham United",
+      "national_league": "EFL League One",
+      "club_league_ranking": 41.23,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CUW_016",
+      "name": "Jearl Margaritha",
+      "number": 16,
+      "position": "LW",
+      "caps": 21,
+      "age": 26,
+      "height_cm": 181,
+      "current_club": "Beveren",
+      "national_league": "Challenger Pro League",
+      "club_league_ranking": 64.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CUW_017",
+      "name": "Brandley Kuwas",
+      "number": 17,
+      "position": "RW",
+      "caps": 34,
+      "age": 33,
+      "height_cm": 178,
+      "current_club": "Volendam",
+      "national_league": "Eredivisie",
+      "club_league_ranking": 11.16,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CUW_018",
+      "name": "Armando Obispo",
+      "number": 18,
+      "position": "CB",
+      "caps": 5,
+      "age": 27,
+      "height_cm": 185,
+      "current_club": "PSV",
+      "national_league": "Eredivisie",
+      "club_league_ranking": 11.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CUW_019",
+      "name": "Gervane Kastaneer",
+      "number": 19,
+      "position": "ST",
+      "caps": 28,
+      "age": 30,
+      "height_cm": 185,
+      "current_club": "Terengganu",
+      "national_league": "Malaysian Super Liga",
+      "club_league_ranking": 80.5,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CUW_020",
+      "name": "Joshua Brenet",
+      "number": 20,
+      "position": "RB",
+      "caps": 17,
+      "age": 32,
+      "height_cm": 181,
+      "current_club": "Kayserispor",
+      "national_league": "Süper Lig",
+      "club_league_ranking": 16.17,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CUW_021",
+      "name": "Tahith Chong",
+      "number": 21,
+      "position": "RW",
+      "caps": 5,
+      "age": 26,
+      "height_cm": 185,
+      "current_club": "Sheffield United",
+      "national_league": "EFL Championship",
+      "club_league_ranking": 7.13,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CUW_022",
+      "name": "Kevin Felida",
+      "number": 22,
+      "position": "CM",
+      "caps": 19,
+      "age": 26,
+      "height_cm": 174,
+      "current_club": "Den Bosch",
+      "national_league": "Eerste Divisie",
+      "club_league_ranking": 71.9,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CUW_023",
+      "name": "Riechedly Bazoer",
+      "number": 23,
+      "position": "CB",
+      "caps": 4,
+      "age": 29,
+      "height_cm": 184,
+      "current_club": "Konyaspor",
+      "national_league": "Süper Lig",
+      "club_league_ranking": 16.9,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CUW_024",
+      "name": "Deveron Fonville",
+      "number": 24,
+      "position": "CB",
+      "caps": 1,
+      "age": 23,
+      "height_cm": 178,
+      "current_club": "NEC Nijmegen",
+      "national_league": "Erdedivisie",
+      "club_league_ranking": 11.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CUW_025",
+      "name": "Tyrick Bodak",
+      "number": 25,
+      "position": "GK",
+      "caps": 4,
+      "age": 24,
+      "height_cm": 190,
+      "current_club": "Telstar",
+      "national_league": "Eredivisie",
+      "club_league_ranking": 11.14,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CUW_026",
+      "name": "Trevor Doornbusch",
+      "number": 26,
+      "position": "GK",
+      "caps": 7,
+      "age": 26,
+      "height_cm": 188,
+      "current_club": "VVV-Venlo",
+      "national_league": "Eerste Divisie",
+      "club_league_ranking": 71.13,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    }
+  ]
+}
