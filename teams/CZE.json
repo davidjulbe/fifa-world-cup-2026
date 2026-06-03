@@ -1,8 +1,8 @@
 {
-  "name": "Ecuador",
-  "code": "ECU",
-  "confederation": "CONMEBOL",
-  "group": "E",
+  "name": "Czech Republic",
+  "code": "CZE",
+  "confederation": "UEFA",
+  "group": "A",
 
   "tournament_stats": {
     "matches_played": 0,
@@ -18,16 +18,16 @@
 
   "players": [
     {
-      "id": "ECU_001",
-      "name": "Hernán Galíndez",
+      "id": "CZE_001",
+      "name": "Matěj Kovář",
       "number": 1,
       "position": "GK",
-      "caps": 34,
-      "age": 39,
-      "height_cm": 189,
-      "current_club": "Huracán",
-      "national_league": "Liga Profesional Argentina",
-      "club_league_ranking": 14.13,
+      "caps": 19,
+      "age": 26,
+      "height_cm": 196,
+      "current_club": "PSV",
+      "national_league": "Eredivisie",
+      "club_league_ranking": 11.1,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -43,16 +43,16 @@
     },
 
     {
-      "id": "ECU_002",
-      "name": "Félix Torres",
+      "id": "CZE_002",
+      "name": "David Zima",
       "number": 2,
       "position": "CB",
-      "caps": 48,
-      "age": 29,
-      "height_cm": 187,
-      "current_club": "Internacional de Porto Alegre",
-      "national_league": "Brazilian Serie A",
-      "club_league_ranking": 9.14,
+      "caps": 24,
+      "age": 25,
+      "height_cm": 190,
+      "current_club": "Slavia Praha",
+      "national_league": "Czech 1. Liga",
+      "club_league_ranking": 27.1,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -67,16 +67,16 @@
     },
 
     {
-      "id": "ECU_003",
-      "name": "Piero Hincapié",
+      "id": "CZE_003",
+      "name": "Tomáš Holeš",
       "number": 3,
-      "position": "LB",
-      "caps": 51,
-      "age": 24,
-      "height_cm": 184,
-      "current_club": "Arsenal",
-      "national_league": "Premier League",
-      "club_league_ranking": 1.1,
+      "position": "CB",
+      "caps": 40,
+      "age": 33,
+      "height_cm": 180,
+      "current_club": "Slavia Praha",
+      "national_league": "Czech 1. Liga",
+      "club_league_ranking": 27.1,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -91,40 +91,16 @@
     },
 
     {
-      "id": "ECU_004",
-      "name": "Joel Ordóñez",
+      "id": "CZE_004",
+      "name": "Robin Hranáč",
       "number": 4,
       "position": "CB",
-      "caps": 16,
-      "age": 22,
-      "height_cm": 188,
-      "current_club": "Club Brugge",
-      "national_league": "Pro League",
-      "club_league_ranking": 6.1,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "ECU_005",
-      "name": "Jordy Alcívar",
-      "number": 5,
-      "position": "CDM",
-      "caps": 10,
+      "caps": 13,
       "age": 26,
-      "height_cm": 172,
-      "current_club": "Independiente del Valle",
-      "national_league": "Ecuadorian Serie A",
-      "club_league_ranking": 26.1,
+      "height_cm": 190,
+      "current_club": "Hoffenheim",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.5,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -139,16 +115,40 @@
     },
 
     {
-      "id": "ECU_006",
-      "name": "Willian Pacho",
+      "id": "CZE_005",
+      "name": "Vladimír Coufal",
+      "number": 5,
+      "position": "RB",
+      "caps": 61,
+      "age": 33,
+      "height_cm": 175,
+      "current_club": "Hoffenheim",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.5,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CZE_006",
+      "name": "Štěpán Chaloupek",
       "number": 6,
       "position": "CB",
-      "caps": 34,
-      "age": 24,
+      "caps": 4,
+      "age": 23,
       "height_cm": 188,
-      "current_club": "Paris Saint-Germain",
-      "national_league": "Ligue 1",
-      "club_league_ranking": 4.1,
+      "current_club": "Slavia Praha",
+      "national_league": "Czech 1. Liga",
+      "club_league_ranking": 27.1,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -163,16 +163,16 @@
     },
 
     {
-      "id": "ECU_007",
-      "name": "Pervis Estupiñán",
+      "id": "CZE_007",
+      "name": "Ladislav Krejčí",
       "number": 7,
-      "position": "LB",
-      "caps": 53,
-      "age": 28,
-      "height_cm": 175,
-      "current_club": "AC Milan",
-      "national_league": "Serie A",
-      "club_league_ranking": 2.5,
+      "position": "CB",
+      "caps": 26,
+      "age": 27,
+      "height_cm": 191,
+      "current_club": "Wolves",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.20,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -187,16 +187,16 @@
     },
 
     {
-      "id": "ECU_008",
-      "name": "Anthony Valencia",
+      "id": "CZE_008",
+      "name": "Vladimír Darida",
       "number": 8,
-      "position": "RM",
-      "caps": 2,
-      "age": 22,
-      "height_cm": 174,
-      "current_club": "Royal Antwerp",
-      "national_league": "Pro League",
-      "club_league_ranking": 6.11,
+      "position": "CM",
+      "caps": 78,
+      "age": 35,
+      "height_cm": 172,
+      "current_club": "Hradec Králové",
+      "national_league": "Czech 1. Liga",
+      "club_league_ranking": 27.4,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -211,16 +211,16 @@
     },
 
     {
-      "id": "ECU_009",
-      "name": "John Yeboah",
+      "id": "CZE_009",
+      "name": "Adam Hložek",
       "number": 9,
       "position": "ST",
-      "caps": 22,
-      "age": 25,
-      "height_cm": 170,
-      "current_club": "Venezia",
-      "national_league": "Serie B",
-      "club_league_ranking": 29.1,
+      "caps": 42,
+      "age": 23,
+      "height_cm": 188,
+      "current_club": "Hoffenheim",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.5,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -235,16 +235,16 @@
     },
 
     {
-      "id": "ECU_010",
-      "name": "Kendry Páez",
+      "id": "CZE_010",
+      "name": "Patrik Schick",
       "number": 10,
-      "position": "CAM",
-      "caps": 25,
-      "age": 19,
-      "height_cm": 178,
-      "current_club": "River Plate",
-      "national_league": "Liga Profesional Argentina",
-      "club_league_ranking": 14.4,
+      "position": "ST",
+      "caps": 52,
+      "age": 30,
+      "height_cm": 191,
+      "current_club": "Bayer Leverkusen",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.6,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -259,40 +259,16 @@
     },
 
     {
-      "id": "ECU_011",
-      "name": "Kevin Rodríguez",
+      "id": "CZE_011",
+      "name": "Jan Kuchta",
       "number": 11,
       "position": "ST",
       "caps": 31,
-      "age": 26,
-      "height_cm": 190,
-      "current_club": "Union Saint-Gilloise",
-      "national_league": "Pro League",
-      "club_league_ranking": 6.2,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "ECU_012",
-      "name": "Moisés Ramírez",
-      "number": 12,
-      "position": "GK",
-      "caps": 7,
-      "age": 25,
+      "age": 29,
       "height_cm": 185,
-      "current_club": "Kifisia",
-      "national_league": "Greek Super League",
-      "club_league_ranking": 32.10,
+      "current_club": "Sparta Praha",
+      "national_league": "Czech 1. Liga",
+      "club_league_ranking": 27.2,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -302,214 +278,45 @@
         "assists": 0,
         "yellow_cards": 0,
         "red_cards": 0,
-        "clean_sheets": 0,
         "rating": 6.0
       }
     },
 
     {
-      "id": "ECU_013",
-      "name": "Enner Valencia",
+      "id": "CZE_012",
+      "name": "Lukáš Červ",
+      "number": 12,
+      "position": "CDM",
+      "caps": 16,
+      "age": 25,
+      "height_cm": 182,
+      "current_club": "Viktoria Plzeň",
+      "national_league": "Czech 1. Liga",
+      "club_league_ranking": 27.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CZE_013",
+      "name": "Mojmír Chytil",
       "number": 13,
       "position": "ST",
-      "caps": 105,
-      "age": 36,
-      "height_cm": 177,
-      "current_club": "Pachuca",
-      "national_league": "Liga MX",
-      "club_league_ranking": 19.4,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "ECU_014",
-      "name": "Alan Minda",
-      "number": 14,
-      "position": "CAM",
-      "caps": 19,
-      "age": 23,
-      "height_cm": 171,
-      "current_club": "Atlético Mineiro",
-      "national_league": "Brazilian Serie A",
-      "club_league_ranking": 9.9,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "ECU_015",
-      "name": "Pedro Vite",
-      "number": 15,
-      "position": "CM",
-      "caps": 16,
-      "age": 24,
-      "height_cm": 171,
-      "current_club": "Pumas",
-      "national_league": "Liga MX",
-      "club_league_ranking": 19.1,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "ECU_016",
-      "name": "Jordy Caicedo",
-      "number": 16,
-      "position": "ST",
-      "caps": 19,
-      "age": 28,
-      "height_cm": 186,
-      "current_club": "Huracán",
-      "national_league": "Liga Profesional Argentina",
-      "club_league_ranking": 14.13,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "ECU_017",
-      "name": "Ángelo Preciado",
-      "number": 17,
-      "position": "RB",
-      "caps": 54,
-      "age": 28,
-      "height_cm": 174,
-      "current_club": "Atlético Mineiro",
-      "national_league": "Brazilian Serie A",
-      "club_league_ranking": 9.9,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "ECU_018",
-      "name": "Denil Castillo",
-      "number": 18,
-      "position": "CM",
-      "caps": 5,
-      "age": 22,
-      "height_cm": 189,
-      "current_club": "Midtjylland",
-      "national_league": "Superligaen",
-      "club_league_ranking": 12.2,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "ECU_019",
-      "name": "Gonzalo Plata",
-      "number": 19,
-      "position": "RW",
-      "caps": 49,
-      "age": 25,
-      "height_cm": 178,
-      "current_club": "Flamengo",
-      "national_league": "Brazilian Serie A",
-      "club_league_ranking": 9.2,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "ECU_020",
-      "name": "Nilson Angulo",
-      "number": 20,
-      "position": "LW",
-      "caps": 13,
-      "age": 22,
-      "height_cm": 184,
-      "current_club": "Sunderland",
-      "national_league": "Premier League",
-      "club_league_ranking": 1.7,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "ECU_021",
-      "name": "Alan Franco",
-      "number": 21,
-      "position": "CDM",
-      "caps": 57,
+      "caps": 22,
       "age": 27,
-      "height_cm": 175,
-      "current_club": "Atlético Mineiro",
-      "national_league": "Brazilian Serie A",
-      "club_league_ranking": 9.9,
+      "height_cm": 187,
+      "current_club": "Slavia Praha",
+      "national_league": "Czech 1. Liga",
+      "club_league_ranking": 27.1,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -524,16 +331,64 @@
     },
 
     {
-      "id": "ECU_022",
-      "name": "Gonzalo Valle",
-      "number": 22,
+      "id": "CZE_014",
+      "name": "David Jurásek",
+      "number": 14,
+      "position": "LB",
+      "caps": 17,
+      "age": 25,
+      "height_cm": 183,
+      "current_club": "Slavia Praha",
+      "national_league": "Czech 1. Liga",
+      "club_league_ranking": 27.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CZE_015",
+      "name": "Pavel Šulc",
+      "number": 15,
+      "position": "CAM",
+      "caps": 20,
+      "age": 25,
+      "height_cm": 177,
+      "current_club": "Olympique Lyonnais",
+      "national_league": "Ligue 1",
+      "club_league_ranking": 4.4,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CZE_016",
+      "name": "Jindřich Staněk",
+      "number": 16,
       "position": "GK",
-      "caps": 3,
+      "caps": 14,
       "age": 30,
-      "height_cm": 185,
-      "current_club": "LDU Quito",
-      "national_league": "Ecuadorian Serie A",
-      "club_league_ranking": 26.6,
+      "height_cm": 192,
+      "current_club": "Slavia Praha",
+      "national_league": "Czech 1. Liga",
+      "club_league_ranking": 27.1,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -549,16 +404,16 @@
     },
 
     {
-      "id": "ECU_023",
-      "name": "Moisés Caicedo",
-      "number": 23,
-      "position": "CDM",
-      "caps": 60,
-      "age": 24,
-      "height_cm": 178,
-      "current_club": "Chelsea",
-      "national_league": "Premier League",
-      "club_league_ranking": 1.10,
+      "id": "CZE_017",
+      "name": "Lukáš Provod",
+      "number": 17,
+      "position": "CAM",
+      "caps": 37,
+      "age": 29,
+      "height_cm": 189,
+      "current_club": "Slavia Praha",
+      "national_league": "Czech 1. Liga",
+      "club_league_ranking": 27.1,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -573,16 +428,40 @@
     },
 
     {
-      "id": "ECU_024",
-      "name": "Jeremy Arévalo",
-      "number": 24,
+      "id": "CZE_018",
+      "name": "Michal Sadílek",
+      "number": 18,
+      "position": "CM",
+      "caps": 34,
+      "age": 27,
+      "height_cm": 169,
+      "current_club": "Slavia Praha",
+      "national_league": "Czech 1. Liga",
+      "club_league_ranking": 27.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CZE_019",
+      "name": "Tomáš Chorý",
+      "number": 19,
       "position": "ST",
-      "caps": 3,
-      "age": 21,
-      "height_cm": 182,
-      "current_club": "Stuttgart",
-      "national_league": "Bundesliga",
-      "club_league_ranking": 5.4,
+      "caps": 21,
+      "age": 31,
+      "height_cm": 199,
+      "current_club": "Slavia Praha",
+      "national_league": "Czech 1. Liga",
+      "club_league_ranking": 27.1,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -597,16 +476,16 @@
     },
 
     {
-      "id": "ECU_025",
-      "name": "Jackson Porozo",
-      "number": 25,
+      "id": "CZE_020",
+      "name": "Jaroslav Zelený",
+      "number": 20,
       "position": "CB",
-      "caps": 9,
-      "age": 25,
-      "height_cm": 192,
-      "current_club": "Tijuana",
-      "national_league": "Liga MX",
-      "club_league_ranking": 19.9,
+      "caps": 22,
+      "age": 33,
+      "height_cm": 190,
+      "current_club": "Sparta Praha",
+      "national_league": "Czech 1. Liga",
+      "club_league_ranking": 27.2,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -621,16 +500,137 @@
     },
 
     {
-      "id": "ECU_026",
-      "name": "Yaimar Medina",
+      "id": "CZE_021",
+      "name": "David Douděra",
+      "number": 21,
+      "position": "RB",
+      "caps": 16,
+      "age": 28,
+      "height_cm": 175,
+      "current_club": "Slavia Praha",
+      "national_league": "Czech 1. Liga",
+      "club_league_ranking": 27.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CZE_022",
+      "name": "Tomáš Souček",
+      "number": 22,
+      "position": "CDM",
+      "caps": 89,
+      "age": 31,
+      "height_cm": 192,
+      "current_club": "West Ham United",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.18,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CZE_023",
+      "name": "Lukáš Horníček",
+      "number": 23,
+      "position": "GK",
+      "caps": 1,
+      "age": 23,
+      "height_cm": 197,
+      "current_club": "Braga",
+      "national_league": "Liga Portugal",
+      "club_league_ranking": 8.4,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CZE_024",
+      "name": "Alexandr Sojka",
+      "number": 24,
+      "position": "CM",
+      "caps": 1,
+      "age": 23,
+      "height_cm": 188,
+      "current_club": "Viktoria Plzeň",
+      "national_league": "Czech 1. Liga",
+      "club_league_ranking": 27.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CZE_025",
+      "name": "Hugo Sochůrek",
+      "number": 25,
+      "position": "CM",
+      "caps": 1,
+      "age": 18,
+      "height_cm": 184,
+      "current_club": "Sparta Praha",
+      "national_league": "Czech 1. Liga",
+      "club_league_ranking": 27.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CZE_026",
+      "name": "Denis Višinský",
       "number": 26,
-      "position": "LB",
-      "caps": 5,
-      "age": 21,
+      "position": "CAM",
+      "caps": 1,
+      "age": 23,
       "height_cm": 177,
-      "current_club": "Genk",
-      "national_league": "Pro League",
-      "club_league_ranking": 6.7,
+      "current_club": "Viktoria Plzeň",
+      "national_league": "Czech 1. Liga",
+      "club_league_ranking": 27.3,
 
       "tournament_stats": {
         "started_matches": 0,
