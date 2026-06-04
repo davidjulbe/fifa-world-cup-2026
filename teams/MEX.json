@@ -1,8 +1,8 @@
 {
-  "name": "France",
-  "code": "FRA",
-  "confederation": "UEFA",
-  "group": "I",
+  "name": "Mexico",
+  "code": "MEX",
+  "confederation": "CONCACAF",
+  "group": "A",
 
   "tournament_stats": {
     "matches_played": 0,
@@ -18,16 +18,16 @@
 
   "players": [
     {
-      "id": "FRA_001",
-      "name": "Brice Samba",
+      "id": "MEX_001",
+      "name": "Raúl Rangel",
       "number": 1,
       "position": "GK",
-      "caps": 4,
-      "age": 32,
-      "height_cm": 187,
-      "current_club": "Stade Rennais",
-      "national_league": "Ligue 1",
-      "club_league_ranking": 4.6,
+      "caps": 13,
+      "age": 26,
+      "height_cm": 191,
+      "current_club": "Chivas de Guadalajara",
+      "national_league": "Liga MX",
+      "club_league_ranking": 19.2,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -43,184 +43,16 @@
     },
 
     {
-      "id": "FRA_002",
-      "name": "Malo Gusto",
+      "id": "MEX_002",
+      "name": "Jorge Sánchez",
       "number": 2,
       "position": "RB",
-      "caps": 9,
-      "age": 23,
-      "height_cm": 178,
-      "current_club": "Chelsea",
-      "national_league": "Premier League",
-      "club_league_ranking": 1.10,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "FRA_003",
-      "name": "Lucas Digne",
-      "number": 3,
-      "position": "LB",
-      "caps": 56,
-      "age": 32,
-      "height_cm": 178,
-      "current_club": "Aston Villa",
-      "national_league": "Premier League",
-      "club_league_ranking": 1.4,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "FRA_004",
-      "name": "Dayot Upamecano",
-      "number": 4,
-      "position": "CB",
-      "caps": 36,
-      "age": 27,
-      "height_cm": 186,
-      "current_club": "Bayern München",
-      "national_league": "Bundesliga",
-      "club_league_ranking": 5.1,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "FRA_005",
-      "name": "Jules Koundé",
-      "number": 5,
-      "position": "RB",
-      "caps": 46,
-      "age": 27,
-      "height_cm": 181,
-      "current_club": "FC Barcelona",
-      "national_league": "La Liga",
-      "club_league_ranking": 3.1,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "FRA_006",
-      "name": "Manu Koné",
-      "number": 6,
-      "position": "CDM",
-      "caps": 12,
-      "age": 25,
-      "height_cm": 185,
-      "current_club": "Roma",
-      "national_league": "Serie A",
-      "club_league_ranking": 2.3,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "FRA_007",
-      "name": "Ousmane Dembélé",
-      "number": 7,
-      "position": "RW",
       "caps": 58,
-      "age": 29,
-      "height_cm": 178,
-      "current_club": "Paris Saint-Germain",
-      "national_league": "Ligue 1",
-      "club_league_ranking": 4.1,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "FRA_008",
-      "name": "Aurélien Tchouaméni",
-      "number": 8,
-      "position": "CDM",
-      "caps": 44,
-      "age": 26,
-      "height_cm": 188,
-      "current_club": "Real Madrid",
-      "national_league": "La Liga",
-      "club_league_ranking": 3.2,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "FRA_009",
-      "name": "Marcus Thuram",
-      "number": 9,
-      "position": "ST",
-      "caps": 33,
       "age": 28,
-      "height_cm": 192,
-      "current_club": "Inter Milan",
-      "national_league": "Serie A",
-      "club_league_ranking": 2.1,
+      "height_cm": 175,
+      "current_club": "PAOK",
+      "national_league": "Greek Super League",
+      "club_league_ranking": 32.10,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -235,16 +67,16 @@
     },
 
     {
-      "id": "FRA_010",
-      "name": "Kylian Mbappé",
-      "number": 10,
-      "position": "ST",
-      "caps": 96,
-      "age": 27,
-      "height_cm": 180,
-      "current_club": "Real Madrid",
-      "national_league": "La Liga",
-      "club_league_ranking": 3.2,
+      "id": "MEX_003",
+      "name": "César Montes",
+      "number": 3,
+      "position": "CB",
+      "caps": 66,
+      "age": 29,
+      "height_cm": 191,
+      "current_club": "Lokomotiv Moscow",
+      "national_league": "Russian Premier League",
+      "club_league_ranking": 22.3,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -259,61 +91,13 @@
     },
 
     {
-      "id": "FRA_011",
-      "name": "Michael Olise",
-      "number": 11,
-      "position": "RW",
-      "caps": 15,
-      "age": 24,
-      "height_cm": 180,
-      "current_club": "Bayern München",
-      "national_league": "Bundesliga",
-      "club_league_ranking": 5.1,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "FRA_012",
-      "name": "Bradley Barcola",
-      "number": 12,
-      "position": "LW",
-      "caps": 18,
-      "age": 23,
-      "height_cm": 182,
-      "current_club": "Paris Saint-Germain",
-      "national_league": "Ligue 1",
-      "club_league_ranking": 4.1,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "FRA_013",
-      "name": "N'Golo Kanté",
-      "number": 13,
+      "id": "MEX_004",
+      "name": "Edson Álvarez",
+      "number": 4,
       "position": "CDM",
-      "caps": 67,
-      "age": 35,
-      "height_cm": 168,
+      "caps": 97,
+      "age": 28,
+      "height_cm": 187,
       "current_club": "Fenerbahçe",
       "national_league": "Süper Lig",
       "club_league_ranking": 16.2,
@@ -331,13 +115,157 @@
     },
 
     {
-      "id": "FRA_014",
-      "name": "Adrien Rabiot",
-      "number": 14,
-      "position": "CM",
-      "caps": 57,
+      "id": "MEX_005",
+      "name": "Johan Vásquez",
+      "number": 5,
+      "position": "CB",
+      "caps": 45,
+      "age": 27,
+      "height_cm": 185,
+      "current_club": "Genoa",
+      "national_league": "Serie A",
+      "club_league_ranking": 2.16,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "MEX_006",
+      "name": "Érik Lira",
+      "number": 6,
+      "position": "CDM",
+      "caps": 24,
+      "age": 26,
+      "height_cm": 172,
+      "current_club": "Cruz Azul",
+      "national_league": "Liga MX",
+      "club_league_ranking": 19.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "MEX_007",
+      "name": "Luis Romo",
+      "number": 7,
+      "position": "CDM",
+      "caps": 62,
       "age": 31,
-      "height_cm": 191,
+      "height_cm": 182,
+      "current_club": "Chivas de Guadalajara",
+      "national_league": "Liga MX",
+      "club_league_ranking": 19.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "MEX_008",
+      "name": "Álvaro Fidalgo",
+      "number": 8,
+      "position": "CM",
+      "caps": 3,
+      "age": 29,
+      "height_cm": 174,
+      "current_club": "Real Betis",
+      "national_league": "La Liga",
+      "club_league_ranking": 3.5,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "MEX_009",
+      "name": "Rául Jiménez",
+      "number": 9,
+      "position": "ST",
+      "caps": 123,
+      "age": 35,
+      "height_cm": 188,
+      "current_club": "Fulham",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.11,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "MEX_010",
+      "name": "Alexis Vega",
+      "number": 10,
+      "position": "LW",
+      "caps": 51,
+      "age": 28,
+      "height_cm": 174,
+      "current_club": "Toluca",
+      "national_league": "Liga MX",
+      "club_league_ranking": 19.5,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "MEX_011",
+      "name": "Santiago Giménez",
+      "number": 11,
+      "position": "ST",
+      "caps": 47,
+      "age": 25,
+      "height_cm": 185,
       "current_club": "AC Milan",
       "national_league": "Serie A",
       "club_league_ranking": 2.5,
@@ -355,16 +283,90 @@
     },
 
     {
-      "id": "FRA_015",
-      "name": "Ibrahima Konaté",
+      "id": "MEX_012",
+      "name": "Carlos Acevedo",
+      "number": 12,
+      "position": "GK",
+      "caps": 7,
+      "age": 30,
+      "height_cm": 184,
+      "current_club": "Santos Laguna",
+      "national_league": "Liga MX",
+      "club_league_ranking": 19.18,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "MEX_013",
+      "name": "Guillermo Ochoa",
+      "number": 13,
+      "position": "GK",
+      "caps": 152,
+      "age": 40,
+      "height_cm": 185,
+      "current_club": "AEL Limassol",
+      "national_league": "1. Division",
+      "club_league_ranking": 25.8,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "MEX_014",
+      "name": "Armando González",
+      "number": 14,
+      "position": "ST",
+      "caps": 7,
+      "age": 23,
+      "height_cm": 179,
+      "current_club": "Chivas de Guadalajara",
+      "national_league": "Liga MX",
+      "club_league_ranking": 19.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "MEX_015",
+      "name": "Israel Reyes",
       "number": 15,
       "position": "CB",
-      "caps": 27,
-      "age": 27,
-      "height_cm": 194,
-      "current_club": "Liverpool",
-      "national_league": "Premier League",
-      "club_league_ranking": 1.5,
+      "caps": 33,
+      "age": 26,
+      "height_cm": 179,
+      "current_club": "Club América",
+      "national_league": "Liga MX",
+      "club_league_ranking": 19.8,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -379,16 +381,16 @@
     },
 
     {
-      "id": "FRA_016",
-      "name": "Mike Maignan",
+      "id": "MEX_016",
+      "name": "Julián Quiñones",
       "number": 16,
-      "position": "GK",
-      "caps": 38,
-      "age": 30,
-      "height_cm": 191,
-      "current_club": "AC Milan",
-      "national_league": "Serie A",
-      "club_league_ranking": 2.5,
+      "position": "ST",
+      "caps": 21,
+      "age": 29,
+      "height_cm": 177,
+      "current_club": "Al-Qadsiah",
+      "national_league": "Saudi Pro League",
+      "club_league_ranking": 36.4,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -398,22 +400,21 @@
         "assists": 0,
         "yellow_cards": 0,
         "red_cards": 0,
-        "clean_sheets": 0,
         "rating": 6.0
       }
     },
 
     {
-      "id": "FRA_017",
-      "name": "William Saliba",
+      "id": "MEX_017",
+      "name": "Orbelín Pineda",
       "number": 17,
-      "position": "CB",
-      "caps": 31,
-      "age": 25,
-      "height_cm": 192,
-      "current_club": "Arsenal",
-      "national_league": "Premier League",
-      "club_league_ranking": 1.1,
+      "position": "CM",
+      "caps": 91,
+      "age": 30,
+      "height_cm": 169,
+      "current_club": "AEK Athens",
+      "national_league": "Greek Super League",
+      "club_league_ranking": 32.1,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -428,64 +429,16 @@
     },
 
     {
-      "id": "FRA_018",
-      "name": "Warren Zaïre-Emery",
+      "id": "MEX_018",
+      "name": "Obed Vargas",
       "number": 18,
       "position": "CM",
-      "caps": 10,
-      "age": 20,
-      "height_cm": 178,
-      "current_club": "Paris Saint-Germain",
-      "national_league": "Ligue 1",
-      "club_league_ranking": 4.1,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "FRA_019",
-      "name": "Théo Hernandez",
-      "number": 19,
-      "position": "LB",
-      "caps": 42,
-      "age": 28,
-      "height_cm": 184,
-      "current_club": "Al-Hilal",
-      "national_league": "Saudi Pro League",
-      "club_league_ranking": 36.2,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "FRA_020",
-      "name": "Désiré Doué",
-      "number": 20,
-      "position": "RW",
       "caps": 6,
-      "age": 21,
-      "height_cm": 181,
-      "current_club": "Paris Saint-Germain",
-      "national_league": "Ligue 1",
-      "club_league_ranking": 4.1,
+      "age": 20,
+      "height_cm": 175,
+      "current_club": "Atlético de Madrid",
+      "national_league": "La Liga",
+      "club_league_ranking": 3.4,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -500,113 +453,16 @@
     },
 
     {
-      "id": "FRA_021",
-      "name": "Lucas Hernandez",
-      "number": 21,
-      "position": "LB",
-      "caps": 41,
-      "age": 30,
-      "height_cm": 184,
-      "current_club": "Paris Saint-Germain",
-      "national_league": "Ligue 1",
-      "club_league_ranking": 4.1,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "FRA_022",
-      "name": "Jean-Philippe Mateta",
-      "number": 22,
-      "position": "ST",
-      "caps": 3,
-      "age": 28,
-      "height_cm": 192,
-      "current_club": "Crystal Palace",
-      "national_league": "Premier League",
-      "club_league_ranking": 1.15,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "FRA_023",
-      "name": "Robin Risser",
-      "number": 23,
-      "position": "GK",
-      "caps": 0,
-      "age": 21,
-      "height_cm": 193,
-      "current_club": "Lens",
-      "national_league": "Ligue 1",
-      "club_league_ranking": 4.2,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "clean_sheets": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "FRA_024",
-      "name": "Rayan Cherki",
-      "number": 24,
-      "position": "CAM",
-      "caps": 5,
-      "age": 22,
-      "height_cm": 177,
-      "current_club": "Manchester City",
-      "national_league": "Premier League",
-      "club_league_ranking": 1.2,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "FRA_025",
-      "name": "Maghnes Akliouche",
-      "number": 25,
+      "id": "MEX_019",
+      "name": "Gilberto Mora",
+      "number": 19,
       "position": "CAM",
       "caps": 7,
-      "age": 24,
-      "height_cm": 183,
-      "current_club": "Monaco",
-      "national_league": "Ligue 1",
-      "club_league_ranking": 4.7,
+      "age": 17,
+      "height_cm": 168,
+      "current_club": "Tijuana",
+      "national_league": "Liga MX",
+      "club_league_ranking": 19.9,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -621,16 +477,160 @@
     },
 
     {
-      "id": "FRA_026",
-      "name": "Maxence Lacroix",
+      "id": "MEX_020",
+      "name": "Mateo Chávez",
+      "number": 20,
+      "position": "LB",
+      "caps": 9,
+      "age": 22,
+      "height_cm": 177,
+      "current_club": "AZ",
+      "national_league": "Eredivisie",
+      "club_league_ranking": 11.7,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "MEX_021",
+      "name": "César Huerta",
+      "number": 21,
+      "position": "RW",
+      "caps": 26,
+      "age": 25,
+      "height_cm": 171,
+      "current_club": "Anderlecht",
+      "national_league": "Pro League",
+      "club_league_ranking": 6.4,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "MEX_022",
+      "name": "Guillermo Martínez",
+      "number": 22,
+      "position": "ST",
+      "caps": 11,
+      "age": 31,
+      "height_cm": 191,
+      "current_club": "Pumas",
+      "national_league": "Liga MX",
+      "club_league_ranking": 19.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "MEX_023",
+      "name": "Jesús Gallardo",
+      "number": 23,
+      "position": "LB",
+      "caps": 120,
+      "age": 31,
+      "height_cm": 178,
+      "current_club": "Toluca",
+      "national_league": "Liga MX",
+      "club_league_ranking": 19.5,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "MEX_024",
+      "name": "Luis Chávez",
+      "number": 24,
+      "position": "CM",
+      "caps": 44,
+      "age": 30,
+      "height_cm": 178,
+      "current_club": "Dynamo Moscow",
+      "national_league": "Russian Premier League",
+      "club_league_ranking": 22.7,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "MEX_025",
+      "name": "Roberto Alvarado",
+      "number": 25,
+      "position": "RW",
+      "caps": 66,
+      "age": 27,
+      "height_cm": 176,
+      "current_club": "Chivas de Guadalajara",
+      "national_league": "Liga MX",
+      "club_league_ranking": 19.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "MEX_026",
+      "name": "Brian Gutiérrez",
       "number": 26,
-      "position": "CB",
-      "caps": 2,
-      "age": 26,
-      "height_cm": 190,
-      "current_club": "Crystal Palace",
-      "national_league": "Premier League",
-      "club_league_ranking": 1.15,
+      "position": "CAM",
+      "caps": 6,
+      "age": 22,
+      "height_cm": 178,
+      "current_club": "Chivas de Guadalajara",
+      "national_league": "Liga MX",
+      "club_league_ranking": 19.2,
 
       "tournament_stats": {
         "started_matches": 0,
