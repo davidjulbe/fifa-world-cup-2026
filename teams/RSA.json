@@ -1,0 +1,647 @@
+{
+  "name": "South Africa",
+  "code": "RSA",
+  "confederation": "CAF",
+  "group": "A",
+
+  "tournament_stats": {
+    "matches_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "goals_for": 0,
+    "goals_against": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "clean_sheets": 0
+  },
+
+  "players": [
+    {
+      "id": "RSA_001",
+      "name": "Ronwen Williams",
+      "number": 1,
+      "position": "GK",
+      "caps": 62,
+      "age": 34,
+      "height_cm": 184,
+      "current_club": "Mamelodi Sundowns",
+      "national_league": "Premier Soccer League",
+      "club_league_ranking": 53.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "RSA_002",
+      "name": "Thabang Matuludi",
+      "number": 2,
+      "position": "RB",
+      "caps": 2,
+      "age": 27,
+      "height_cm": 189,
+      "current_club": "Polokwane City",
+      "national_league": "Premier Soccer League",
+      "club_league_ranking": 53.7,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "RSA_003",
+      "name": "Khulumani Ndamane",
+      "number": 3,
+      "position": "CB",
+      "caps": 5,
+      "age": 22,
+      "height_cm": 183,
+      "current_club": "Mamelodi Sundowns",
+      "national_league": "Premier Soccer League",
+      "club_league_ranking": 53.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "RSA_004",
+      "name": "Teboho Mokoena",
+      "number": 4,
+      "position": "CDM",
+      "caps": 51,
+      "age": 29,
+      "height_cm": 176,
+      "current_club": "Mamelodi Sundowns",
+      "national_league": "Premier Soccer League",
+      "club_league_ranking": 53.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "RSA_005",
+      "name": "Thalente Mbatha",
+      "number": 5,
+      "position": "CDM",
+      "caps": 14,
+      "age": 26,
+      "height_cm": 180,
+      "current_club": "Orlando Pirates",
+      "national_league": "Premier Soccer League",
+      "club_league_ranking": 53.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "RSA_006",
+      "name": "Aubrey Modiba",
+      "number": 6,
+      "position": "LB",
+      "caps": 44,
+      "age": 30,
+      "height_cm": 169,
+      "current_club": "Mamelodi Sundowns",
+      "national_league": "Premier Soccer League",
+      "club_league_ranking": 53.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "RSA_007",
+      "name": "Oswin Appollis",
+      "number": 7,
+      "position": "LW",
+      "caps": 25,
+      "age": 24,
+      "height_cm": 171,
+      "current_club": "Orlando Pirates",
+      "national_league": "Premier Soccer League",
+      "club_league_ranking": 53.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "RSA_008",
+      "name": "Tshepang Moremi",
+      "number": 8,
+      "position": "LW",
+      "caps": 9,
+      "age": 25,
+      "height_cm": 168,
+      "current_club": "Orlando Pirates",
+      "national_league": "Premier Soccer League",
+      "club_league_ranking": 53.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "RSA_009",
+      "name": "Lyle Foster",
+      "number": 9,
+      "position": "ST",
+      "caps": 26,
+      "age": 25,
+      "height_cm": 185,
+      "current_club": "Burnley",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.19,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "RSA_010",
+      "name": "Relebohile Mofokeng",
+      "number": 10,
+      "position": "CAM",
+      "caps": 12,
+      "age": 21,
+      "height_cm": 166,
+      "current_club": "Orlando Pirates",
+      "national_league": "Premier Soccer League",
+      "club_league_ranking": 53.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "RSA_011",
+      "name": "Themba Zwane",
+      "number": 11,
+      "position": "CAM",
+      "caps": 53,
+      "age": 36,
+      "height_cm": 175,
+      "current_club": "Mamelodi Sundowns",
+      "national_league": "Premier Soccer League",
+      "club_league_ranking": 53.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "RSA_012",
+      "name": "Thapelo Maseko",
+      "number": 12,
+      "position": "LW",
+      "caps": 9,
+      "age": 22,
+      "height_cm": 178,
+      "current_club": "AEL Limassol",
+      "national_league": "1. Division",
+      "club_league_ranking": 25.8,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "RSA_013",
+      "name": "Sphephelo Sithole",
+      "number": 13,
+      "position": "CDM",
+      "caps": 27,
+      "age": 27,
+      "height_cm": 186,
+      "current_club": "Tondela",
+      "national_league": "Liga Portugal",
+      "club_league_ranking": 8.17,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "RSA_014",
+      "name": "Mbekezeli Mbokazi",
+      "number": 14,
+      "position": "CB",
+      "caps": 10,
+      "age": 20,
+      "height_cm": 177,
+      "current_club": "Chicago Fire FC",
+      "national_league": "MLS",
+      "club_league_ranking": 10.5,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "RSA_015",
+      "name": "Iqraam Rayners",
+      "number": 15,
+      "position": "ST",
+      "caps": 13,
+      "age": 30,
+      "height_cm": 176,
+      "current_club": "Mamelodi Sundowns",
+      "national_league": "Premier Soccer League",
+      "club_league_ranking": 53.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "RSA_016",
+      "name": "Sipho Chaine",
+      "number": 16,
+      "position": "GK",
+      "caps": 3,
+      "age": 29,
+      "height_cm": 186,
+      "current_club": "Orlando Pirates",
+      "national_league": "Premier Soccer League",
+      "club_league_ranking": 53.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "RSA_017",
+      "name": "Evidence Makgopa",
+      "number": 17,
+      "position": "ST",
+      "caps": 26,
+      "age": 26,
+      "height_cm": 188,
+      "current_club": "Orlando Pirates",
+      "national_league": "Premier Soccer League",
+      "club_league_ranking": 53.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "RSA_018",
+      "name": "Samukele Kabini",
+      "number": 18,
+      "position": "LB",
+      "caps": 5,
+      "age": 22,
+      "height_cm": 181,
+      "current_club": "Molde FK",
+      "national_league": "Eliteserien",
+      "club_league_ranking": 21.5,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "RSA_019",
+      "name": "Nkosinathi Sibisi",
+      "number": 19,
+      "position": "CB",
+      "caps": 19,
+      "age": 30,
+      "height_cm": 177,
+      "current_club": "Orlando Pirates",
+      "national_league": "Premier Soccer League",
+      "club_league_ranking": 53.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "RSA_020",
+      "name": "Khuliso Mudau",
+      "number": 20,
+      "position": "RB",
+      "caps": 32,
+      "age": 31,
+      "height_cm": 181,
+      "current_club": "Mamelodi Sundowns",
+      "national_league": "Premier Soccer League",
+      "club_league_ranking": 53.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "RSA_021",
+      "name": "Ime Okon",
+      "number": 21,
+      "position": "CB",
+      "caps": 7,
+      "age": 22,
+      "height_cm": 187,
+      "current_club": "Hannover 96",
+      "national_league": "2. Bundesliga",
+      "club_league_ranking": 30.4,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "RSA_022",
+      "name": "Ricardo Goss",
+      "number": 22,
+      "position": "GK",
+      "caps": 4,
+      "age": 32,
+      "height_cm": 181,
+      "current_club": "Siwelele FC",
+      "national_league": "Premier Soccer League",
+      "club_league_ranking": 53.10,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "RSA_023",
+      "name": "Jayden Adams",
+      "number": 23,
+      "position": "CDM",
+      "caps": 4,
+      "age": 25,
+      "height_cm": 175,
+      "current_club": "Mamelodi Sundowns",
+      "national_league": "Premier Soccer League",
+      "club_league_ranking": 53.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "RSA_024",
+      "name": "Olwethu Makhanya",
+      "number": 24,
+      "position": "CB",
+      "caps": 0,
+      "age": 22,
+      "height_cm": 185,
+      "current_club": "Philadelphia Union",
+      "national_league": "MLS",
+      "club_league_ranking": 10.30,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "RSA_025",
+      "name": "Kamogelo Sebelebele",
+      "number": 25,
+      "position": "RM",
+      "caps": 2,
+      "age": 23,
+      "height_cm": 166,
+      "current_club": "Orlando Pirates",
+      "national_league": "Premier Soccer League",
+      "club_league_ranking": 53.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "RSA_026",
+      "name": "Bradley Cross",
+      "number": 26,
+      "position": "LB",
+      "caps": 0,
+      "age": 25,
+      "height_cm": 183,
+      "current_club": "Kaizer Chiefs",
+      "national_league": "Premier Soccer League",
+      "club_league_ranking": 53.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    }
+  ]
+}

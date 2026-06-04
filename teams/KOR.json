@@ -1,0 +1,647 @@
+{
+  "name": "South Korea",
+  "code": "KOR",
+  "confederation": "AFC",
+  "group": "A",
+
+  "tournament_stats": {
+    "matches_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "goals_for": 0,
+    "goals_against": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "clean_sheets": 0
+  },
+
+  "players": [
+    {
+      "id": "KOR_001",
+      "name": "Kim Seung-gyu",
+      "number": 1,
+      "position": "GK",
+      "caps": 87,
+      "age": 35,
+      "height_cm": 187,
+      "current_club": "FC Tokyo",
+      "national_league": "J. League",
+      "club_league_ranking": 15.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "KOR_002",
+      "name": "Lee Han-beom",
+      "number": 2,
+      "position": "CB",
+      "caps": 8,
+      "age": 23,
+      "height_cm": 190,
+      "current_club": "Midtjylland",
+      "national_league": "Superligaen",
+      "club_league_ranking": 12.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "KOR_003",
+      "name": "Lee Gi-hyuk",
+      "number": 3,
+      "position": "CB",
+      "caps": 3,
+      "age": 25,
+      "height_cm": 184,
+      "current_club": "Gangwon FC",
+      "national_league": "K. League",
+      "club_league_ranking": 35.4,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "KOR_004",
+      "name": "Kim Min-jae",
+      "number": 4,
+      "position": "CB",
+      "caps": 79,
+      "age": 29,
+      "height_cm": 190,
+      "current_club": "Bayern München",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "KOR_005",
+      "name": "Kim Tae-hyeon",
+      "number": 5,
+      "position": "CB",
+      "caps": 7,
+      "age": 25,
+      "height_cm": 186,
+      "current_club": "Kashima Antlers",
+      "national_league": "J. League",
+      "club_league_ranking": 15.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "KOR_006",
+      "name": "Hwang In-beom",
+      "number": 6,
+      "position": "CM",
+      "caps": 73,
+      "age": 29,
+      "height_cm": 177,
+      "current_club": "Feyenoord",
+      "national_league": "Erdedivisie",
+      "club_league_ranking": 11.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "KOR_007",
+      "name": "Son Heung-min",
+      "number": 7,
+      "position": "LW",
+      "caps": 144,
+      "age": 33,
+      "height_cm": 183,
+      "current_club": "Los Angeles FC",
+      "national_league": "MLS",
+      "club_league_ranking": 10.9,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "KOR_008",
+      "name": "Paik Seung-ho",
+      "number": 8,
+      "position": "CDM",
+      "caps": 27,
+      "age": 29,
+      "height_cm": 180,
+      "current_club": "Birmingham City",
+      "national_league": "EFL Championship",
+      "club_league_ranking": 7.10,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "KOR_009",
+      "name": "Cho Gue-sung",
+      "number": 9,
+      "position": "ST?",
+      "caps": 44,
+      "age": 28,
+      "height_cm": 188,
+      "current_club": "Midtjylland",
+      "national_league": "Superligaen",
+      "club_league_ranking": 12.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "KOR_010",
+      "name": "Lee Jae-sung",
+      "number": 10,
+      "position": "CAM",
+      "caps": 105,
+      "age": 33,
+      "height_cm": 180,
+      "current_club": "Mainz 05",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.10,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "KOR_011",
+      "name": "Hwang Hee-chan",
+      "number": 11,
+      "position": "ST",
+      "caps": 79,
+      "age": 30,
+      "height_cm": 177,
+      "current_club": "Wolves",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.20,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "KOR_012",
+      "name": "Song Bum-keun",
+      "number": 12,
+      "position": "GK",
+      "caps": 3,
+      "age": 28,
+      "height_cm": 194,
+      "current_club": "Jeonbuk Hyundai Motors",
+      "national_league": "K. League",
+      "club_league_ranking": 35.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "KOR_013",
+      "name": "Lee Tae-seok",
+      "number": 13,
+      "position": "LWB",
+      "caps": 15,
+      "age": 23,
+      "height_cm": 174,
+      "current_club": "Austria Wien",
+      "national_league": "Austrian Bundesliga",
+      "club_league_ranking": 23.4,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "KOR_014",
+      "name": "Cho Wi-je",
+      "number": 14,
+      "position": "CB",
+      "caps": 1,
+      "age": 24,
+      "height_cm": 189,
+      "current_club": "Jeonbuk Hyundai Motors",
+      "national_league": "K. League",
+      "club_league_ranking": 35.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "KOR_015",
+      "name": "Kim Moon-hwan",
+      "number": 15,
+      "position": "RWB",
+      "caps": 35,
+      "age": 30,
+      "height_cm": 173,
+      "current_club": "Daejeon Hana Citizen",
+      "national_league": "K. League",
+      "club_league_ranking": 35.10,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "KOR_016",
+      "name": "Park Jin-seob",
+      "number": 16,
+      "position": "CDM",
+      "caps": 14,
+      "age": 30,
+      "height_cm": 184,
+      "current_club": "Zhejiang",
+      "national_league": "Chinese Super League",
+      "club_league_ranking": 69.8,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "KOR_017",
+      "name": "Bae Jun-ho",
+      "number": 17,
+      "position": "CAM",
+      "caps": 13,
+      "age": 22,
+      "height_cm": 180,
+      "current_club": "Stoke City",
+      "national_league": "EFL Championship",
+      "club_league_ranking": 7.17,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "KOR_018",
+      "name": "Oh Hyeon-gyu",
+      "number": 18,
+      "position": "ST",
+      "caps": 27,
+      "age": 25,
+      "height_cm": 187,
+      "current_club": "Beşiktaş",
+      "national_league": "Süper Lig",
+      "club_league_ranking": 16.4,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "KOR_019",
+      "name": "Lee Kang-in",
+      "number": 19,
+      "position": "RW",
+      "caps": 47,
+      "age": 25,
+      "height_cm": 173,
+      "current_club": "Paris Saint-Germain",
+      "national_league": "Ligue 1",
+      "club_league_ranking": 4.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "KOR_020",
+      "name": "Yang Hyun-jun",
+      "number": 20,
+      "position": "RW",
+      "caps": 9,
+      "age": 24,
+      "height_cm": 176,
+      "current_club": "Celtic",
+      "national_league": "Premiership",
+      "club_league_ranking": 33.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "KOR_021",
+      "name": "Jo Hyeon-woo",
+      "number": 21,
+      "position": "GK",
+      "caps": 48,
+      "age": 34,
+      "height_cm": 189,
+      "current_club": "Ulsan HD",
+      "national_league": "K. League",
+      "club_league_ranking": 35.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "KOR_022",
+      "name": "Seol Young-woo",
+      "number": 22,
+      "position": "RWB",
+      "caps": 34,
+      "age": 27,
+      "height_cm": 183,
+      "current_club": "Crvena Zvezda",
+      "national_league": "Serbian Super Liga",
+      "club_league_ranking": 57.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "KOR_023",
+      "name": "Jens Castrop",
+      "number": 23,
+      "position": "LWB",
+      "caps": 7,
+      "age": 22,
+      "height_cm": 177,
+      "current_club": "Borussia Mönchengladbach",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.12,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "KOR_024",
+      "name": "Kim Jin-gyu",
+      "number": 24,
+      "position": "CM",
+      "caps": 22,
+      "age": 29,
+      "height_cm": 177,
+      "current_club": "Jeonbuk Hyundai Motors",
+      "national_league": "K. League",
+      "club_league_ranking": 35.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "KOR_025",
+      "name": "Eom Ji-sung",
+      "number": 25,
+      "position": "LW",
+      "caps": 9,
+      "age": 24,
+      "height_cm": 176,
+      "current_club": "Swansea City",
+      "national_league": "EFL Championship",
+      "club_league_ranking": 7.11,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "KOR_026",
+      "name": "Lee Dong-gyeong",
+      "number": 26,
+      "position": "CAM",
+      "caps": 18,
+      "age": 28,
+      "height_cm": 175,
+      "current_club": "Ulsan HD",
+      "national_league": "K. League",
+      "club_league_ranking": 35.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    }
+  ]
+}
