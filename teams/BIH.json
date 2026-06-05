@@ -1,0 +1,647 @@
+{
+  "name": "Bosnia and Herzegovina",
+  "code": "BIH",
+  "confederation": "UEFA",
+  "group": "B",
+
+  "tournament_stats": {
+    "matches_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "goals_for": 0,
+    "goals_against": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "clean_sheets": 0
+  },
+
+  "players": [
+    {
+      "id": "BIH_001",
+      "name": "Nikola Vasilj",
+      "number": 1,
+      "position": "GK",
+      "caps": 25,
+      "age": 30,
+      "height_cm": 193,
+      "current_club": "St. Pauli FC",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.18,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BIH_002",
+      "name": "Nihad Mujakić",
+      "number": 2,
+      "position": "LB",
+      "caps": 11,
+      "age": 28,
+      "height_cm": 189,
+      "current_club": "Gaziantep FK",
+      "national_league": "Süper Lig",
+      "club_league_ranking": 16.12,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BIH_003",
+      "name": "Dennis Hadžikadunić",
+      "number": 3,
+      "position": "CB",
+      "caps": 31,
+      "age": 27,
+      "height_cm": 189,
+      "current_club": "Sampdoria",
+      "national_league": "Serie B",
+      "club_league_ranking": 29.13,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BIH_004",
+      "name": "Tarik Muharemović",
+      "number": 4,
+      "position": "CB",
+      "caps": 13,
+      "age": 23,
+      "height_cm": 187,
+      "current_club": "Sassuolo",
+      "national_league": "Serie A",
+      "club_league_ranking": 2.11,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BIH_005",
+      "name": "Sead Kolašinac",
+      "number": 5,
+      "position": "LB",
+      "caps": 64,
+      "age": 32,
+      "height_cm": 183,
+      "current_club": "Atalanta",
+      "national_league": "Serie A",
+      "club_league_ranking": 2.7,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BIH_006",
+      "name": "Benjamin Tahirović",
+      "number": 6,
+      "position": "CDM",
+      "caps": 27,
+      "age": 23,
+      "height_cm": 191,
+      "current_club": "Brøndby",
+      "national_league": "Superligaen",
+      "club_league_ranking": 12.4,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BIH_007",
+      "name": "Amar Dedić",
+      "number": 7,
+      "position": "RB",
+      "caps": 27,
+      "age": 23,
+      "height_cm": 180,
+      "current_club": "Benfica",
+      "national_league": "Liga Portugal",
+      "club_league_ranking": 8.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BIH_008",
+      "name": "Armin Gigović",
+      "number": 8,
+      "position": "CDM",
+      "caps": 19,
+      "age": 24,
+      "height_cm": 187,
+      "current_club": "Young Boys",
+      "national_league": "Swiss Super League",
+      "club_league_ranking": 24.6,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BIH_009",
+      "name": "Samed Baždar",
+      "number": 9,
+      "position": "ST",
+      "caps": 12,
+      "age": 22,
+      "height_cm": 186,
+      "current_club": "Jagiellonia Białystok",
+      "national_league": "Ekstraklasa",
+      "club_league_ranking": 13.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BIH_010",
+      "name": "Ermedin Demirović",
+      "number": 10,
+      "position": "ST",
+      "caps": 39,
+      "age": 28,
+      "height_cm": 185,
+      "current_club": "Stuttgart",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.4,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BIH_011",
+      "name": "Edin Džeko",
+      "number": 11,
+      "position": "ST",
+      "caps": 148,
+      "age": 40,
+      "height_cm": 193,
+      "current_club": "Schalke 04",
+      "national_league": "2. Bundesliga",
+      "club_league_ranking": 30.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BIH_012",
+      "name": "Mladen Jurkas",
+      "number": 12,
+      "position": "GK",
+      "caps": 0,
+      "age": 18,
+      "height_cm": 193,
+      "current_club": "Borac Banja Luka",
+      "national_league": "Bosnian Premier League",
+      "club_league_ranking": 62.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BIH_013",
+      "name": "Ivan Bašić",
+      "number": 13,
+      "position": "CM",
+      "caps": 16,
+      "age": 24,
+      "height_cm": 178,
+      "current_club": "FC Astana",
+      "national_league": "Kazakh Premier League",
+      "club_league_ranking": 81.5,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BIH_014",
+      "name": "Ivan Šunjić",
+      "number": 14,
+      "position": "CDM",
+      "caps": 11,
+      "age": 29,
+      "height_cm": 184,
+      "current_club": "Pafos FC",
+      "national_league": "1. Division",
+      "club_league_ranking": 25.4,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BIH_015",
+      "name": "Amar Memić",
+      "number": 15,
+      "position": "RM",
+      "caps": 12,
+      "age": 25,
+      "height_cm": 176,
+      "current_club": "Viktoria Plzeň",
+      "national_league": "Czech 1. Liga",
+      "club_league_ranking": 27.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BIH_016",
+      "name": "Amir Hadžiahmetović",
+      "number": 16,
+      "position": "CDM",
+      "caps": 35,
+      "age": 29,
+      "height_cm": 179,
+      "current_club": "Hull City",
+      "national_league": "EFL Championship",
+      "club_league_ranking": 7.6,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BIH_017",
+      "name": "Dženis Burnić",
+      "number": 17,
+      "position": "LM",
+      "caps": 19,
+      "age": 28,
+      "height_cm": 181,
+      "current_club": "Karlsruher SC",
+      "national_league": "2. Bundesliga",
+      "club_league_ranking": 30.10,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BIH_018",
+      "name": "Nikola Katić",
+      "number": 18,
+      "position": "CB",
+      "caps": 16,
+      "age": 29,
+      "height_cm": 194,
+      "current_club": "Schalke 04",
+      "national_league": "2. Bundesliga",
+      "club_league_ranking": 30.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BIH_019",
+      "name": "Kerim Alajbegović",
+      "number": 19,
+      "position": "LM",
+      "caps": 9,
+      "age": 18,
+      "height_cm": 186,
+      "current_club": "RB Salzburg",
+      "national_league": "Austrian Bundesliga",
+      "club_league_ranking": 23.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BIH_020",
+      "name": "Esmir Bajraktarević",
+      "number": 20,
+      "position": "RM",
+      "caps": 15,
+      "age": 21,
+      "height_cm": 175,
+      "current_club": "PSV",
+      "national_league": "Eredivisie",
+      "club_league_ranking": 11.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BIH_021",
+      "name": "Stjepan Radeljić",
+      "number": 21,
+      "position": "CB",
+      "caps": 5,
+      "age": 28,
+      "height_cm": 201,
+      "current_club": "Rijeka",
+      "national_league": "HNL",
+      "club_league_ranking": 18.4,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BIH_022",
+      "name": "Martin Zlomislić",
+      "number": 22,
+      "position": "GK",
+      "caps": 3,
+      "age": 27,
+      "height_cm": 190,
+      "current_club": "Rijeka",
+      "national_league": "HNL",
+      "club_league_ranking": 18.4,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BIH_023",
+      "name": "Haris Tabaković",
+      "number": 23,
+      "position": "ST",
+      "caps": 10,
+      "age": 31,
+      "height_cm": 196,
+      "current_club": "Borussia Mönchengladbach",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.12,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BIH_024",
+      "name": "Nidal Čelik",
+      "number": 24,
+      "position": "CB",
+      "caps": 1,
+      "age": 19,
+      "height_cm": 192,
+      "current_club": "Lens",
+      "national_league": "Ligue 1",
+      "club_league_ranking": 4.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BIH_025",
+      "name": "Jovo Lukić",
+      "number": 25,
+      "position": "ST",
+      "caps": 2,
+      "age": 27,
+      "height_cm": 190,
+      "current_club": "Universitate Cluj",
+      "national_league": "Romanian Super Liga",
+      "club_league_ranking": 38.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "BIH_026",
+      "name": "Ermin Mahmić",
+      "number": 26,
+      "position": "CM",
+      "caps": 1,
+      "age": 21,
+      "height_cm": 182,
+      "current_club": "Slovan Liberec",
+      "national_league": "Czech 1. Liga",
+      "club_league_ranking": 27.6,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    }
+  ]
+}
