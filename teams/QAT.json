@@ -1,7 +1,7 @@
 {
-  "name": "Canada",
-  "code": "CAN",
-  "confederation": "CONCACAF",
+  "name": "Qatar",
+  "code": "QAT",
+  "confederation": "AFC",
   "group": "B",
 
   "tournament_stats": {
@@ -18,16 +18,16 @@
 
   "players": [
     {
-      "id": "CAN_001",
-      "name": "Dayne St. Clair",
+      "id": "QAT_001",
+      "name": "Mahmud Abunada",
       "number": 1,
       "position": "GK",
-      "caps": 19,
-      "age": 29,
-      "height_cm": 191,
-      "current_club": "Inter Miami",
-      "national_league": "MLS",
-      "club_league_ranking": 10.4,
+      "caps": 4,
+      "age": 26,
+      "height_cm": 188,
+      "current_club": "Al-Rayyan",
+      "national_league": "Qatar Stars League",
+      "club_league_ranking": 65.3,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -43,16 +43,16 @@
     },
 
     {
-      "id": "CAN_002",
-      "name": "Alistair Johnston",
+      "id": "QAT_002",
+      "name": "Pedro Miguel Correia",
       "number": 2,
       "position": "RB",
-      "caps": 56,
-      "age": 27,
+      "caps": 98,
+      "age": 35,
       "height_cm": 180,
-      "current_club": "Celtic",
-      "national_league": "Premiership",
-      "club_league_ranking": 33.1,
+      "current_club": "Al-Sadd",
+      "national_league": "Qatar Stars League",
+      "club_league_ranking": 65.1,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -67,16 +67,16 @@
     },
 
     {
-      "id": "CAN_003",
-      "name": "Luc De Fougerolles",
+      "id": "QAT_003",
+      "name": "Lucas Mendes",
       "number": 3,
       "position": "CB",
-      "caps": 11,
-      "age": 20,
-      "height_cm": 178,
-      "current_club": "Dender",
-      "national_league": "Pro League",
-      "club_league_ranking": 6.16,
+      "caps": 25,
+      "age": 35,
+      "height_cm": 184,
+      "current_club": "Al-Wakrah",
+      "national_league": "Qatar Stars League",
+      "club_league_ranking": 65.8,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -91,40 +91,16 @@
     },
 
     {
-      "id": "CAN_004",
-      "name": "Alfie Jones",
+      "id": "QAT_004",
+      "name": "Issa Laye",
       "number": 4,
       "position": "CB",
-      "caps": 1,
+      "caps": 3,
       "age": 28,
-      "height_cm": 191,
-      "current_club": "Middlesbrough",
-      "national_league": "EFL Championship",
-      "club_league_ranking": 7.5,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_005",
-      "name": "Joel Waterman",
-      "number": 5,
-      "position": "CB",
-      "caps": 17,
-      "age": 30,
       "height_cm": 188,
-      "current_club": "Chicago Fire FC",
-      "national_league": "MLS",
-      "club_league_ranking": 10.5,
+      "current_club": "Al-Arabi",
+      "national_league": "Qatar Stars League",
+      "club_league_ranking": 65.7,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -139,16 +115,40 @@
     },
 
     {
-      "id": "CAN_006",
-      "name": "Mathieu Choinière",
+      "id": "QAT_005",
+      "name": "Jassem Gaber",
+      "number": 5,
+      "position": "CDM",
+      "caps": 31,
+      "age": 24,
+      "height_cm": 181,
+      "current_club": "Al-Rayyan",
+      "national_league": "Qatar Stars League",
+      "club_league_ranking": 65.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "QAT_006",
+      "name": "Abdulaziz Hatem",
       "number": 6,
       "position": "CM",
-      "caps": 22,
-      "age": 27,
-      "height_cm": 175,
-      "current_club": "Los Angeles FC",
-      "national_league": "MLS",
-      "club_league_ranking": 10.9,
+      "caps": 117,
+      "age": 36,
+      "height_cm": 182,
+      "current_club": "Al-Rayyan",
+      "national_league": "Qatar Stars League",
+      "club_league_ranking": 65.3,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -163,16 +163,16 @@
     },
 
     {
-      "id": "CAN_007",
-      "name": "Stephen Eustáquio",
+      "id": "QAT_007",
+      "name": "Ahmed Alaaeldin",
       "number": 7,
-      "position": "CDM",
-      "caps": 54,
-      "age": 29,
-      "height_cm": 178,
-      "current_club": "Los Angeles FC",
-      "national_league": "MLS",
-      "club_league_ranking": 10.9,
+      "position": "ST",
+      "caps": 67,
+      "age": 33,
+      "height_cm": 177,
+      "current_club": "Al-Rayyan",
+      "national_league": "Qatar Stars League",
+      "club_league_ranking": 65.3,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -187,16 +187,16 @@
     },
 
     {
-      "id": "CAN_008",
-      "name": "Ismaël Koné",
+      "id": "QAT_008",
+      "name": "Edmilson Junior",
       "number": 8,
-      "position": "CM",
-      "caps": 38,
-      "age": 23,
-      "height_cm": 188,
-      "current_club": "Sassuolo",
-      "national_league": "Serie A",
-      "club_league_ranking": 2.11,
+      "position": "RM",
+      "caps": 15,
+      "age": 31,
+      "height_cm": 181,
+      "current_club": "Al-Duhail",
+      "national_league": "Qatar Stars League",
+      "club_league_ranking": 65.5,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -211,16 +211,16 @@
     },
 
     {
-      "id": "CAN_009",
-      "name": "Cyle Larin",
+      "id": "QAT_009",
+      "name": "Mohammed Muntari",
       "number": 9,
       "position": "ST",
-      "caps": 88,
-      "age": 31,
-      "height_cm": 188,
-      "current_club": "Southampton",
-      "national_league": "EFL Championship",
-      "club_league_ranking": 7.4,
+      "caps": 67,
+      "age": 32,
+      "height_cm": 194,
+      "current_club": "Al-Gharafa",
+      "national_league": "Qatar Stars League",
+      "club_league_ranking": 65.4,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -235,16 +235,16 @@
     },
 
     {
-      "id": "CAN_010",
-      "name": "Jonathan David",
+      "id": "QAT_010",
+      "name": "Hassan Al-Haydos",
       "number": 10,
-      "position": "ST",
-      "caps": 75,
-      "age": 26,
-      "height_cm": 178,
-      "current_club": "Juventus",
-      "national_league": "Serie A",
-      "club_league_ranking": 2.6,
+      "position": "CAM",
+      "caps": 185,
+      "age": 35,
+      "height_cm": 174,
+      "current_club": "Al-Sadd",
+      "national_league": "Qatar Stars League",
+      "club_league_ranking": 65.1,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -259,16 +259,16 @@
     },
 
     {
-      "id": "CAN_011",
-      "name": "Liam Millar",
+      "id": "QAT_011",
+      "name": "Akram Afif",
       "number": 11,
       "position": "LM",
-      "caps": 39,
-      "age": 26,
-      "height_cm": 181,
-      "current_club": "Hull City",
-      "national_league": "EFL Championship",
-      "club_league_ranking": 7.6,
+      "caps": 124,
+      "age": 29,
+      "height_cm": 176,
+      "current_club": "Al-Sadd",
+      "national_league": "Qatar Stars League",
+      "club_league_ranking": 65.1,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -283,16 +283,64 @@
     },
 
     {
-      "id": "CAN_012",
-      "name": "Tani Oluwaseyi",
+      "id": "QAT_012",
+      "name": "Karim Boudiaf",
       "number": 12,
-      "position": "ST",
-      "caps": 22,
+      "position": "CDM",
+      "caps": 117,
+      "age": 35,
+      "height_cm": 190,
+      "current_club": "Al-Duhail",
+      "national_league": "Qatar Stars League",
+      "club_league_ranking": 65.5,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "QAT_013",
+      "name": "Ayoub Al-Oui",
+      "number": 13,
+      "position": "RB",
+      "caps": 5,
+      "age": 21,
+      "height_cm": 187,
+      "current_club": "Al-Gharafa",
+      "national_league": "Qatar Stars League",
+      "club_league_ranking": 65.4,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "QAT_014",
+      "name": "Homam Ahmed",
+      "number": 14,
+      "position": "LB",
+      "caps": 67,
       "age": 26,
       "height_cm": 188,
-      "current_club": "Villarreal",
-      "national_league": "La Liga",
-      "club_league_ranking": 3.3,
+      "current_club": "Cultural Leonesa",
+      "national_league": "La Liga 2",
+      "club_league_ranking": 20.21,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -307,64 +355,16 @@
     },
 
     {
-      "id": "CAN_013",
-      "name": "Derek Cornelius",
-      "number": 13,
-      "position": "CB",
-      "caps": 42,
-      "age": 28,
-      "height_cm": 187,
-      "current_club": "Rangers",
-      "national_league": "Premiership",
-      "club_league_ranking": 33.3,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_014",
-      "name": "Jacob Shaffelburg",
-      "number": 14,
-      "position": "LM",
-      "caps": 31,
-      "age": 26,
-      "height_cm": 178,
-      "current_club": "Los Angeles FC",
-      "national_league": "MLS",
-      "club_league_ranking": 10.9,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_015",
-      "name": "Moïse Bombito",
+      "id": "QAT_015",
+      "name": "Yusuf Abdurisag",
       "number": 15,
-      "position": "CB",
-      "caps": 19,
+      "position": "RM",
+      "caps": 38,
       "age": 26,
-      "height_cm": 191,
-      "current_club": "Nice",
-      "national_league": "Ligue 1",
-      "club_league_ranking": 4.16,
+      "height_cm": 175,
+      "current_club": "Al-Wakrah",
+      "national_league": "Qatar Stars League",
+      "club_league_ranking": 65.8,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -379,16 +379,16 @@
     },
 
     {
-      "id": "CAN_016",
-      "name": "Maxime Crépeau",
+      "id": "QAT_016",
+      "name": "Boualem Khoukhi",
       "number": 16,
-      "position": "GK",
-      "caps": 30,
-      "age": 32,
-      "height_cm": 182,
-      "current_club": "Orlando City",
-      "national_league": "MLS",
-      "club_league_ranking": 10.25,
+      "position": "CB",
+      "caps": 115,
+      "age": 35,
+      "height_cm": 185,
+      "current_club": "Al-Sadd",
+      "national_league": "Qatar Stars League",
+      "club_league_ranking": 65.1,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -398,22 +398,21 @@
         "assists": 0,
         "yellow_cards": 0,
         "red_cards": 0,
-        "clean_sheets": 0,
         "rating": 6.0
       }
     },
 
     {
-      "id": "CAN_017",
-      "name": "Tajon Buchanan",
+      "id": "QAT_017",
+      "name": "Ahmed Al-Ganehi",
       "number": 17,
       "position": "RM",
-      "caps": 58,
-      "age": 27,
-      "height_cm": 183,
-      "current_club": "Villarreal",
-      "national_league": "La Liga",
-      "club_league_ranking": 3.3,
+      "caps": 13,
+      "age": 25,
+      "height_cm": 175,
+      "current_club": "Al-Gharafa",
+      "national_league": "Qatar Stars League",
+      "club_league_ranking": 65.4,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -428,16 +427,88 @@
     },
 
     {
-      "id": "CAN_018",
-      "name": "Owen Goodman",
+      "id": "QAT_018",
+      "name": "Sultan Al-Brake",
       "number": 18,
+      "position": "LB",
+      "caps": 16,
+      "age": 30,
+      "height_cm": 175,
+      "current_club": "Al-Duhail",
+      "national_league": "Qatar Stars League",
+      "club_league_ranking": 65.5,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "QAT_019",
+      "name": "Almoez Ali",
+      "number": 19,
+      "position": "ST",
+      "caps": 115,
+      "age": 29,
+      "height_cm": 180,
+      "current_club": "Al-Duhail",
+      "national_league": "Qatar Stars League",
+      "club_league_ranking": 65.5,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "QAT_020",
+      "name": "Ahmed Fathy",
+      "number": 20,
+      "position": "CDM",
+      "caps": 47,
+      "age": 33,
+      "height_cm": 171,
+      "current_club": "Al-Arabi",
+      "national_league": "Qatar Stars League",
+      "club_league_ranking": 65.7,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "QAT_021",
+      "name": "Salah Zakaria",
+      "number": 21,
       "position": "GK",
-      "caps": 0,
-      "age": 22,
-      "height_cm": 193,
-      "current_club": "Barnsley",
-      "national_league": "EFL League One",
-      "club_league_ranking": 41.15,
+      "caps": 8,
+      "age": 27,
+      "height_cm": 187,
+      "current_club": "Al-Duhail",
+      "national_league": "Qatar Stars League",
+      "club_league_ranking": 65.5,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -453,112 +524,41 @@
     },
 
     {
-      "id": "CAN_019",
-      "name": "Alphonso Davies",
-      "number": 19,
-      "position": "LB",
-      "caps": 58,
-      "age": 25,
-      "height_cm": 185,
-      "current_club": "Bayern München",
-      "national_league": "Bundesliga",
-      "club_league_ranking": 5.1,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_020",
-      "name": "Ali Ahmed",
-      "number": 20,
-      "position": "LM",
-      "caps": 24,
-      "age": 25,
-      "height_cm": 180,
-      "current_club": "Norwich City",
-      "national_league": "EFL Championship",
-      "club_league_ranking": 7.9,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_021",
-      "name": "Jonathan Osorio",
-      "number": 21,
-      "position": "CM",
-      "caps": 89,
-      "age": 33,
-      "height_cm": 175,
-      "current_club": "Toronto FC",
-      "national_league": "MLS",
-      "club_league_ranking": 10.26,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_022",
-      "name": "Richie Laryea",
+      "id": "QAT_022",
+      "name": "Meshaal Barsham",
       "number": 22,
-      "position": "RB",
-      "caps": 73,
-      "age": 31,
-      "height_cm": 175,
-      "current_club": "Toronto FC",
-      "national_league": "MLS",
-      "club_league_ranking": 10.26,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_023",
-      "name": "Niko Sigur",
-      "number": 23,
-      "position": "RB",
-      "caps": 17,
-      "age": 22,
+      "position": "GK",
+      "caps": 52,
+      "age": 28,
       "height_cm": 180,
-      "current_club": "Hajduk Split",
-      "national_league": "HNL",
-      "club_league_ranking": 18.2,
+      "current_club": "Al-Sadd",
+      "national_league": "Qatar Stars League",
+      "club_league_ranking": 65.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "QAT_023",
+      "name": "Assim Madibo",
+      "number": 23,
+      "position": "CDM",
+      "caps": 50,
+      "age": 29,
+      "height_cm": 168,
+      "current_club": "Al-Wakrah",
+      "national_league": "Qatar Stars League",
+      "club_league_ranking": 65.8,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -573,64 +573,64 @@
     },
 
     {
-      "id": "CAN_024",
-      "name": "Promise David",
+      "id": "QAT_024",
+      "name": "Tahsin Jamshid",
       "number": 24,
-      "position": "ST",
-      "caps": 8,
-      "age": 24,
-      "height_cm": 195,
-      "current_club": "Union Saint-Gilloise",
-      "national_league": "Pro League",
-      "club_league_ranking": 6.2,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_025",
-      "name": "Nathan Saliba",
-      "number": 25,
-      "position": "CM",
-      "caps": 13,
-      "age": 22,
-      "height_cm": 173,
-      "current_club": "Anderlecht",
-      "national_league": "Pro League",
-      "club_league_ranking": 6.4,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_026",
-      "name": "?",
-      "number": 26,
       "position": "LM",
-      "caps": 0,
-      "age": 0,
-      "height_cm": 0,
-      "current_club": "?",
-      "national_league": "?",
-      "club_league_ranking": 0,
+      "caps": 2,
+      "age": 19,
+      "height_cm": 166,
+      "current_club": "Al-Duhail",
+      "national_league": "Qatar Stars League",
+      "club_league_ranking": 65.5,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "QAT_025",
+      "name": "Al-Hashmi Al-Hussain",
+      "number": 25,
+      "position": "CB",
+      "caps": 7,
+      "age": 22,
+      "height_cm": 184,
+      "current_club": "Al-Arabi",
+      "national_league": "Qatar Stars League",
+      "club_league_ranking": 65.7,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "QAT_026",
+      "name": "Mohamed Manai",
+      "number": 26,
+      "position": "CAM",
+      "caps": 9,
+      "age": 23,
+      "height_cm": 189,
+      "current_club": "Al-Shamal",
+      "national_league": "Qatar Stars League",
+      "club_league_ranking": 65.2,
 
       "tournament_stats": {
         "started_matches": 0,
