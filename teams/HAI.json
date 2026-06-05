@@ -1,0 +1,647 @@
+{
+  "name": "Haiti",
+  "code": "HAI",
+  "confederation": "CONCACAF",
+  "group": "C",
+
+  "tournament_stats": {
+    "matches_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "goals_for": 0,
+    "goals_against": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "clean_sheets": 0
+  },
+
+  "players": [
+    {
+      "id": "HAI_001",
+      "name": "Johnny Placide",
+      "number": 1,
+      "position": "GK",
+      "caps": 80,
+      "age": 38,
+      "height_cm": 181,
+      "current_club": "Bastia",
+      "national_league": "Ligue 2",
+      "club_league_ranking": 34.17,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "HAI_002",
+      "name": "Carlens Arcus",
+      "number": 2,
+      "position": "RB",
+      "caps": 52,
+      "age": 29,
+      "height_cm": 180,
+      "current_club": "Angers SCO",
+      "national_league": "Ligue 1",
+      "club_league_ranking": 4.13,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "HAI_003",
+      "name": "Keeto Thermoncy",
+      "number": 3,
+      "position": "CB",
+      "caps": 1,
+      "age": 20,
+      "height_cm": 185,
+      "current_club": "Young Boys",
+      "national_league": "Swiss Super League",
+      "club_league_ranking": 24.6,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "HAI_004",
+      "name": "Ricardo Adé",
+      "number": 4,
+      "position": "CB",
+      "caps": 58,
+      "age": 36,
+      "height_cm": 190,
+      "current_club": "LDU Quito",
+      "national_league": "Ecuadorian Serie A",
+      "club_league_ranking": 26.6,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "HAI_005",
+      "name": "Hannes Delcroix",
+      "number": 5,
+      "position": "CB",
+      "caps": 6,
+      "age": 27,
+      "height_cm": 185,
+      "current_club": "FC Lugano",
+      "national_league": "Swiss Super League",
+      "club_league_ranking": 24.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "HAI_006",
+      "name": "Carl Sainté",
+      "number": 6,
+      "position": "CDM",
+      "caps": 26,
+      "age": 23,
+      "height_cm": 182,
+      "current_club": "El Paso Locomotive FC",
+      "national_league": "USL Championship",
+      "club_league_ranking": 75.14,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "HAI_007",
+      "name": "Derrick Etienne",
+      "number": 7,
+      "position": "LW",
+      "caps": 47,
+      "age": 29,
+      "height_cm": 178,
+      "current_club": "Toronto FC",
+      "national_league": "MLS",
+      "club_league_ranking": 10.26,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "HAI_008",
+      "name": "Martin Expérience",
+      "number": 8,
+      "position": "LB",
+      "caps": 20,
+      "age": 27,
+      "height_cm": 178,
+      "current_club": "Nancy",
+      "national_league": "Ligue 2",
+      "club_league_ranking": 34.14,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "HAI_009",
+      "name": "Duckens Nazon",
+      "number": 9,
+      "position": "ST",
+      "caps": 77,
+      "age": 32,
+      "height_cm": 181,
+      "current_club": "Esteghlal",
+      "national_league": "Persian Gulf Pro League",
+      "club_league_ranking": 49.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "HAI_010",
+      "name": "Jean-Ricner Bellegarde",
+      "number": 10,
+      "position": "CM",
+      "caps": 9,
+      "age": 27,
+      "height_cm": 170,
+      "current_club": "Wolves",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.20,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "HAI_011",
+      "name": "Louicius Deedson",
+      "number": 11,
+      "position": "RW",
+      "caps": 31,
+      "age": 25,
+      "height_cm": 178,
+      "current_club": "FC Dallas",
+      "national_league": "MLS",
+      "club_league_ranking": 10.8,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "HAI_012",
+      "name": "Alexandre Pierre",
+      "number": 12,
+      "position": "GK",
+      "caps": 15,
+      "age": 25,
+      "height_cm": 190,
+      "current_club": "Sochaux",
+      "national_league": "Ligue 3",
+      "club_league_ranking": 82.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "HAI_013",
+      "name": "Duke Lacroix",
+      "number": 13,
+      "position": "LB",
+      "caps": 15,
+      "age": 32,
+      "height_cm": 175,
+      "current_club": "Colorado Springs Switchbacks FC",
+      "national_league": "USL Championship",
+      "club_league_ranking": 75.16,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "HAI_014",
+      "name": "Leverton Pierre",
+      "number": 14,
+      "position": "CDM",
+      "caps": 33,
+      "age": 28,
+      "height_cm": 181,
+      "current_club": "Vizela",
+      "national_league": "Liga Portugal 2",
+      "club_league_ranking": 58.4,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "HAI_015",
+      "name": "Ruben Providence",
+      "number": 15,
+      "position": "LW",
+      "caps": 14,
+      "age": 24,
+      "height_cm": 178,
+      "current_club": "Almere City",
+      "national_league": "Eerste Divisie",
+      "club_league_ranking": 71.5,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "HAI_016",
+      "name": "Lenny Joseph",
+      "number": 16,
+      "position": "ST",
+      "caps": 1,
+      "age": 25,
+      "height_cm": 183,
+      "current_club": "Ferencváros",
+      "national_league": "NB I",
+      "club_league_ranking": 31.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "HAI_017",
+      "name": "Danly Dean Jacques",
+      "number": 17,
+      "position": "CM",
+      "caps": 29,
+      "age": 26,
+      "height_cm": 182,
+      "current_club": "Philadelphia Union",
+      "national_league": "MLS",
+      "club_league_ranking": 10.30,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "HAI_018",
+      "name": "Wilson Isidor",
+      "number": 18,
+      "position": "ST",
+      "caps": 3,
+      "age": 25,
+      "height_cm": 186,
+      "current_club": "Sunderland",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.7,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "HAI_019",
+      "name": "Yassin Fortuné",
+      "number": 19,
+      "position": "ST",
+      "caps": 4,
+      "age": 27,
+      "height_cm": 186,
+      "current_club": "Vizela",
+      "national_league": "Liga Portugal 2",
+      "club_league_ranking": 58.4,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "HAI_020",
+      "name": "Frantzdy Pierrot",
+      "number": 20,
+      "position": "ST",
+      "caps": 50,
+      "age": 31,
+      "height_cm": 194,
+      "current_club": "Çaykur Rizespor",
+      "national_league": "Süper Lig",
+      "club_league_ranking": 16.8,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "HAI_021",
+      "name": "Josué Casimir",
+      "number": 21,
+      "position": "RM",
+      "caps": 6,
+      "age": 24,
+      "height_cm": 178,
+      "current_club": "Auxerre",
+      "national_league": "Ligue 1",
+      "club_league_ranking": 4.15,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "HAI_022",
+      "name": "Jean-Kévin Duverne",
+      "number": 22,
+      "position": "CB",
+      "caps": 16,
+      "age": 28,
+      "height_cm": 186,
+      "current_club": "Gent",
+      "national_league": "Pro League",
+      "club_league_ranking": 6.5,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "HAI_023",
+      "name": "Josué Duverger",
+      "number": 23,
+      "position": "GK",
+      "caps": 6,
+      "age": 26,
+      "height_cm": 187,
+      "current_club": "Cosmos Koblenz",
+      "national_league": "Rheinlandliga",
+      "club_league_ranking": 83.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "HAI_024",
+      "name": "Wilguens Paugain",
+      "number": 24,
+      "position": "RB",
+      "caps": 7,
+      "age": 24,
+      "height_cm": 180,
+      "current_club": "Zulte Waregem",
+      "national_league": "Pro League",
+      "club_league_ranking": 6.13,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "HAI_025",
+      "name": "Dominique Simon",
+      "number": 25,
+      "position": "CM",
+      "caps": 1,
+      "age": 25,
+      "height_cm": 179,
+      "current_club": "Tatran Prešov",
+      "national_league": "Slovakian 1. Liga",
+      "club_league_ranking": 46.12,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "HAI_026",
+      "name": "Woodensky Pierre",
+      "number": 26,
+      "position": "CM",
+      "caps": 1,
+      "age": 21,
+      "height_cm": 177,
+      "current_club": "Violette",
+      "national_league": "Ligue Haïtienne",
+      "club_league_ranking": 84.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    }
+  ]
+}
