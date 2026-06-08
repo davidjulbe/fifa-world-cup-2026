@@ -1,8 +1,8 @@
 {
-  "name": "Mexico",
-  "code": "MEX",
-  "confederation": "CONCACAF",
-  "group": "A",
+  "name": "Scotland",
+  "code": "SCO",
+  "confederation": "UEFA",
+  "group": "C",
 
   "tournament_stats": {
     "matches_played": 0,
@@ -18,16 +18,16 @@
 
   "players": [
     {
-      "id": "MEX_001",
-      "name": "Raúl Rangel",
+      "id": "SCO_001",
+      "name": "Angus Gunn",
       "number": 1,
       "position": "GK",
-      "caps": 13,
-      "age": 26,
-      "height_cm": 191,
-      "current_club": "Chivas de Guadalajara",
-      "national_league": "Liga MX",
-      "club_league_ranking": 19.2,
+      "caps": 22,
+      "age": 30,
+      "height_cm": 196,
+      "current_club": "Nottingham Forest",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.16,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -43,16 +43,16 @@
     },
 
     {
-      "id": "MEX_002",
-      "name": "Jorge Sánchez",
+      "id": "SCO_002",
+      "name": "Aaron Hickey",
       "number": 2,
       "position": "RB",
-      "caps": 58,
-      "age": 28,
-      "height_cm": 175,
-      "current_club": "PAOK",
-      "national_league": "Greek Super League",
-      "club_league_ranking": 32.3,
+      "caps": 21,
+      "age": 24,
+      "height_cm": 185,
+      "current_club": "Brentford",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.9,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -67,16 +67,16 @@
     },
 
     {
-      "id": "MEX_003",
-      "name": "César Montes",
+      "id": "SCO_003",
+      "name": "Andy Robertson",
       "number": 3,
-      "position": "CB",
-      "caps": 66,
-      "age": 29,
-      "height_cm": 191,
-      "current_club": "Lokomotiv Moscow",
-      "national_league": "Russian Premier League",
-      "club_league_ranking": 22.3,
+      "position": "LB",
+      "caps": 94,
+      "age": 32,
+      "height_cm": 178,
+      "current_club": "Liverpool",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.5,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -91,16 +91,16 @@
     },
 
     {
-      "id": "MEX_004",
-      "name": "Edson Álvarez",
+      "id": "SCO_004",
+      "name": "Scott McTominay",
       "number": 4,
-      "position": "CDM",
-      "caps": 97,
-      "age": 28,
-      "height_cm": 187,
-      "current_club": "Fenerbahçe",
-      "national_league": "Süper Lig",
-      "club_league_ranking": 16.2,
+      "position": "CM",
+      "caps": 70,
+      "age": 29,
+      "height_cm": 193,
+      "current_club": "Napoli",
+      "national_league": "Serie A",
+      "club_league_ranking": 2.2,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -115,16 +115,16 @@
     },
 
     {
-      "id": "MEX_005",
-      "name": "Johan Vásquez",
+      "id": "SCO_005",
+      "name": "Grant Hanley",
       "number": 5,
       "position": "CB",
-      "caps": 45,
-      "age": 27,
-      "height_cm": 185,
-      "current_club": "Genoa",
-      "national_league": "Serie A",
-      "club_league_ranking": 2.16,
+      "caps": 68,
+      "age": 34,
+      "height_cm": 187,
+      "current_club": "Hibernian",
+      "national_league": "Premiership",
+      "club_league_ranking": 33.5,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -139,16 +139,16 @@
     },
 
     {
-      "id": "MEX_006",
-      "name": "Érik Lira",
+      "id": "SCO_006",
+      "name": "Kieran Tierney",
       "number": 6,
-      "position": "CDM",
-      "caps": 24,
-      "age": 26,
-      "height_cm": 172,
-      "current_club": "Cruz Azul",
-      "national_league": "Liga MX",
-      "club_league_ranking": 19.3,
+      "position": "LB",
+      "caps": 56,
+      "age": 29,
+      "height_cm": 178,
+      "current_club": "Celtic",
+      "national_league": "Premiership",
+      "club_league_ranking": 33.1,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -163,16 +163,16 @@
     },
 
     {
-      "id": "MEX_007",
-      "name": "Luis Romo",
+      "id": "SCO_007",
+      "name": "John McGinn",
       "number": 7,
-      "position": "CDM",
-      "caps": 62,
+      "position": "RM",
+      "caps": 86,
       "age": 31,
-      "height_cm": 182,
-      "current_club": "Chivas de Guadalajara",
-      "national_league": "Liga MX",
-      "club_league_ranking": 19.2,
+      "height_cm": 178,
+      "current_club": "Aston Villa",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.4,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -187,16 +187,16 @@
     },
 
     {
-      "id": "MEX_008",
-      "name": "Álvaro Fidalgo",
+      "id": "SCO_008",
+      "name": "Tyler Fletcher",
       "number": 8,
       "position": "CM",
-      "caps": 3,
-      "age": 29,
-      "height_cm": 174,
-      "current_club": "Real Betis",
-      "national_league": "La Liga",
-      "club_league_ranking": 3.5,
+      "caps": 2,
+      "age": 19,
+      "height_cm": 183,
+      "current_club": "Manchester United",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.3,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -211,40 +211,16 @@
     },
 
     {
-      "id": "MEX_009",
-      "name": "Rául Jiménez",
+      "id": "SCO_009",
+      "name": "Lyndon Dykes",
       "number": 9,
       "position": "ST",
-      "caps": 123,
-      "age": 35,
-      "height_cm": 188,
-      "current_club": "Fulham",
-      "national_league": "Premier League",
-      "club_league_ranking": 1.11,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "MEX_010",
-      "name": "Alexis Vega",
-      "number": 10,
-      "position": "LW",
       "caps": 51,
-      "age": 28,
-      "height_cm": 174,
-      "current_club": "Toluca",
-      "national_league": "Liga MX",
-      "club_league_ranking": 19.5,
+      "age": 30,
+      "height_cm": 188,
+      "current_club": "Charlton Athletic",
+      "national_league": "EFL Championship",
+      "club_league_ranking": 7.19,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -259,16 +235,16 @@
     },
 
     {
-      "id": "MEX_011",
-      "name": "Santiago Giménez",
-      "number": 11,
+      "id": "SCO_010",
+      "name": "Ché Adams",
+      "number": 10,
       "position": "ST",
       "caps": 47,
-      "age": 25,
-      "height_cm": 185,
-      "current_club": "AC Milan",
+      "age": 29,
+      "height_cm": 175,
+      "current_club": "Torino",
       "national_league": "Serie A",
-      "club_league_ranking": 2.5,
+      "club_league_ranking": 2.12,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -283,16 +259,40 @@
     },
 
     {
-      "id": "MEX_012",
-      "name": "Carlos Acevedo",
+      "id": "SCO_011",
+      "name": "Ryan Christie",
+      "number": 11,
+      "position": "CM",
+      "caps": 68,
+      "age": 31,
+      "height_cm": 178,
+      "current_club": "Bournemouth",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.6,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "SCO_012",
+      "name": "Liam Kelly",
       "number": 12,
       "position": "GK",
-      "caps": 7,
+      "caps": 3,
       "age": 30,
-      "height_cm": 184,
-      "current_club": "Santos Laguna",
-      "national_league": "Liga MX",
-      "club_league_ranking": 19.18,
+      "height_cm": 187,
+      "current_club": "Rangers",
+      "national_league": "Premiership",
+      "club_league_ranking": 33.3,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -308,16 +308,16 @@
     },
 
     {
-      "id": "MEX_013",
-      "name": "Guillermo Ochoa",
+      "id": "SCO_013",
+      "name": "Jack Hendry",
       "number": 13,
-      "position": "GK",
-      "caps": 152,
-      "age": 40,
-      "height_cm": 185,
-      "current_club": "AEL Limassol",
-      "national_league": "1. Division",
-      "club_league_ranking": 25.8,
+      "position": "CB",
+      "caps": 38,
+      "age": 31,
+      "height_cm": 195,
+      "current_club": "Al-Ettifaq",
+      "national_league": "Saudi Pro League",
+      "club_league_ranking": 36.7,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -327,22 +327,21 @@
         "assists": 0,
         "yellow_cards": 0,
         "red_cards": 0,
-        "clean_sheets": 0,
         "rating": 6.0
       }
     },
 
     {
-      "id": "MEX_014",
-      "name": "Armando González",
+      "id": "SCO_014",
+      "name": "Ross Stewart",
       "number": 14,
       "position": "ST",
-      "caps": 7,
-      "age": 23,
-      "height_cm": 179,
-      "current_club": "Chivas de Guadalajara",
-      "national_league": "Liga MX",
-      "club_league_ranking": 19.2,
+      "caps": 3,
+      "age": 29,
+      "height_cm": 188,
+      "current_club": "Southampton",
+      "national_league": "EFL Championship",
+      "club_league_ranking": 7.4,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -357,40 +356,16 @@
     },
 
     {
-      "id": "MEX_015",
-      "name": "Israel Reyes",
+      "id": "SCO_015",
+      "name": "John Souttar",
       "number": 15,
       "position": "CB",
-      "caps": 33,
-      "age": 26,
-      "height_cm": 179,
-      "current_club": "Club América",
-      "national_league": "Liga MX",
-      "club_league_ranking": 19.8,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "MEX_016",
-      "name": "Julián Quiñones",
-      "number": 16,
-      "position": "ST",
-      "caps": 21,
+      "caps": 24,
       "age": 29,
-      "height_cm": 177,
-      "current_club": "Al-Qadsiah",
-      "national_league": "Saudi Pro League",
-      "club_league_ranking": 36.4,
+      "height_cm": 186,
+      "current_club": "Rangers",
+      "national_league": "Premiership",
+      "club_league_ranking": 33.3,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -405,16 +380,16 @@
     },
 
     {
-      "id": "MEX_017",
-      "name": "Orbelín Pineda",
-      "number": 17,
-      "position": "CM",
-      "caps": 91,
+      "id": "SCO_016",
+      "name": "Dominic Hyam",
+      "number": 16,
+      "position": "CB",
+      "caps": 4,
       "age": 30,
-      "height_cm": 169,
-      "current_club": "AEK Athens",
-      "national_league": "Greek Super League",
-      "club_league_ranking": 32.1,
+      "height_cm": 188,
+      "current_club": "Wrexham",
+      "national_league": "EFL Championship",
+      "club_league_ranking": 7.7,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -429,16 +404,16 @@
     },
 
     {
-      "id": "MEX_018",
-      "name": "Obed Vargas",
-      "number": 18,
-      "position": "CM",
-      "caps": 6,
+      "id": "SCO_017",
+      "name": "Ben Gannon-Doak",
+      "number": 17,
+      "position": "RM",
+      "caps": 14,
       "age": 20,
       "height_cm": 175,
-      "current_club": "Atlético de Madrid",
-      "national_league": "La Liga",
-      "club_league_ranking": 3.4,
+      "current_club": "Bournemouth",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.6,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -453,160 +428,16 @@
     },
 
     {
-      "id": "MEX_019",
-      "name": "Gilberto Mora",
-      "number": 19,
-      "position": "CAM",
-      "caps": 7,
-      "age": 17,
-      "height_cm": 168,
-      "current_club": "Tijuana",
-      "national_league": "Liga MX",
-      "club_league_ranking": 19.9,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "MEX_020",
-      "name": "Mateo Chávez",
-      "number": 20,
-      "position": "LB",
-      "caps": 9,
-      "age": 22,
-      "height_cm": 177,
-      "current_club": "AZ",
-      "national_league": "Eredivisie",
-      "club_league_ranking": 11.7,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "MEX_021",
-      "name": "César Huerta",
-      "number": 21,
-      "position": "RW",
-      "caps": 26,
-      "age": 25,
-      "height_cm": 171,
-      "current_club": "Anderlecht",
-      "national_league": "Pro League",
-      "club_league_ranking": 6.4,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "MEX_022",
-      "name": "Guillermo Martínez",
-      "number": 22,
+      "id": "SCO_018",
+      "name": "George Hirst",
+      "number": 18,
       "position": "ST",
-      "caps": 11,
-      "age": 31,
-      "height_cm": 191,
-      "current_club": "Pumas",
-      "national_league": "Liga MX",
-      "club_league_ranking": 19.1,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "MEX_023",
-      "name": "Jesús Gallardo",
-      "number": 23,
-      "position": "LB",
-      "caps": 120,
-      "age": 31,
-      "height_cm": 178,
-      "current_club": "Toluca",
-      "national_league": "Liga MX",
-      "club_league_ranking": 19.5,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "MEX_024",
-      "name": "Luis Chávez",
-      "number": 24,
-      "position": "CM",
-      "caps": 44,
-      "age": 30,
-      "height_cm": 178,
-      "current_club": "Dynamo Moscow",
-      "national_league": "Russian Premier League",
-      "club_league_ranking": 22.7,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "MEX_025",
-      "name": "Roberto Alvarado",
-      "number": 25,
-      "position": "RW",
-      "caps": 66,
+      "caps": 10,
       "age": 27,
-      "height_cm": 176,
-      "current_club": "Chivas de Guadalajara",
-      "national_league": "Liga MX",
-      "club_league_ranking": 19.2,
+      "height_cm": 191,
+      "current_club": "Ipswich Town",
+      "national_league": "EFL Championship",
+      "club_league_ranking": 7.2,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -621,16 +452,185 @@
     },
 
     {
-      "id": "MEX_026",
-      "name": "Brian Gutiérrez",
+      "id": "SCO_019",
+      "name": "Lewis Ferguson",
+      "number": 19,
+      "position": "CM",
+      "caps": 24,
+      "age": 26,
+      "height_cm": 185,
+      "current_club": "Bologna",
+      "national_league": "Serie A",
+      "club_league_ranking": 2.8,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "SCO_020",
+      "name": "Lawrence Shankland",
+      "number": 20,
+      "position": "ST",
+      "caps": 20,
+      "age": 30,
+      "height_cm": 185,
+      "current_club": "Hearts",
+      "national_league": "Premiership",
+      "club_league_ranking": 33.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "SCO_021",
+      "name": "Craig Gordon",
+      "number": 21,
+      "position": "GK",
+      "caps": 84,
+      "age": 43,
+      "height_cm": 193,
+      "current_club": "Hearts",
+      "national_league": "Premiership",
+      "club_league_ranking": 33.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "SCO_022",
+      "name": "Nathan Patterson",
+      "number": 22,
+      "position": "RB",
+      "caps": 26,
+      "age": 24,
+      "height_cm": 183,
+      "current_club": "Everton",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.13,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "SCO_023",
+      "name": "Kenny McLean",
+      "number": 23,
+      "position": "CM",
+      "caps": 58,
+      "age": 34,
+      "height_cm": 183,
+      "current_club": "Norwich City",
+      "national_league": "EFL Championship",
+      "club_league_ranking": 7.9,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "SCO_024",
+      "name": "Anthony Ralston",
+      "number": 24,
+      "position": "RB",
+      "caps": 27,
+      "age": 27,
+      "height_cm": 183,
+      "current_club": "Celtic",
+      "national_league": "Premiership",
+      "club_league_ranking": 33.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "SCO_025",
+      "name": "Findlay Curtis",
+      "number": 25,
+      "position": "LM",
+      "caps": 3,
+      "age": 20,
+      "height_cm": 180,
+      "current_club": "Kilmarnock",
+      "national_league": "Premiership",
+      "club_league_ranking": 33.10,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "SCO_026",
+      "name": "Scott McKenna",
       "number": 26,
-      "position": "CAM",
-      "caps": 6,
-      "age": 22,
-      "height_cm": 178,
-      "current_club": "Chivas de Guadalajara",
-      "national_league": "Liga MX",
-      "club_league_ranking": 19.2,
+      "position": "CB",
+      "caps": 59,
+      "age": 29,
+      "height_cm": 189,
+      "current_club": "Dinamo Zagreb",
+      "national_league": "HNL",
+      "club_league_ranking": 18.1,
 
       "tournament_stats": {
         "started_matches": 0,

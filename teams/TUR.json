@@ -1,8 +1,8 @@
 {
-  "name": "Mexico",
-  "code": "MEX",
-  "confederation": "CONCACAF",
-  "group": "A",
+  "name": "Turkey",
+  "code": "TUR",
+  "confederation": "UEFA",
+  "group": "D",
 
   "tournament_stats": {
     "matches_played": 0,
@@ -18,16 +18,16 @@
 
   "players": [
     {
-      "id": "MEX_001",
-      "name": "Raúl Rangel",
+      "id": "TUR_001",
+      "name": "Mert Günok",
       "number": 1,
       "position": "GK",
-      "caps": 13,
-      "age": 26,
-      "height_cm": 191,
-      "current_club": "Chivas de Guadalajara",
-      "national_league": "Liga MX",
-      "club_league_ranking": 19.2,
+      "caps": 37,
+      "age": 37,
+      "height_cm": 196,
+      "current_club": "Fenerbahçe",
+      "national_league": "Süper Lig",
+      "club_league_ranking": 16.2,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -43,16 +43,16 @@
     },
 
     {
-      "id": "MEX_002",
-      "name": "Jorge Sánchez",
+      "id": "TUR_002",
+      "name": "Zeki Çelik",
       "number": 2,
       "position": "RB",
-      "caps": 58,
-      "age": 28,
-      "height_cm": 175,
-      "current_club": "PAOK",
-      "national_league": "Greek Super League",
-      "club_league_ranking": 32.3,
+      "caps": 61,
+      "age": 29,
+      "height_cm": 180,
+      "current_club": "Roma",
+      "national_league": "Serie A",
+      "club_league_ranking": 2.3,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -67,16 +67,16 @@
     },
 
     {
-      "id": "MEX_003",
-      "name": "César Montes",
+      "id": "TUR_003",
+      "name": "Merih Demiral",
       "number": 3,
       "position": "CB",
-      "caps": 66,
-      "age": 29,
-      "height_cm": 191,
-      "current_club": "Lokomotiv Moscow",
-      "national_league": "Russian Premier League",
-      "club_league_ranking": 22.3,
+      "caps": 62,
+      "age": 28,
+      "height_cm": 190,
+      "current_club": "Al-Ahli",
+      "national_league": "Saudi Pro League",
+      "club_league_ranking": 36.3,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -91,13 +91,13 @@
     },
 
     {
-      "id": "MEX_004",
-      "name": "Edson Álvarez",
+      "id": "TUR_004",
+      "name": "Çağlar Söyüncü",
       "number": 4,
-      "position": "CDM",
-      "caps": 97,
-      "age": 28,
-      "height_cm": 187,
+      "position": "CB",
+      "caps": 60,
+      "age": 30,
+      "height_cm": 185,
       "current_club": "Fenerbahçe",
       "national_league": "Süper Lig",
       "club_league_ranking": 16.2,
@@ -115,64 +115,16 @@
     },
 
     {
-      "id": "MEX_005",
-      "name": "Johan Vásquez",
+      "id": "TUR_005",
+      "name": "Salih Özcan",
       "number": 5,
-      "position": "CB",
-      "caps": 45,
-      "age": 27,
-      "height_cm": 185,
-      "current_club": "Genoa",
-      "national_league": "Serie A",
-      "club_league_ranking": 2.16,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "MEX_006",
-      "name": "Érik Lira",
-      "number": 6,
       "position": "CDM",
-      "caps": 24,
-      "age": 26,
-      "height_cm": 172,
-      "current_club": "Cruz Azul",
-      "national_league": "Liga MX",
-      "club_league_ranking": 19.3,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "MEX_007",
-      "name": "Luis Romo",
-      "number": 7,
-      "position": "CDM",
-      "caps": 62,
-      "age": 31,
+      "caps": 30,
+      "age": 28,
       "height_cm": 182,
-      "current_club": "Chivas de Guadalajara",
-      "national_league": "Liga MX",
-      "club_league_ranking": 19.2,
+      "current_club": "Borussia Dortmund",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.2,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -187,16 +139,16 @@
     },
 
     {
-      "id": "MEX_008",
-      "name": "Álvaro Fidalgo",
-      "number": 8,
+      "id": "TUR_006",
+      "name": "Orkun Kökçü",
+      "number": 6,
       "position": "CM",
-      "caps": 3,
-      "age": 29,
-      "height_cm": 174,
-      "current_club": "Real Betis",
-      "national_league": "La Liga",
-      "club_league_ranking": 3.5,
+      "caps": 50,
+      "age": 25,
+      "height_cm": 175,
+      "current_club": "Beşiktaş",
+      "national_league": "Süper Lig",
+      "club_league_ranking": 16.4,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -211,16 +163,64 @@
     },
 
     {
-      "id": "MEX_009",
-      "name": "Rául Jiménez",
+      "id": "TUR_007",
+      "name": "Kerem Aktürkoğlu",
+      "number": 7,
+      "position": "LW",
+      "caps": 52,
+      "age": 27,
+      "height_cm": 173,
+      "current_club": "Fenerbahçe",
+      "national_league": "Süper Lig",
+      "club_league_ranking": 16.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "TUR_008",
+      "name": "Arda Güler",
+      "number": 8,
+      "position": "CAM",
+      "caps": 29,
+      "age": 21,
+      "height_cm": 175,
+      "current_club": "Real Madrid",
+      "national_league": "La Liga",
+      "club_league_ranking": 3.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "TUR_009",
+      "name": "Deniz Gül",
       "number": 9,
       "position": "ST",
-      "caps": 123,
-      "age": 35,
-      "height_cm": 188,
-      "current_club": "Fulham",
-      "national_league": "Premier League",
-      "club_league_ranking": 1.11,
+      "caps": 8,
+      "age": 21,
+      "height_cm": 192,
+      "current_club": "FC Porto",
+      "national_league": "Liga Portugal",
+      "club_league_ranking": 8.1,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -235,40 +235,16 @@
     },
 
     {
-      "id": "MEX_010",
-      "name": "Alexis Vega",
+      "id": "TUR_010",
+      "name": "Hakan Çalhanoğlu",
       "number": 10,
-      "position": "LW",
-      "caps": 51,
-      "age": 28,
-      "height_cm": 174,
-      "current_club": "Toluca",
-      "national_league": "Liga MX",
-      "club_league_ranking": 19.5,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "MEX_011",
-      "name": "Santiago Giménez",
-      "number": 11,
-      "position": "ST",
-      "caps": 47,
-      "age": 25,
-      "height_cm": 185,
-      "current_club": "AC Milan",
+      "position": "CM",
+      "caps": 105,
+      "age": 32,
+      "height_cm": 178,
+      "current_club": "Inter Milan",
       "national_league": "Serie A",
-      "club_league_ranking": 2.5,
+      "club_league_ranking": 2.1,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -283,16 +259,40 @@
     },
 
     {
-      "id": "MEX_012",
-      "name": "Carlos Acevedo",
+      "id": "TUR_011",
+      "name": "Kenan Yıldız",
+      "number": 11,
+      "position": "LW",
+      "caps": 28,
+      "age": 21,
+      "height_cm": 185,
+      "current_club": "Juventus",
+      "national_league": "Serie A",
+      "club_league_ranking": 2.6,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "TUR_012",
+      "name": "Altay Bayındır",
       "number": 12,
       "position": "GK",
-      "caps": 7,
-      "age": 30,
-      "height_cm": 184,
-      "current_club": "Santos Laguna",
-      "national_league": "Liga MX",
-      "club_league_ranking": 19.18,
+      "caps": 12,
+      "age": 28,
+      "height_cm": 198,
+      "current_club": "Manchester United",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.3,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -308,16 +308,16 @@
     },
 
     {
-      "id": "MEX_013",
-      "name": "Guillermo Ochoa",
+      "id": "TUR_013",
+      "name": "Eren Elmalı",
       "number": 13,
-      "position": "GK",
-      "caps": 152,
-      "age": 40,
-      "height_cm": 185,
-      "current_club": "AEL Limassol",
-      "national_league": "1. Division",
-      "club_league_ranking": 25.8,
+      "position": "LB",
+      "caps": 23,
+      "age": 25,
+      "height_cm": 180,
+      "current_club": "Galatasaray",
+      "national_league": "Süper Lig",
+      "club_league_ranking": 16.1,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -327,22 +327,21 @@
         "assists": 0,
         "yellow_cards": 0,
         "red_cards": 0,
-        "clean_sheets": 0,
         "rating": 6.0
       }
     },
 
     {
-      "id": "MEX_014",
-      "name": "Armando González",
+      "id": "TUR_014",
+      "name": "Abdülkerim Bardakcı",
       "number": 14,
-      "position": "ST",
-      "caps": 7,
-      "age": 23,
-      "height_cm": 179,
-      "current_club": "Chivas de Guadalajara",
-      "national_league": "Liga MX",
-      "club_league_ranking": 19.2,
+      "position": "CB",
+      "caps": 27,
+      "age": 31,
+      "height_cm": 185,
+      "current_club": "Galatasaray",
+      "national_league": "Süper Lig",
+      "club_league_ranking": 16.1,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -357,16 +356,16 @@
     },
 
     {
-      "id": "MEX_015",
-      "name": "Israel Reyes",
+      "id": "TUR_015",
+      "name": "Ozan Kabak",
       "number": 15,
       "position": "CB",
-      "caps": 33,
+      "caps": 30,
       "age": 26,
-      "height_cm": 179,
-      "current_club": "Club América",
-      "national_league": "Liga MX",
-      "club_league_ranking": 19.8,
+      "height_cm": 187,
+      "current_club": "Hoffenheim",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.5,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -381,16 +380,16 @@
     },
 
     {
-      "id": "MEX_016",
-      "name": "Julián Quiñones",
+      "id": "TUR_016",
+      "name": "İsmail Yüksek",
       "number": 16,
-      "position": "ST",
-      "caps": 21,
-      "age": 29,
-      "height_cm": 177,
-      "current_club": "Al-Qadsiah",
-      "national_league": "Saudi Pro League",
-      "club_league_ranking": 36.4,
+      "position": "CDM",
+      "caps": 32,
+      "age": 27,
+      "height_cm": 183,
+      "current_club": "Fenerbahçe",
+      "national_league": "Süper Lig",
+      "club_league_ranking": 16.2,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -405,16 +404,16 @@
     },
 
     {
-      "id": "MEX_017",
-      "name": "Orbelín Pineda",
+      "id": "TUR_017",
+      "name": "İrfan Can Kahveci",
       "number": 17,
-      "position": "CM",
-      "caps": 91,
+      "position": "RW",
+      "caps": 47,
       "age": 30,
-      "height_cm": 169,
-      "current_club": "AEK Athens",
-      "national_league": "Greek Super League",
-      "club_league_ranking": 32.1,
+      "height_cm": 176,
+      "current_club": "Kasımpaşa",
+      "national_league": "Süper Lig",
+      "club_league_ranking": 16.13,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -429,16 +428,16 @@
     },
 
     {
-      "id": "MEX_018",
-      "name": "Obed Vargas",
+      "id": "TUR_018",
+      "name": "Mert Müldür",
       "number": 18,
-      "position": "CM",
-      "caps": 6,
-      "age": 20,
-      "height_cm": 175,
-      "current_club": "Atlético de Madrid",
-      "national_league": "La Liga",
-      "club_league_ranking": 3.4,
+      "position": "RB",
+      "caps": 45,
+      "age": 27,
+      "height_cm": 188,
+      "current_club": "Fenerbahçe",
+      "national_league": "Süper Lig",
+      "club_league_ranking": 16.2,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -453,16 +452,16 @@
     },
 
     {
-      "id": "MEX_019",
-      "name": "Gilberto Mora",
+      "id": "TUR_019",
+      "name": "Yunus Akgün",
       "number": 19,
       "position": "CAM",
-      "caps": 7,
-      "age": 17,
-      "height_cm": 168,
-      "current_club": "Tijuana",
-      "national_league": "Liga MX",
-      "club_league_ranking": 19.9,
+      "caps": 19,
+      "age": 25,
+      "height_cm": 173,
+      "current_club": "Galatasaray",
+      "national_league": "Süper Lig",
+      "club_league_ranking": 16.1,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -477,16 +476,16 @@
     },
 
     {
-      "id": "MEX_020",
-      "name": "Mateo Chávez",
+      "id": "TUR_020",
+      "name": "Ferdi Kadıoğlu",
       "number": 20,
       "position": "LB",
-      "caps": 9,
-      "age": 22,
-      "height_cm": 177,
-      "current_club": "AZ",
-      "national_league": "Eredivisie",
-      "club_league_ranking": 11.7,
+      "caps": 30,
+      "age": 26,
+      "height_cm": 175,
+      "current_club": "Brighton & Hove Albion",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.8,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -501,16 +500,16 @@
     },
 
     {
-      "id": "MEX_021",
-      "name": "César Huerta",
+      "id": "TUR_021",
+      "name": "Barış Alper Yılmaz",
       "number": 21,
-      "position": "RW",
-      "caps": 26,
-      "age": 25,
-      "height_cm": 171,
-      "current_club": "Anderlecht",
-      "national_league": "Pro League",
-      "club_league_ranking": 6.4,
+      "position": "LW",
+      "caps": 35,
+      "age": 26,
+      "height_cm": 186,
+      "current_club": "Galatasaray",
+      "national_league": "Süper Lig",
+      "club_league_ranking": 16.1,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -525,16 +524,16 @@
     },
 
     {
-      "id": "MEX_022",
-      "name": "Guillermo Martínez",
+      "id": "TUR_022",
+      "name": "Kaan Ayhan",
       "number": 22,
-      "position": "ST",
-      "caps": 11,
+      "position": "CDM",
+      "caps": 73,
       "age": 31,
-      "height_cm": 191,
-      "current_club": "Pumas",
-      "national_league": "Liga MX",
-      "club_league_ranking": 19.1,
+      "height_cm": 185,
+      "current_club": "Galatasaray",
+      "national_league": "Süper Lig",
+      "club_league_ranking": 16.1,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -549,40 +548,16 @@
     },
 
     {
-      "id": "MEX_023",
-      "name": "Jesús Gallardo",
+      "id": "TUR_023",
+      "name": "Uğurcan Çakır",
       "number": 23,
-      "position": "LB",
-      "caps": 120,
-      "age": 31,
-      "height_cm": 178,
-      "current_club": "Toluca",
-      "national_league": "Liga MX",
-      "club_league_ranking": 19.5,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "MEX_024",
-      "name": "Luis Chávez",
-      "number": 24,
-      "position": "CM",
-      "caps": 44,
+      "position": "GK",
+      "caps": 39,
       "age": 30,
-      "height_cm": 178,
-      "current_club": "Dynamo Moscow",
-      "national_league": "Russian Premier League",
-      "club_league_ranking": 22.7,
+      "height_cm": 191,
+      "current_club": "Galatasaray",
+      "national_league": "Süper Lig",
+      "club_league_ranking": 16.1,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -592,21 +567,22 @@
         "assists": 0,
         "yellow_cards": 0,
         "red_cards": 0,
+        "clean_sheets": 0,
         "rating": 6.0
       }
     },
 
     {
-      "id": "MEX_025",
-      "name": "Roberto Alvarado",
-      "number": 25,
+      "id": "TUR_024",
+      "name": "Oğuz Aydın",
+      "number": 24,
       "position": "RW",
-      "caps": 66,
-      "age": 27,
-      "height_cm": 176,
-      "current_club": "Chivas de Guadalajara",
-      "national_league": "Liga MX",
-      "club_league_ranking": 19.2,
+      "caps": 11,
+      "age": 25,
+      "height_cm": 183,
+      "current_club": "Fenerbahçe",
+      "national_league": "Süper Lig",
+      "club_league_ranking": 16.2,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -621,16 +597,40 @@
     },
 
     {
-      "id": "MEX_026",
-      "name": "Brian Gutiérrez",
+      "id": "TUR_025",
+      "name": "Samet Akaydin",
+      "number": 25,
+      "position": "CB",
+      "caps": 19,
+      "age": 32,
+      "height_cm": 190,
+      "current_club": "Çaykur Rizespor",
+      "national_league": "Süper Lig",
+      "club_league_ranking": 16.8,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "TUR_026",
+      "name": "Can Uzun",
       "number": 26,
       "position": "CAM",
       "caps": 6,
-      "age": 22,
-      "height_cm": 178,
-      "current_club": "Chivas de Guadalajara",
-      "national_league": "Liga MX",
-      "club_league_ranking": 19.2,
+      "age": 20,
+      "height_cm": 186,
+      "current_club": "Eintracht Frankfurt",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.8,
 
       "tournament_stats": {
         "started_matches": 0,

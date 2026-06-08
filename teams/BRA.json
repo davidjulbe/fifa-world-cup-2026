@@ -44,15 +44,15 @@
 
     {
       "id": "BRA_002",
-      "name": "Wesley França",
+      "name": "Éderson Silva",
       "number": 2,
-      "position": "RB",
-      "caps": 6,
-      "age": 22,
-      "height_cm": 178,
-      "current_club": "Roma",
+      "position": "CDM",
+      "caps": 3,
+      "age": 26,
+      "height_cm": 183,
+      "current_club": "Atalanta",
       "national_league": "Serie A",
-      "club_league_ranking": 2.3,
+      "club_league_ranking": 2.7,
 
       "tournament_stats": {
         "started_matches": 0,

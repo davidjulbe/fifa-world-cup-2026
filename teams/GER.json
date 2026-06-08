@@ -598,15 +598,15 @@
 
     {
       "id": "GER_025",
-      "name": "Lennart Karl",
+      "name": "Assan Ouédraogo",
       "number": 25,
       "position": "CAM",
-      "caps": 2,
-      "age": 18,
-      "height_cm": 168,
-      "current_club": "Bayern München",
+      "caps": 1,
+      "age": 20,
+      "height_cm": 191,
+      "current_club": "RB Leipzig",
       "national_league": "Bundesliga",
-      "club_league_ranking": 5.1,
+      "club_league_ranking": 5.3,
 
       "tournament_stats": {
         "started_matches": 0,
