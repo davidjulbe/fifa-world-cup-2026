@@ -1,8 +1,8 @@
 {
-  "name": "Canada",
-  "code": "CAN",
-  "confederation": "CONCACAF",
-  "group": "B",
+  "name": "Iran",
+  "code": "IRN",
+  "confederation": "AFC",
+  "group": "G",
 
   "tournament_stats": {
     "matches_played": 0,
@@ -18,16 +18,16 @@
 
   "players": [
     {
-      "id": "CAN_001",
-      "name": "Dayne St. Clair",
+      "id": "IRN_001",
+      "name": "Alireza Beiranvand",
       "number": 1,
       "position": "GK",
-      "caps": 19,
-      "age": 29,
-      "height_cm": 191,
-      "current_club": "Inter Miami",
-      "national_league": "MLS",
-      "club_league_ranking": 10.4,
+      "caps": 86,
+      "age": 33,
+      "height_cm": 195,
+      "current_club": "Tractor",
+      "national_league": "Persian Gulf Pro League",
+      "club_league_ranking": 49.2,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -43,16 +43,16 @@
     },
 
     {
-      "id": "CAN_002",
-      "name": "Alistair Johnston",
+      "id": "IRN_002",
+      "name": "Saleh Hardani",
       "number": 2,
       "position": "RB",
-      "caps": 56,
+      "caps": 18,
       "age": 27,
-      "height_cm": 180,
-      "current_club": "Celtic",
-      "national_league": "Premiership",
-      "club_league_ranking": 33.1,
+      "height_cm": 176,
+      "current_club": "Esteghlal",
+      "national_league": "Persian Gulf Pro League",
+      "club_league_ranking": 49.1,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -67,13 +67,109 @@
     },
 
     {
-      "id": "CAN_003",
-      "name": "Luc De Fougerolles",
+      "id": "IRN_003",
+      "name": "Ehsan Hajsafi",
       "number": 3,
-      "position": "CB",
-      "caps": 11,
-      "age": 20,
+      "position": "LB",
+      "caps": 146,
+      "age": 36,
       "height_cm": 178,
+      "current_club": "Sepahan",
+      "national_league": "Persian Gulf Pro League",
+      "club_league_ranking": 49.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "IRN_004",
+      "name": "Shojae Khalilzadeh",
+      "number": 4,
+      "position": "CB",
+      "caps": 58,
+      "age": 37,
+      "height_cm": 182,
+      "current_club": "Tractor",
+      "national_league": "Persian Gulf Pro League",
+      "club_league_ranking": 49.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "IRN_005",
+      "name": "Milad Mohammadi",
+      "number": 5,
+      "position": "LB",
+      "caps": 76,
+      "age": 32,
+      "height_cm": 177,
+      "current_club": "Persepolis",
+      "national_league": "Persian Gulf Pro League",
+      "club_league_ranking": 49.6,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "IRN_006",
+      "name": "Saeid Ezatolahi",
+      "number": 6,
+      "position": "CDM",
+      "caps": 83,
+      "age": 29,
+      "height_cm": 190,
+      "current_club": "Shabab Al Ahli",
+      "national_league": "UAE Pro League",
+      "club_league_ranking": 52.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "IRN_007",
+      "name": "Alireza Jahanbakhsh",
+      "number": 7,
+      "position": "RW",
+      "caps": 98,
+      "age": 32,
+      "height_cm": 181,
       "current_club": "Dender",
       "national_league": "Pro League",
       "club_league_ranking": 6.16,
@@ -91,16 +187,16 @@
     },
 
     {
-      "id": "CAN_004",
-      "name": "Alfie Jones",
-      "number": 4,
-      "position": "CB",
-      "caps": 1,
-      "age": 28,
-      "height_cm": 191,
-      "current_club": "Middlesbrough",
-      "national_league": "EFL Championship",
-      "club_league_ranking": 7.5,
+      "id": "IRN_008",
+      "name": "Mohammad Mohebi",
+      "number": 8,
+      "position": "ST",
+      "caps": 36,
+      "age": 27,
+      "height_cm": 180,
+      "current_club": "FC Rostov",
+      "national_league": "Russian Premier League",
+      "club_league_ranking": 22.10,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -115,305 +211,257 @@
     },
 
     {
-      "id": "CAN_005",
-      "name": "Joel Waterman",
-      "number": 5,
+      "id": "IRN_009",
+      "name": "Mehdi Taremi",
+      "number": 9,
+      "position": "ST",
+      "caps": 105,
+      "age": 33,
+      "height_cm": 187,
+      "current_club": "Olympiacos",
+      "national_league": "Greek Super League",
+      "club_league_ranking": 32.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "IRN_010",
+      "name": "Mehdi Ghayedi",
+      "number": 10,
+      "position": "RW",
+      "caps": 30,
+      "age": 27,
+      "height_cm": 166,
+      "current_club": "Al-Nasr",
+      "national_league": "UAE Pro League",
+      "club_league_ranking": 52.6,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "IRN_011",
+      "name": "Ali Alipour",
+      "number": 11,
+      "position": "ST",
+      "caps": 14,
+      "age": 30,
+      "height_cm": 181,
+      "current_club": "Persepolis",
+      "national_league": "Persian Gulf Pro League",
+      "club_league_ranking": 49.6,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "IRN_012",
+      "name": "Payam Niazmand",
+      "number": 12,
+      "position": "GK",
+      "caps": 15,
+      "age": 31,
+      "height_cm": 192,
+      "current_club": "Persepolis",
+      "national_league": "Persian Gulf Pro League",
+      "club_league_ranking": 49.6,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "IRN_013",
+      "name": "Hossein Kanaanizadegan",
+      "number": 13,
+      "position": "CB",
+      "caps": 65,
+      "age": 32,
+      "height_cm": 188,
+      "current_club": "Persepolis",
+      "national_league": "Persian Gulf Pro League",
+      "club_league_ranking": 49.6,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "IRN_014",
+      "name": "Saman Ghoddos",
+      "number": 14,
+      "position": "CM",
+      "caps": 68,
+      "age": 32,
+      "height_cm": 176,
+      "current_club": "Al-Ittihad Kalba",
+      "national_league": "UAE Pro League",
+      "club_league_ranking": 52.11,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "IRN_015",
+      "name": "Roozbeh Cheshmi",
+      "number": 15,
+      "position": "CDM",
+      "caps": 40,
+      "age": 32,
+      "height_cm": 194,
+      "current_club": "Esteghlal",
+      "national_league": "Persian Gulf Pro League",
+      "club_league_ranking": 49.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "IRN_016",
+      "name": "Mehdi Torabi",
+      "number": 16,
+      "position": "LW",
+      "caps": 52,
+      "age": 31,
+      "height_cm": 180,
+      "current_club": "Tractor",
+      "national_league": "Persian Gulf Pro League",
+      "club_league_ranking": 49.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "IRN_017",
+      "name": "Aria Yousefi",
+      "number": 17,
+      "position": "RB",
+      "caps": 14,
+      "age": 24,
+      "height_cm": 181,
+      "current_club": "Sepahan",
+      "national_league": "Persian Gulf Pro League",
+      "club_league_ranking": 49.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "IRN_018",
+      "name": "Amirhossein Hosseinzadeh",
+      "number": 18,
+      "position": "ST",
+      "caps": 18,
+      "age": 25,
+      "height_cm": 178,
+      "current_club": "Tractor",
+      "national_league": "Persian Gulf Pro League",
+      "club_league_ranking": 49.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "IRN_019",
+      "name": "Ali Nemati",
+      "number": 19,
       "position": "CB",
       "caps": 17,
       "age": 30,
-      "height_cm": 188,
-      "current_club": "Chicago Fire FC",
-      "national_league": "MLS",
-      "club_league_ranking": 10.5,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_006",
-      "name": "Mathieu Choinière",
-      "number": 6,
-      "position": "CM",
-      "caps": 22,
-      "age": 27,
-      "height_cm": 175,
-      "current_club": "Los Angeles FC",
-      "national_league": "MLS",
-      "club_league_ranking": 10.9,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_007",
-      "name": "Stephen Eustáquio",
-      "number": 7,
-      "position": "CDM",
-      "caps": 54,
-      "age": 29,
-      "height_cm": 178,
-      "current_club": "Los Angeles FC",
-      "national_league": "MLS",
-      "club_league_ranking": 10.9,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_008",
-      "name": "Ismaël Koné",
-      "number": 8,
-      "position": "CM",
-      "caps": 38,
-      "age": 23,
-      "height_cm": 188,
-      "current_club": "Sassuolo",
-      "national_league": "Serie A",
-      "club_league_ranking": 2.11,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_009",
-      "name": "Cyle Larin",
-      "number": 9,
-      "position": "ST",
-      "caps": 88,
-      "age": 31,
-      "height_cm": 188,
-      "current_club": "Southampton",
-      "national_league": "EFL Championship",
-      "club_league_ranking": 7.4,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_010",
-      "name": "Jonathan David",
-      "number": 10,
-      "position": "ST",
-      "caps": 75,
-      "age": 26,
-      "height_cm": 178,
-      "current_club": "Juventus",
-      "national_league": "Serie A",
-      "club_league_ranking": 2.6,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_011",
-      "name": "Liam Millar",
-      "number": 11,
-      "position": "LM",
-      "caps": 39,
-      "age": 26,
-      "height_cm": 181,
-      "current_club": "Hull City",
-      "national_league": "EFL Championship",
-      "club_league_ranking": 7.6,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_012",
-      "name": "Tani Oluwaseyi",
-      "number": 12,
-      "position": "ST",
-      "caps": 22,
-      "age": 26,
-      "height_cm": 188,
-      "current_club": "Villarreal",
-      "national_league": "La Liga",
-      "club_league_ranking": 3.3,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_013",
-      "name": "Derek Cornelius",
-      "number": 13,
-      "position": "CB",
-      "caps": 42,
-      "age": 28,
-      "height_cm": 187,
-      "current_club": "Rangers",
-      "national_league": "Premiership",
-      "club_league_ranking": 33.3,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_014",
-      "name": "Jacob Shaffelburg",
-      "number": 14,
-      "position": "LM",
-      "caps": 31,
-      "age": 26,
-      "height_cm": 178,
-      "current_club": "Los Angeles FC",
-      "national_league": "MLS",
-      "club_league_ranking": 10.9,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_015",
-      "name": "Moïse Bombito",
-      "number": 15,
-      "position": "CB",
-      "caps": 19,
-      "age": 26,
-      "height_cm": 191,
-      "current_club": "Nice",
-      "national_league": "Ligue 1",
-      "club_league_ranking": 4.16,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_016",
-      "name": "Maxime Crépeau",
-      "number": 16,
-      "position": "GK",
-      "caps": 30,
-      "age": 32,
       "height_cm": 182,
-      "current_club": "Orlando City",
-      "national_league": "MLS",
-      "club_league_ranking": 10.25,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "clean_sheets": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_017",
-      "name": "Tajon Buchanan",
-      "number": 17,
-      "position": "RM",
-      "caps": 58,
-      "age": 27,
-      "height_cm": 183,
-      "current_club": "Villarreal",
-      "national_league": "La Liga",
-      "club_league_ranking": 3.3,
+      "current_club": "Foolad",
+      "national_league": "Persian Gulf Pro League",
+      "club_league_ranking": 49.7,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -428,113 +476,16 @@
     },
 
     {
-      "id": "CAN_018",
-      "name": "Owen Goodman",
-      "number": 18,
-      "position": "GK",
-      "caps": 0,
-      "age": 22,
-      "height_cm": 193,
-      "current_club": "Barnsley",
-      "national_league": "EFL League One",
-      "club_league_ranking": 41.15,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "clean_sheets": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_019",
-      "name": "Alphonso Davies",
-      "number": 19,
-      "position": "LB",
-      "caps": 58,
-      "age": 25,
-      "height_cm": 185,
-      "current_club": "Bayern München",
-      "national_league": "Bundesliga",
-      "club_league_ranking": 5.1,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_020",
-      "name": "Ali Ahmed",
+      "id": "IRN_020",
+      "name": "Shahriyar Moghanlou",
       "number": 20,
-      "position": "LM",
-      "caps": 24,
-      "age": 25,
-      "height_cm": 180,
-      "current_club": "Norwich City",
-      "national_league": "EFL Championship",
-      "club_league_ranking": 7.9,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_021",
-      "name": "Jonathan Osorio",
-      "number": 21,
-      "position": "CM",
-      "caps": 89,
-      "age": 33,
-      "height_cm": 175,
-      "current_club": "Toronto FC",
-      "national_league": "MLS",
-      "club_league_ranking": 10.26,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_022",
-      "name": "Richie Laryea",
-      "number": 22,
-      "position": "RB",
-      "caps": 73,
+      "position": "ST",
+      "caps": 21,
       "age": 31,
-      "height_cm": 175,
-      "current_club": "Toronto FC",
-      "national_league": "MLS",
-      "club_league_ranking": 10.26,
+      "height_cm": 192,
+      "current_club": "Al-Ittihad Kalba",
+      "national_league": "UAE Pro League",
+      "club_league_ranking": 52.11,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -549,16 +500,65 @@
     },
 
     {
-      "id": "CAN_023",
-      "name": "Niko Sigur",
+      "id": "IRN_021",
+      "name": "Mohammad Ghorbani",
+      "number": 21,
+      "position": "CDM",
+      "caps": 16,
+      "age": 24,
+      "height_cm": 190,
+      "current_club": "Al Wahda",
+      "national_league": "UAE Pro League",
+      "club_league_ranking": 52.5,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "IRN_022",
+      "name": "Hossein Hosseini",
+      "number": 22,
+      "position": "GK",
+      "caps": 13,
+      "age": 33,
+      "height_cm": 189,
+      "current_club": "Sepahan",
+      "national_league": "Persian Gulf Pro League",
+      "club_league_ranking": 49.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "IRN_023",
+      "name": "Ramin Rezaiean",
       "number": 23,
       "position": "RB",
-      "caps": 17,
-      "age": 22,
-      "height_cm": 180,
-      "current_club": "Hajduk Split",
-      "national_league": "HNL",
-      "club_league_ranking": 18.2,
+      "caps": 74,
+      "age": 36,
+      "height_cm": 184,
+      "current_club": "Foolad",
+      "national_league": "Persian Gulf Pro League",
+      "club_league_ranking": 49.7,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -573,16 +573,16 @@
     },
 
     {
-      "id": "CAN_024",
-      "name": "Promise David",
+      "id": "IRN_024",
+      "name": "Dennis Eckert",
       "number": 24,
-      "position": "ST",
-      "caps": 8,
-      "age": 24,
-      "height_cm": 195,
-      "current_club": "Union Saint-Gilloise",
+      "position": "CAM",
+      "caps": 0,
+      "age": 29,
+      "height_cm": 182,
+      "current_club": "Standard Liège",
       "national_league": "Pro League",
-      "club_league_ranking": 6.2,
+      "club_league_ranking": 6.8,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -597,16 +597,16 @@
     },
 
     {
-      "id": "CAN_025",
-      "name": "Nathan Saliba",
+      "id": "IRN_025",
+      "name": "Danial Eiri",
       "number": 25,
-      "position": "CM",
-      "caps": 13,
+      "position": "CB",
+      "caps": 0,
       "age": 22,
-      "height_cm": 173,
-      "current_club": "Anderlecht",
-      "national_league": "Pro League",
-      "club_league_ranking": 6.4,
+      "height_cm": 184,
+      "current_club": "Malavan",
+      "national_league": "Persian Gulf Pro League",
+      "club_league_ranking": 49.10,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -621,16 +621,16 @@
     },
 
     {
-      "id": "CAN_026",
-      "name": "Jayden Nelson",
+      "id": "IRN_026",
+      "name": "Amirmohammad Razzaghinia",
       "number": 26,
-      "position": "LM",
-      "caps": 14,
-      "age": 24,
-      "height_cm": 170,
-      "current_club": "Austin FC",
-      "national_league": "MLS",
-      "club_league_ranking": 10.27,
+      "position": "CDM",
+      "caps": 4,
+      "age": 20,
+      "height_cm": 187,
+      "current_club": "Esteghlal",
+      "national_league": "Persian Gulf Pro League",
+      "club_league_ranking": 49.1,
 
       "tournament_stats": {
         "started_matches": 0,
