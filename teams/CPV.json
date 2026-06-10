@@ -1,0 +1,647 @@
+{
+  "name": "Cape Verde",
+  "code": "CPV",
+  "confederation": "CAF",
+  "group": "H",
+
+  "tournament_stats": {
+    "matches_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "goals_for": 0,
+    "goals_against": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "clean_sheets": 0
+  },
+
+  "players": [
+    {
+      "id": "CPV_001",
+      "name": "Vózinha Dias",
+      "number": 1,
+      "position": "GK",
+      "caps": 86,
+      "age": 40,
+      "height_cm": 189,
+      "current_club": "Chaves",
+      "national_league": "Liga Portugal 2",
+      "club_league_ranking": 58.9,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CPV_002",
+      "name": "Stopira Tavares",
+      "number": 2,
+      "position": "LB",
+      "caps": 62,
+      "age": 38,
+      "height_cm": 180,
+      "current_club": "Torreense",
+      "national_league": "Liga Portugal 2",
+      "club_league_ranking": 58.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CPV_003",
+      "name": "Diney Borges",
+      "number": 3,
+      "position": "CB",
+      "caps": 30,
+      "age": 31,
+      "height_cm": 185,
+      "current_club": "Al Bataeh",
+      "national_league": "UAE Pro League",
+      "club_league_ranking": 52.13,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CPV_004",
+      "name": "Roberto Lopes",
+      "number": 4,
+      "position": "CB",
+      "caps": 45,
+      "age": 33,
+      "height_cm": 186,
+      "current_club": "Shamrock Rovers",
+      "national_league": "Irish Premier Division",
+      "club_league_ranking": 86.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CPV_005",
+      "name": "Logan Costa",
+      "number": 5,
+      "position": "CB",
+      "caps": 28,
+      "age": 25,
+      "height_cm": 190,
+      "current_club": "Villarreal",
+      "national_league": "La Liga",
+      "club_league_ranking": 3.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CPV_006",
+      "name": "Kevin Pina",
+      "number": 6,
+      "position": "CDM",
+      "caps": 31,
+      "age": 29,
+      "height_cm": 181,
+      "current_club": "FC Krasnodar",
+      "national_league": "Russian Premier League",
+      "club_league_ranking": 22.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CPV_007",
+      "name": "Jovane Cabral",
+      "number": 7,
+      "position": "LW",
+      "caps": 27,
+      "age": 27,
+      "height_cm": 176,
+      "current_club": "Estrela da Amadora",
+      "national_league": "Liga Portugal",
+      "club_league_ranking": 8.15,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CPV_008",
+      "name": "João Paulo Fernandes",
+      "number": 8,
+      "position": "CDM?",
+      "caps": 42,
+      "age": 28,
+      "height_cm": 180,
+      "current_club": "FC Steaua București",
+      "national_league": "Romanian Super Liga",
+      "club_league_ranking": 38.8,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CPV_009",
+      "name": "Gilson Benchimol",
+      "number": 9,
+      "position": "ST",
+      "caps": 22,
+      "age": 24,
+      "height_cm": 187,
+      "current_club": "Akron Tolyatti",
+      "national_league": "Russian Premier League",
+      "club_league_ranking": 22.13,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CPV_010",
+      "name": "Jamiro Monteiro",
+      "number": 10,
+      "position": "CM",
+      "caps": 55,
+      "age": 32 ,
+      "height_cm": 172,
+      "current_club": "PEC Zwolle",
+      "national_league": "Eredivisie",
+      "club_league_ranking": 11.15,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CPV_011",
+      "name": "Garry Rodrigues",
+      "number": 11,
+      "position": "RW",
+      "caps": 60,
+      "age": 35,
+      "height_cm": 173,
+      "current_club": "Apollon Limassol",
+      "national_league": "1. Division",
+      "club_league_ranking": 25.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CPV_012",
+      "name": "Márcio Rosa",
+      "number": 12,
+      "position": "GK",
+      "caps": 11,
+      "age": 29,
+      "height_cm": 186,
+      "current_club": "Montana",
+      "national_league": "Bulgarian First Professional League",
+      "club_league_ranking": 60.16,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CPV_013",
+      "name": "Sidny Lopes Cabral",
+      "number": 13,
+      "position": "RB",
+      "caps": 9,
+      "age": 23,
+      "height_cm": 176,
+      "current_club": "Benfica",
+      "national_league": "Liga Portugal",
+      "club_league_ranking": 8.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CPV_014",
+      "name": "Deroy Duarte",
+      "number": 14,
+      "position": "CM",
+      "caps": 30,
+      "age": 26,
+      "height_cm": 177,
+      "current_club": "Ludogorets Razgrad",
+      "national_league": "Bulgarian First Professional League",
+      "club_league_ranking": 60.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CPV_015",
+      "name": "Laros Duarte",
+      "number": 15,
+      "position": "CM",
+      "caps": 13,
+      "age": 29,
+      "height_cm": 180,
+      "current_club": "Puskás Akadémia",
+      "national_league": "NB I",
+      "club_league_ranking": 31.6,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CPV_016",
+      "name": "Yannick Semedo",
+      "number": 16,
+      "position": "CM",
+      "caps": 10,
+      "age": 30,
+      "height_cm": 171,
+      "current_club": "Farense",
+      "national_league": "Liga Portugal 2",
+      "club_league_ranking": 58.16,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CPV_017",
+      "name": "Willy Semedo",
+      "number": 17,
+      "position": "LW",
+      "caps": 38,
+      "age": 32,
+      "height_cm": 185,
+      "current_club": "Omonia Nicosia",
+      "national_league": "1. Division",
+      "club_league_ranking": 25.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CPV_018",
+      "name": "Telmo Arcanjo",
+      "number": 18,
+      "position": "RW",
+      "caps": 16,
+      "age": 24,
+      "height_cm": 180,
+      "current_club": "Vitória de Guimarães",
+      "national_league": "Liga Portugal",
+      "club_league_ranking": 8.9,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CPV_019",
+      "name": "Dailon Livramento",
+      "number": 19,
+      "position": "ST",
+      "caps": 22,
+      "age": 25,
+      "height_cm": 185,
+      "current_club": "Casa Pia",
+      "national_league": "Liga Portugal",
+      "club_league_ranking": 8.16,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CPV_020",
+      "name": "Ryan Mendes",
+      "number": 20,
+      "position": "RW",
+      "caps": 98,
+      "age": 36,
+      "height_cm": 178,
+      "current_club": "Iğdır",
+      "national_league": "TFF 1. Lig",
+      "club_league_ranking": 79.13,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CPV_021",
+      "name": "Nuno da Costa",
+      "number": 21,
+      "position": "ST",
+      "caps": 9,
+      "age": 35,
+      "height_cm": 184,
+      "current_club": "İstanbul Başakşehir",
+      "national_league": "Süper Lig",
+      "club_league_ranking": 16.5,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CPV_022",
+      "name": "Steven Moreira",
+      "number": 22,
+      "position": "CB",
+      "caps": 20,
+      "age": 31,
+      "height_cm": 178,
+      "current_club": "Columbus Crew",
+      "national_league": "MLS",
+      "club_league_ranking": 10.21,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CPV_023",
+      "name": "C.J. dos Santos",
+      "number": 23,
+      "position": "GK",
+      "caps": 1,
+      "age": 25,
+      "height_cm": 194,
+      "current_club": "San Diego FC",
+      "national_league": "MLS",
+      "club_league_ranking": 10.19,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CPV_024",
+      "name": "Wagner Pina",
+      "number": 24,
+      "position": "RB",
+      "caps": 13,
+      "age": 23,
+      "height_cm": 180,
+      "current_club": "Trabzonspor",
+      "national_league": "Süper Lig",
+      "club_league_ranking": 16.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CPV_025",
+      "name": "Kelvin Pires",
+      "number": 25,
+      "position": "CB",
+      "caps": 5,
+      "age": 26,
+      "height_cm": 193,
+      "current_club": "SJK",
+      "national_league": "Veikkausliiga",
+      "club_league_ranking": 67.11,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CPV_026",
+      "name": "Hélio Varela",
+      "number": 26,
+      "position": "LW",
+      "caps": 20,
+      "age": 24,
+      "height_cm": 176,
+      "current_club": "Maccabi Tel Aviv",
+      "national_league": "Ligat Ha'Al",
+      "club_league_ranking": 42.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    }
+  ]
+}
