@@ -1,8 +1,8 @@
 {
-  "name": "United States of America",
-  "code": "USA",
-  "confederation": "CONCACAF",
-  "group": "D",
+  "name": "Iraq",
+  "code": "IRQ",
+  "confederation": "AFC",
+  "group": "I",
 
   "tournament_stats": {
     "matches_played": 0,
@@ -18,16 +18,16 @@
 
   "players": [
     {
-      "id": "USA_001",
-      "name": "Matt Turner",
+      "id": "IRQ_001",
+      "name": "Fahad Talib",
       "number": 1,
       "position": "GK",
-      "caps": 53,
+      "caps": 21,
       "age": 31,
-      "height_cm": 191,
-      "current_club": "New England Revolution",
-      "national_league": "MLS",
-      "club_league_ranking": 10.7,
+      "height_cm": 193,
+      "current_club": "Al-Talaba",
+      "national_league": "Iraq Stars League",
+      "club_league_ranking": 87.5,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -43,16 +43,16 @@
     },
 
     {
-      "id": "USA_002",
-      "name": "Sergiño Dest",
+      "id": "IRQ_002",
+      "name": "Rebin Sulaka",
       "number": 2,
-      "position": "RB",
-      "caps": 37,
-      "age": 25,
-      "height_cm": 171,
-      "current_club": "PSV",
-      "national_league": "Eredivisie",
-      "club_league_ranking": 11.1,
+      "position": "CB",
+      "caps": 56,
+      "age": 34,
+      "height_cm": 192,
+      "current_club": "Port FC",
+      "national_league": "Thai League",
+      "club_league_ranking": 88.2,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -67,472 +67,16 @@
     },
 
     {
-      "id": "USA_003",
-      "name": "Chris Richards",
+      "id": "IRQ_003",
+      "name": "Hussein Ali",
       "number": 3,
-      "position": "CB",
-      "caps": 36,
-      "age": 26,
-      "height_cm": 188,
-      "current_club": "Crystal Palace",
-      "national_league": "Premier League",
-      "club_league_ranking": 1.15,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "USA_004",
-      "name": "Tyler Adams",
-      "number": 4,
-      "position": "CDM",
-      "caps": 52,
-      "age": 27,
-      "height_cm": 175,
-      "current_club": "Bournemouth",
-      "national_league": "Premier League",
-      "club_league_ranking": 1.6,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "USA_005",
-      "name": "Antonee Robinson",
-      "number": 5,
-      "position": "LB",
-      "caps": 52,
-      "age": 28,
-      "height_cm": 183,
-      "current_club": "Fulham",
-      "national_league": "Premier League",
-      "club_league_ranking": 1.11,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "USA_006",
-      "name": "Auston Trusty",
-      "number": 6,
-      "position": "CB",
-      "caps": 6,
-      "age": 27,
-      "height_cm": 191,
-      "current_club": "Celtic",
-      "national_league": "Premiership",
-      "club_league_ranking": 33.1,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "USA_007",
-      "name": "Giovanni Reyna",
-      "number": 7,
-      "position": "CAM",
-      "caps": 36,
-      "age": 23,
-      "height_cm": 185,
-      "current_club": "Borussia Mönchengladbach",
-      "national_league": "Bundesliga",
-      "club_league_ranking": 5.12,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "USA_008",
-      "name": "Weston McKennie",
-      "number": 8,
-      "position": "CM",
-      "caps": 64,
-      "age": 27,
-      "height_cm": 185,
-      "current_club": "Juventus",
-      "national_league": "Serie A",
-      "club_league_ranking": 2.6,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "USA_009",
-      "name": "Ricardo Pepi",
-      "number": 9,
-      "position": "ST",
-      "caps": 35,
-      "age": 23,
-      "height_cm": 185,
-      "current_club": "PSV",
-      "national_league": "Eredivisie",
-      "club_league_ranking": 11.1,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "USA_010",
-      "name": "Christian Pulisic",
-      "number": 10,
-      "position": "RW",
-      "caps": 84,
-      "age": 27,
-      "height_cm": 178,
-      "current_club": "AC Milan",
-      "national_league": "Serie A",
-      "club_league_ranking": 2.5,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "USA_011",
-      "name": "Brenden Aaronson",
-      "number": 11,
-      "position": "RM",
-      "caps": 57,
-      "age": 25,
-      "height_cm": 177,
-      "current_club": "Leeds United",
-      "national_league": "Premier League",
-      "club_league_ranking": 1.14,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "USA_012",
-      "name": "Miles Robinson",
-      "number": 12,
-      "position": "CB",
-      "caps": 38,
-      "age": 29,
-      "height_cm": 188,
-      "current_club": "FC Cincinnati",
-      "national_league": "MLS",
-      "club_league_ranking": 10.16,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "USA_013",
-      "name": "Tim Ream",
-      "number": 13,
-      "position": "CB",
-      "caps": 80,
-      "age": 38,
-      "height_cm": 185,
-      "current_club": "Charlotte FC",
-      "national_league": "MLS",
-      "club_league_ranking": 10.14,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "USA_014",
-      "name": "Sebastian Berhalter",
-      "number": 14,
-      "position": "CM",
-      "caps": 11,
-      "age": 25,
-      "height_cm": 175,
-      "current_club": "Vancouver Whitecaps FC",
-      "national_league": "MLS",
-      "club_league_ranking": 10.2,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "USA_015",
-      "name": "Cristian Roldan",
-      "number": 15,
-      "position": "CDM",
-      "caps": 45,
-      "age": 31,
-      "height_cm": 172,
-      "current_club": "Seattle Sounders FC",
-      "national_league": "MLS",
-      "club_league_ranking": 10.10,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "USA_016",
-      "name": "Alex Freeman",
-      "number": 16,
       "position": "RB",
-      "caps": 15,
-      "age": 21,
-      "height_cm": 188,
-      "current_club": "Villarreal",
-      "national_league": "La Liga",
-      "club_league_ranking": 3.3,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "USA_017",
-      "name": "Malik Tillman",
-      "number": 17,
-      "position": "CAM",
-      "caps": 28,
-      "age": 24,
-      "height_cm": 187,
-      "current_club": "Bayer Leverkusen",
-      "national_league": "Bundesliga",
-      "club_league_ranking": 5.6,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "USA_018",
-      "name": "Max Arfsten",
-      "number": 18,
-      "position": "LB",
-      "caps": 18,
-      "age": 25,
-      "height_cm": 185,
-      "current_club": "Columbus Crew",
-      "national_league": "MLS",
-      "club_league_ranking": 10.21,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "USA_019",
-      "name": "Haji Wright",
-      "number": 19,
-      "position": "ST",
-      "caps": 20,
-      "age": 28,
-      "height_cm": 193,
-      "current_club": "Coventry City",
-      "national_league": "EFL Championship",
-      "club_league_ranking": 7.1,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "USA_020",
-      "name": "Folarin Balogun",
-      "number": 20,
-      "position": "ST",
-      "caps": 25,
-      "age": 24,
-      "height_cm": 178,
-      "current_club": "Monaco",
-      "national_league": "Ligue 1",
-      "club_league_ranking": 4.7,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "USA_021",
-      "name": "Timothy Weah",
-      "number": 21,
-      "position": "RM",
-      "caps": 49,
-      "age": 26,
-      "height_cm": 182,
-      "current_club": "Olympique de Marseille",
-      "national_league": "Ligue 1",
-      "club_league_ranking": 4.5,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "USA_022",
-      "name": "Mark McKenzie",
-      "number": 22,
-      "position": "CB",
       "caps": 27,
-      "age": 27,
-      "height_cm": 184,
-      "current_club": "Toulouse",
-      "national_league": "Ligue 1",
-      "club_league_ranking": 4.10,
+      "age": 24,
+      "height_cm": 182,
+      "current_club": "Pogoń Szczecin",
+      "national_league": "Ekstraklasa",
+      "club_league_ranking": 13.9,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -547,16 +91,16 @@
     },
 
     {
-      "id": "USA_023",
-      "name": "Joe Scally",
-      "number": 23,
-      "position": "RB",
-      "caps": 24,
-      "age": 23,
-      "height_cm": 184,
-      "current_club": "Borussia Mönchengladbach",
-      "national_league": "Bundesliga",
-      "club_league_ranking": 5.12,
+      "id": "IRQ_004",
+      "name": "Zaid Tahseen",
+      "number": 4,
+      "position": "CB",
+      "caps": 28,
+      "age": 25,
+      "height_cm": 193,
+      "current_club": "Pakhtakor",
+      "national_league": "Uzbekistan Super League",
+      "club_league_ranking": 89.2,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -571,16 +115,16 @@
     },
 
     {
-      "id": "USA_024",
-      "name": "Matt Freese",
-      "number": 24,
-      "position": "GK",
+      "id": "IRQ_005",
+      "name": "Akam Hashim",
+      "number": 5,
+      "position": "CB",
       "caps": 14,
       "age": 27,
-      "height_cm": 191,
-      "current_club": "New York City FC",
-      "national_league": "MLS",
-      "club_league_ranking": 10.17,
+      "height_cm": 184,
+      "current_club": "Al-Zawraa",
+      "national_league": "Iraq Stars League",
+      "club_league_ranking": 87.4,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -590,22 +134,165 @@
         "assists": 0,
         "yellow_cards": 0,
         "red_cards": 0,
-        "clean_sheets": 0,
         "rating": 6.0
       }
     },
 
     {
-      "id": "USA_025",
-      "name": "Chris Brady",
-      "number": 25,
-      "position": "GK",
-      "caps": 0,
-      "age": 22,
+      "id": "IRQ_006",
+      "name": "Manaf Younis",
+      "number": 6,
+      "position": "CB",
+      "caps": 34,
+      "age": 29,
       "height_cm": 190,
-      "current_club": "Chicago Fire FC",
+      "current_club": "Al-Shorta",
+      "national_league": "Iraq Stars League",
+      "club_league_ranking": 87.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "IRQ_007",
+      "name": "Youssef Amyn",
+      "number": 7,
+      "position": "RM",
+      "caps": 27,
+      "age": 22,
+      "height_cm": 172,
+      "current_club": "AEK Larnaca",
+      "national_league": "1. Division",
+      "club_league_ranking": 25.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "IRQ_008",
+      "name": "Ibrahim Bayesh",
+      "number": 8,
+      "position": "LM",
+      "caps": 76,
+      "age": 26,
+      "height_cm": 177,
+      "current_club": "Al Dhafra",
+      "national_league": "UAE Pro League",
+      "club_league_ranking": 52.12,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "IRQ_009",
+      "name": "Ali Al-Hamadi",
+      "number": 9,
+      "position": "ST",
+      "caps": 20,
+      "age": 24,
+      "height_cm": 187,
+      "current_club": "Luton Town",
+      "national_league": "EFL League One",
+      "club_league_ranking": 41.7,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "IRQ_010",
+      "name": "Mohanad Ali",
+      "number": 10,
+      "position": "ST",
+      "caps": 72,
+      "age": 25,
+      "height_cm": 183,
+      "current_club": "Dibba",
+      "national_league": "UAE Pro League",
+      "club_league_ranking": 52.14,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "IRQ_011",
+      "name": "Ahmed Qasem",
+      "number": 11,
+      "position": "RW",
+      "caps": 3,
+      "age": 22,
+      "height_cm": 183,
+      "current_club": "Nashville SC",
       "national_league": "MLS",
-      "club_league_ranking": 10.5,
+      "club_league_ranking": 10.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "IRQ_012",
+      "name": "Jalal Hassan",
+      "number": 12,
+      "position": "GK",
+      "caps": 102,
+      "age": 35,
+      "height_cm": 188,
+      "current_club": "Al-Zawraa",
+      "national_league": "Iraq Stars League",
+      "club_league_ranking": 87.4,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -621,16 +308,329 @@
     },
 
     {
-      "id": "USA_026",
-      "name": "Alejandro Zendejas",
-      "number": 26,
-      "position": "RW",
-      "caps": 13,
+      "id": "IRQ_013",
+      "name": "Ali Yousif",
+      "number": 13,
+      "position": "ST",
+      "caps": 7,
+      "age": 30,
+      "height_cm": 180,
+      "current_club": "Al-Talaba",
+      "national_league": "Iraq Stars League",
+      "club_league_ranking": 87.5,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "IRQ_014",
+      "name": "Zidane Iqbal",
+      "number": 14,
+      "position": "CDM",
+      "caps": 25,
+      "age": 23,
+      "height_cm": 181,
+      "current_club": "Utrecht",
+      "national_league": "Eredivisie",
+      "club_league_ranking": 11.6,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "IRQ_015",
+      "name": "Ahmed Maknzi",
+      "number": 15,
+      "position": "LB",
+      "caps": 7,
+      "age": 24,
+      "height_cm": 183,
+      "current_club": "Al-Karma",
+      "national_league": "Iraq Stars League",
+      "club_league_ranking": 87.6,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "IRQ_016",
+      "name": "Amir Al-Ammari",
+      "number": 16,
+      "position": "CM",
+      "caps": 51,
       "age": 28,
-      "height_cm": 167,
-      "current_club": "Club América",
-      "national_league": "Liga MX",
-      "club_league_ranking": 19.8,
+      "height_cm": 184,
+      "current_club": "Cracovia",
+      "national_league": "Ekstraklasa",
+      "club_league_ranking": 13.13,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "IRQ_017",
+      "name": "Ali Jasim",
+      "number": 17,
+      "position": "LW",
+      "caps": 36,
+      "age": 22,
+      "height_cm": 178,
+      "current_club": "Al-Najma",
+      "national_league": "Saudi Pro League",
+      "club_league_ranking": 36.18,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "IRQ_018",
+      "name": "Aymen Hussein",
+      "number": 18,
+      "position": "ST",
+      "caps": 95,
+      "age": 30,
+      "height_cm": 189,
+      "current_club": "Al-Karma",
+      "national_league": "Iraq Stars League",
+      "club_league_ranking": 87.6,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "IRQ_019",
+      "name": "Kevin Yakob",
+      "number": 19,
+      "position": "CM",
+      "caps": 9,
+      "age": 25,
+      "height_cm": 184,
+      "current_club": "Aarhus",
+      "national_league": "Superligaen",
+      "club_league_ranking": 12.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "IRQ_020",
+      "name": "Aimar Sher",
+      "number": 20,
+      "position": "CDM",
+      "caps": 7,
+      "age": 23,
+      "height_cm": 180,
+      "current_club": "Sarpsborg 08",
+      "national_league": "Eliteserien",
+      "club_league_ranking": 21.7,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "IRQ_021",
+      "name": "Marko Farji",
+      "number": 21,
+      "position": "LW",
+      "caps": 12,
+      "age": 22,
+      "height_cm": 184,
+      "current_club": "Venezia",
+      "national_league": "Serie B",
+      "club_league_ranking": 29.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "IRQ_022",
+      "name": "Ahmed Basil",
+      "number": 22,
+      "position": "GK",
+      "caps": 16,
+      "age": 29,
+      "height_cm": 186,
+      "current_club": "Al-Shorta",
+      "national_league": "Iraq Stars League",
+      "club_league_ranking": 87.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "IRQ_023",
+      "name": "Merchas Doski",
+      "number": 23,
+      "position": "LB",
+      "caps": 31,
+      "age": 26,
+      "height_cm": 173,
+      "current_club": "Viktoria Plzeň",
+      "national_league": "Czech 1. Liga",
+      "club_league_ranking": 27.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "IRQ_024",
+      "name": "Zaid Ismail",
+      "number": 24,
+      "position": "CDM",
+      "caps": 6,
+      "age": 24,
+      "height_cm": 185,
+      "current_club": "Al-Talaba",
+      "national_league": "Iraq Stars League",
+      "club_league_ranking": 87.5,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "IRQ_025",
+      "name": "Mustafa Saadoon",
+      "number": 25,
+      "position": "RB",
+      "caps": 17,
+      "age": 25,
+      "height_cm": 182,
+      "current_club": "Al-Shorta",
+      "national_league": "Iraq Stars League",
+      "club_league_ranking": 87.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "IRQ_026",
+      "name": "Frans Putros",
+      "number": 26,
+      "position": "RB",
+      "caps": 28,
+      "age": 32,
+      "height_cm": 181,
+      "current_club": "Persib Bandung",
+      "national_league": "Indonesian Super League",
+      "club_league_ranking": 90.1,
 
       "tournament_stats": {
         "started_matches": 0,

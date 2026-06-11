@@ -1,8 +1,8 @@
 {
-  "name": "United States of America",
-  "code": "USA",
-  "confederation": "CONCACAF",
-  "group": "D",
+  "name": "Senegal",
+  "code": "SEN",
+  "confederation": "CAF",
+  "group": "I",
 
   "tournament_stats": {
     "matches_played": 0,
@@ -18,16 +18,16 @@
 
   "players": [
     {
-      "id": "USA_001",
-      "name": "Matt Turner",
+      "id": "SEN_001",
+      "name": "Yehvann Diouf",
       "number": 1,
       "position": "GK",
-      "caps": 53,
-      "age": 31,
-      "height_cm": 191,
-      "current_club": "New England Revolution",
-      "national_league": "MLS",
-      "club_league_ranking": 10.7,
+      "caps": 2,
+      "age": 26,
+      "height_cm": 190,
+      "current_club": "Nice",
+      "national_league": "Ligue 1",
+      "club_league_ranking": 4.16,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -43,16 +43,16 @@
     },
 
     {
-      "id": "USA_002",
-      "name": "Sergiño Dest",
+      "id": "SEN_002",
+      "name": "Mamadou Sarr",
       "number": 2,
-      "position": "RB",
-      "caps": 37,
-      "age": 25,
-      "height_cm": 171,
-      "current_club": "PSV",
-      "national_league": "Eredivisie",
-      "club_league_ranking": 11.1,
+      "position": "CB",
+      "caps": 8,
+      "age": 20,
+      "height_cm": 194,
+      "current_club": "Chelsea",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.10,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -67,16 +67,16 @@
     },
 
     {
-      "id": "USA_003",
-      "name": "Chris Richards",
+      "id": "SEN_003",
+      "name": "Kalidou Koulibaly",
       "number": 3,
       "position": "CB",
-      "caps": 36,
-      "age": 26,
-      "height_cm": 188,
-      "current_club": "Crystal Palace",
-      "national_league": "Premier League",
-      "club_league_ranking": 1.15,
+      "caps": 103,
+      "age": 34,
+      "height_cm": 186,
+      "current_club": "Al-Hilal",
+      "national_league": "Saudi Pro League",
+      "club_league_ranking": 36.2,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -91,64 +91,16 @@
     },
 
     {
-      "id": "USA_004",
-      "name": "Tyler Adams",
+      "id": "SEN_004",
+      "name": "Abdoulaye Seck",
       "number": 4,
-      "position": "CDM",
-      "caps": 52,
-      "age": 27,
-      "height_cm": 175,
-      "current_club": "Bournemouth",
-      "national_league": "Premier League",
-      "club_league_ranking": 1.6,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "USA_005",
-      "name": "Antonee Robinson",
-      "number": 5,
-      "position": "LB",
-      "caps": 52,
-      "age": 28,
-      "height_cm": 183,
-      "current_club": "Fulham",
-      "national_league": "Premier League",
-      "club_league_ranking": 1.11,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "USA_006",
-      "name": "Auston Trusty",
-      "number": 6,
       "position": "CB",
-      "caps": 6,
-      "age": 27,
-      "height_cm": 191,
-      "current_club": "Celtic",
-      "national_league": "Premiership",
-      "club_league_ranking": 33.1,
+      "caps": 22,
+      "age": 34,
+      "height_cm": 192,
+      "current_club": "Maccabi Haifa",
+      "national_league": "Ligat Ha'Al",
+      "club_league_ranking": 42.5,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -163,16 +115,64 @@
     },
 
     {
-      "id": "USA_007",
-      "name": "Giovanni Reyna",
+      "id": "SEN_005",
+      "name": "Idrissa Gueye",
+      "number": 5,
+      "position": "CDM",
+      "caps": 131,
+      "age": 36,
+      "height_cm": 174,
+      "current_club": "Everton",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.13,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "SEN_006",
+      "name": "Pathé Ciss",
+      "number": 6,
+      "position": "CDM",
+      "caps": 30,
+      "age": 32,
+      "height_cm": 186,
+      "current_club": "Rayo Vallecano",
+      "national_league": "La Liga",
+      "club_league_ranking": 3.8,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "SEN_007",
+      "name": "Assane Diao",
       "number": 7,
-      "position": "CAM",
-      "caps": 36,
-      "age": 23,
+      "position": "RW",
+      "caps": 5,
+      "age": 20,
       "height_cm": 185,
-      "current_club": "Borussia Mönchengladbach",
-      "national_league": "Bundesliga",
-      "club_league_ranking": 5.12,
+      "current_club": "Como",
+      "national_league": "Serie A",
+      "club_league_ranking": 2.4,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -187,301 +187,13 @@
     },
 
     {
-      "id": "USA_008",
-      "name": "Weston McKennie",
+      "id": "SEN_008",
+      "name": "Lamine Camara",
       "number": 8,
       "position": "CM",
-      "caps": 64,
-      "age": 27,
-      "height_cm": 185,
-      "current_club": "Juventus",
-      "national_league": "Serie A",
-      "club_league_ranking": 2.6,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "USA_009",
-      "name": "Ricardo Pepi",
-      "number": 9,
-      "position": "ST",
-      "caps": 35,
-      "age": 23,
-      "height_cm": 185,
-      "current_club": "PSV",
-      "national_league": "Eredivisie",
-      "club_league_ranking": 11.1,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "USA_010",
-      "name": "Christian Pulisic",
-      "number": 10,
-      "position": "RW",
-      "caps": 84,
-      "age": 27,
-      "height_cm": 178,
-      "current_club": "AC Milan",
-      "national_league": "Serie A",
-      "club_league_ranking": 2.5,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "USA_011",
-      "name": "Brenden Aaronson",
-      "number": 11,
-      "position": "RM",
-      "caps": 57,
-      "age": 25,
-      "height_cm": 177,
-      "current_club": "Leeds United",
-      "national_league": "Premier League",
-      "club_league_ranking": 1.14,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "USA_012",
-      "name": "Miles Robinson",
-      "number": 12,
-      "position": "CB",
-      "caps": 38,
-      "age": 29,
-      "height_cm": 188,
-      "current_club": "FC Cincinnati",
-      "national_league": "MLS",
-      "club_league_ranking": 10.16,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "USA_013",
-      "name": "Tim Ream",
-      "number": 13,
-      "position": "CB",
-      "caps": 80,
-      "age": 38,
-      "height_cm": 185,
-      "current_club": "Charlotte FC",
-      "national_league": "MLS",
-      "club_league_ranking": 10.14,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "USA_014",
-      "name": "Sebastian Berhalter",
-      "number": 14,
-      "position": "CM",
-      "caps": 11,
-      "age": 25,
-      "height_cm": 175,
-      "current_club": "Vancouver Whitecaps FC",
-      "national_league": "MLS",
-      "club_league_ranking": 10.2,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "USA_015",
-      "name": "Cristian Roldan",
-      "number": 15,
-      "position": "CDM",
-      "caps": 45,
-      "age": 31,
-      "height_cm": 172,
-      "current_club": "Seattle Sounders FC",
-      "national_league": "MLS",
-      "club_league_ranking": 10.10,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "USA_016",
-      "name": "Alex Freeman",
-      "number": 16,
-      "position": "RB",
-      "caps": 15,
-      "age": 21,
-      "height_cm": 188,
-      "current_club": "Villarreal",
-      "national_league": "La Liga",
-      "club_league_ranking": 3.3,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "USA_017",
-      "name": "Malik Tillman",
-      "number": 17,
-      "position": "CAM",
-      "caps": 28,
-      "age": 24,
-      "height_cm": 187,
-      "current_club": "Bayer Leverkusen",
-      "national_league": "Bundesliga",
-      "club_league_ranking": 5.6,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "USA_018",
-      "name": "Max Arfsten",
-      "number": 18,
-      "position": "LB",
-      "caps": 18,
-      "age": 25,
-      "height_cm": 185,
-      "current_club": "Columbus Crew",
-      "national_league": "MLS",
-      "club_league_ranking": 10.21,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "USA_019",
-      "name": "Haji Wright",
-      "number": 19,
-      "position": "ST",
-      "caps": 20,
-      "age": 28,
-      "height_cm": 193,
-      "current_club": "Coventry City",
-      "national_league": "EFL Championship",
-      "club_league_ranking": 7.1,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "USA_020",
-      "name": "Folarin Balogun",
-      "number": 20,
-      "position": "ST",
-      "caps": 25,
-      "age": 24,
-      "height_cm": 178,
+      "caps": 33,
+      "age": 22,
+      "height_cm": 173,
       "current_club": "Monaco",
       "national_league": "Ligue 1",
       "club_league_ranking": 4.7,
@@ -499,16 +211,16 @@
     },
 
     {
-      "id": "USA_021",
-      "name": "Timothy Weah",
-      "number": 21,
-      "position": "RM",
-      "caps": 49,
+      "id": "SEN_009",
+      "name": "Bamba Dieng",
+      "number": 9,
+      "position": "ST",
+      "caps": 23,
       "age": 26,
-      "height_cm": 182,
-      "current_club": "Olympique de Marseille",
+      "height_cm": 178,
+      "current_club": "Lorient",
       "national_league": "Ligue 1",
-      "club_league_ranking": 4.5,
+      "club_league_ranking": 4.9,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -523,16 +235,112 @@
     },
 
     {
-      "id": "USA_022",
-      "name": "Mark McKenzie",
-      "number": 22,
-      "position": "CB",
-      "caps": 27,
-      "age": 27,
+      "id": "SEN_010",
+      "name": "Sadio Mané",
+      "number": 10,
+      "position": "LW",
+      "caps": 128,
+      "age": 34,
+      "height_cm": 175,
+      "current_club": "Al-Nassr",
+      "national_league": "Saudi Pro League",
+      "club_league_ranking": 36.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "SEN_011",
+      "name": "Nicolas Jackson",
+      "number": 11,
+      "position": "ST",
+      "caps": 33,
+      "age": 24,
+      "height_cm": 187,
+      "current_club": "Bayern München",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "SEN_012",
+      "name": "Cherif Ndiaye",
+      "number": 12,
+      "position": "ST",
+      "caps": 19,
+      "age": 30,
+      "height_cm": 190,
+      "current_club": "Samsunspor",
+      "national_league": "Süper Lig",
+      "club_league_ranking": 16.7,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "SEN_013",
+      "name": "Iliman Ndiaye",
+      "number": 13,
+      "position": "RW",
+      "caps": 40,
+      "age": 26,
+      "height_cm": 180,
+      "current_club": "Everton",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.13,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "SEN_014",
+      "name": "Ismail Jakobs",
+      "number": 14,
+      "position": "LB",
+      "caps": 30,
+      "age": 26,
       "height_cm": 184,
-      "current_club": "Toulouse",
-      "national_league": "Ligue 1",
-      "club_league_ranking": 4.10,
+      "current_club": "Galatasaray",
+      "national_league": "Süper Lig",
+      "club_league_ranking": 16.1,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -547,16 +355,65 @@
     },
 
     {
-      "id": "USA_023",
-      "name": "Joe Scally",
-      "number": 23,
+      "id": "SEN_015",
+      "name": "Krépin Diatta",
+      "number": 15,
       "position": "RB",
-      "caps": 24,
+      "caps": 61,
+      "age": 27,
+      "height_cm": 175,
+      "current_club": "Monaco",
+      "national_league": "Ligue 1",
+      "club_league_ranking": 4.7,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "SEN_016",
+      "name": "Édouard Mendy",
+      "number": 16,
+      "position": "GK",
+      "caps": 57,
+      "age": 34,
+      "height_cm": 197,
+      "current_club": "Al-Ahli",
+      "national_league": "Saudi Pro League",
+      "club_league_ranking": 36.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "SEN_017",
+      "name": "Pape Matar Sarr",
+      "number": 17,
+      "position": "CDM",
+      "caps": 40,
       "age": 23,
       "height_cm": 184,
-      "current_club": "Borussia Mönchengladbach",
-      "national_league": "Bundesliga",
-      "club_league_ranking": 5.12,
+      "current_club": "Tottenham Hotspur",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.17,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -571,66 +428,209 @@
     },
 
     {
-      "id": "USA_024",
-      "name": "Matt Freese",
-      "number": 24,
-      "position": "GK",
-      "caps": 14,
-      "age": 27,
-      "height_cm": 191,
-      "current_club": "New York City FC",
-      "national_league": "MLS",
-      "club_league_ranking": 10.17,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "clean_sheets": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "USA_025",
-      "name": "Chris Brady",
-      "number": 25,
-      "position": "GK",
-      "caps": 0,
-      "age": 22,
-      "height_cm": 190,
-      "current_club": "Chicago Fire FC",
-      "national_league": "MLS",
-      "club_league_ranking": 10.5,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "clean_sheets": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "USA_026",
-      "name": "Alejandro Zendejas",
-      "number": 26,
+      "id": "SEN_018",
+      "name": "Ismaïla Sarr",
+      "number": 18,
       "position": "RW",
-      "caps": 13,
+      "caps": 83,
       "age": 28,
-      "height_cm": 167,
-      "current_club": "Club América",
-      "national_league": "Liga MX",
-      "club_league_ranking": 19.8,
+      "height_cm": 185,
+      "current_club": "Crystal Palace",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.15,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "SEN_019",
+      "name": "Moussa Niakhaté",
+      "number": 19,
+      "position": "CB",
+      "caps": 31,
+      "age": 30,
+      "height_cm": 190,
+      "current_club": "Olympique Lyonnais",
+      "national_league": "Ligue 1",
+      "club_league_ranking": 4.4,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "SEN_020",
+      "name": "Ibrahim Mbaye",
+      "number": 20,
+      "position": "RW",
+      "caps": 11,
+      "age": 18,
+      "height_cm": 175,
+      "current_club": "Paris Saint-Germain",
+      "national_league": "Ligue 1",
+      "club_league_ranking": 4.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "SEN_021",
+      "name": "Habib Diarra",
+      "number": 21,
+      "position": "CM",
+      "caps": 21,
+      "age": 22,
+      "height_cm": 179,
+      "current_club": "Sunderland",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.7,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "SEN_022",
+      "name": "Bara Sapoko Ndiaye",
+      "number": 22,
+      "position": "CM",
+      "caps": 1,
+      "age": 18,
+      "height_cm": 180,
+      "current_club": "Bayern München",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "SEN_023",
+      "name": "Mory Diaw",
+      "number": 23,
+      "position": "GK",
+      "caps": 5,
+      "age": 32,
+      "height_cm": 197,
+      "current_club": "Le Havre",
+      "national_league": "Ligue 1",
+      "club_league_ranking": 4.14,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "SEN_024",
+      "name": "Antoine Mendy",
+      "number": 24,
+      "position": "CB",
+      "caps": 7,
+      "age": 22,
+      "height_cm": 187,
+      "current_club": "Nice",
+      "national_league": "Ligue 1",
+      "club_league_ranking": 4.16,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "SEN_025",
+      "name": "El Hadji Malick Diouf",
+      "number": 25,
+      "position": "LB",
+      "caps": 20,
+      "age": 21,
+      "height_cm": 183,
+      "current_club": "West Ham United",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.18,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "SEN_026",
+      "name": "Pape Gueye",
+      "number": 26,
+      "position": "CDM",
+      "caps": 41,
+      "age": 27,
+      "height_cm": 189,
+      "current_club": "Villarreal",
+      "national_league": "La Liga",
+      "club_league_ranking": 3.3,
 
       "tournament_stats": {
         "started_matches": 0,
