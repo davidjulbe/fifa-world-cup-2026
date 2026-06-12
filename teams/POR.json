@@ -1,8 +1,8 @@
 {
-  "name": "Argentina",
-  "code": "ARG",
-  "confederation": "CONMEBOL",
-  "group": "J",
+  "name": "Portugal",
+  "code": "POR",
+  "confederation": "UEFA",
+  "group": "K",
 
   "tournament_stats": {
     "matches_played": 0,
@@ -18,281 +18,16 @@
 
   "players": [
     {
-      "id": "ARG_001",
-      "name": "Juan Musso",
+      "id": "POR_001",
+      "name": "Diogo Costa",
       "number": 1,
       "position": "GK",
-      "caps": 3,
-      "age": 32,
-      "height_cm": 191,
-      "current_club": "Atlético de Madrid",
-      "national_league": "La Liga",
-      "club_league_ranking": 3.4,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "clean_sheets": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "ARG_002",
-      "name": "?",
-      "number": 2,
-      "position": "?",
-      "caps": 0,
-      "age": 0,
-      "height_cm": 0,
-      "current_club": "?",
-      "national_league": "?",
-      "club_league_ranking": 0,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "ARG_003",
-      "name": "Nicolás Tagliafico",
-      "number": 3,
-      "position": "LB",
-      "caps": 75,
-      "age": 33,
-      "height_cm": 170,
-      "current_club": "Olympique Lyonnais",
-      "national_league": "Ligue 1",
-      "club_league_ranking": 4.4,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "ARG_004",
-      "name": "Gonzalo Montiel",
-      "number": 4,
-      "position": "RB",
-      "caps": 38,
-      "age": 29,
-      "height_cm": 175,
-      "current_club": "River Plate",
-      "national_league": "Liga Profesional Argentina",
-      "club_league_ranking": 14.4,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "ARG_005",
-      "name": "Leandro Paredes",
-      "number": 5,
-      "position": "CM",
-      "caps": 77,
-      "age": 31,
-      "height_cm": 180,
-      "current_club": "Boca Juniors",
-      "national_league": "Liga Profesional Argentina",
-      "club_league_ranking": 14.3,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "ARG_006",
-      "name": "Lisandro Martínez",
-      "number": 6,
-      "position": "CB",
-      "caps": 26,
-      "age": 28,
-      "height_cm": 177,
-      "current_club": "Manchester United",
-      "national_league": "Premier League",
-      "club_league_ranking": 1.3,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "ARG_007",
-      "name": "Rodrigo De Paul",
-      "number": 7,
-      "position": "CM",
-      "caps": 85,
-      "age": 32,
-      "height_cm": 180,
-      "current_club": "Inter Miami",
-      "national_league": "MLS",
-      "club_league_ranking": 10.4,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "ARG_008",
-      "name": "Valentín Barco",
-      "number": 8,
-      "position": "CDM",
-      "caps": 2,
-      "age": 21,
-      "height_cm": 170,
-      "current_club": "Strasbourg",
-      "national_league": "Ligue 1",
-      "club_league_ranking": 4.8,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "ARG_009",
-      "name": "Julián Álvarez",
-      "number": 9,
-      "position": "ST",
-      "caps": 51,
+      "caps": 43,
       "age": 26,
-      "height_cm": 171,
-      "current_club": "Atlético de Madrid",
-      "national_league": "La Liga",
-      "club_league_ranking": 3.4,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "ARG_010",
-      "name": "Lionel Messi",
-      "number": 10,
-      "position": "RW",
-      "caps": 198,
-      "age": 38,
-      "height_cm": 170,
-      "current_club": "Inter Miami",
-      "national_league": "MLS",
-      "club_league_ranking": 10.4,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "ARG_011",
-      "name": "Giovani Lo Celso",
-      "number": 11,
-      "position": "CM",
-      "caps": 65,
-      "age": 30,
-      "height_cm": 177,
-      "current_club": "Real Betis",
-      "national_league": "La Liga",
-      "club_league_ranking": 3.5,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "ARG_012",
-      "name": "Gerónimo Rulli",
-      "number": 12,
-      "position": "GK",
-      "caps": 7,
-      "age": 34,
-      "height_cm": 189,
-      "current_club": "Olympique de Marseille",
-      "national_league": "Ligue 1",
-      "club_league_ranking": 4.5,
+      "height_cm": 186,
+      "current_club": "FC Porto",
+      "national_league": "Liga Portugal",
+      "club_league_ranking": 8.1,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -308,64 +43,16 @@
     },
 
     {
-      "id": "ARG_013",
-      "name": "Cristian Romero",
-      "number": 13,
-      "position": "CB",
-      "caps": 49,
-      "age": 28,
-      "height_cm": 185,
-      "current_club": "Tottenham Hotspur",
-      "national_league": "Premier League",
-      "club_league_ranking": 1.17,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "ARG_014",
-      "name": "Exequiel Palacios",
-      "number": 14,
-      "position": "CM",
-      "caps": 38,
-      "age": 27,
-      "height_cm": 177,
-      "current_club": "Bayer Leverkusen",
-      "national_league": "Bundesliga",
-      "club_league_ranking": 5.6,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "ARG_015",
-      "name": "Nicolás González",
-      "number": 15,
-      "position": "LW",
+      "id": "POR_002",
+      "name": "Nélson Semedo",
+      "number": 2,
+      "position": "RB",
       "caps": 50,
-      "age": 28,
-      "height_cm": 180,
-      "current_club": "Atlético de Madrid",
-      "national_league": "La Liga",
-      "club_league_ranking": 3.4,
+      "age": 32,
+      "height_cm": 177,
+      "current_club": "Fenerbahçe",
+      "national_league": "Süper Lig",
+      "club_league_ranking": 16.2,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -380,85 +67,37 @@
     },
 
     {
-      "id": "ARG_016",
-      "name": "Thiago Almada",
-      "number": 16,
-      "position": "CAM",
-      "caps": 14,
-      "age": 25,
-      "height_cm": 171,
-      "current_club": "Atlético de Madrid",
-      "national_league": "La Liga",
-      "club_league_ranking": 3.4,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "ARG_017",
-      "name": "Giuliano Simeone",
-      "number": 17,
-      "position": "RW",
-      "caps": 11,
-      "age": 23,
-      "height_cm": 173,
-      "current_club": "Atlético de Madrid",
-      "national_league": "La Liga",
-      "club_league_ranking": 3.4,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "ARG_018",
-      "name": "Nico Paz",
-      "number": 18,
-      "position": "CAM",
-      "caps": 8,
-      "age": 21,
-      "height_cm": 186,
-      "current_club": "Como",
-      "national_league": "Serie A",
-      "club_league_ranking": 2.4,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "ARG_019",
-      "name": "Nicolás Otamendi",
-      "number": 19,
+      "id": "POR_003",
+      "name": "Rúben Dias",
+      "number": 3,
       "position": "CB",
-      "caps": 130,
-      "age": 38,
-      "height_cm": 183,
+      "caps": 76,
+      "age": 29,
+      "height_cm": 187,
+      "current_club": "Manchester City",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "POR_004",
+      "name": "Tomás Araujo",
+      "number": 4,
+      "position": "CB",
+      "caps": 5,
+      "age": 24,
+      "height_cm": 187,
       "current_club": "Benfica",
       "national_league": "Liga Portugal",
       "club_league_ranking": 8.3,
@@ -476,16 +115,16 @@
     },
 
     {
-      "id": "ARG_020",
-      "name": "Alexis Mac Allister",
-      "number": 20,
-      "position": "CM",
-      "caps": 44,
+      "id": "POR_005",
+      "name": "Diogo Dalot",
+      "number": 5,
+      "position": "RB",
+      "caps": 35,
       "age": 27,
-      "height_cm": 176,
-      "current_club": "Liverpool",
+      "height_cm": 183,
+      "current_club": "Manchester United",
       "national_league": "Premier League",
-      "club_league_ranking": 1.5,
+      "club_league_ranking": 1.3,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -500,16 +139,40 @@
     },
 
     {
-      "id": "ARG_021",
-      "name": "José Manuel López",
-      "number": 21,
+      "id": "POR_006",
+      "name": "Matheus Nunes",
+      "number": 6,
+      "position": "CM",
+      "caps": 20,
+      "age": 27,
+      "height_cm": 184,
+      "current_club": "Manchester City",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "POR_007",
+      "name": "Cristiano Ronaldo Aveiro",
+      "number": 7,
       "position": "ST",
-      "caps": 3,
-      "age": 25,
-      "height_cm": 190,
-      "current_club": "Palmeiras",
-      "national_league": "Brazilian Serie A",
-      "club_league_ranking": 9.1,
+      "caps": 228,
+      "age": 41,
+      "height_cm": 187,
+      "current_club": "Al-Nassr",
+      "national_league": "Saudi Pro League",
+      "club_league_ranking": 36.1,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -524,16 +187,40 @@
     },
 
     {
-      "id": "ARG_022",
-      "name": "Lautaro Martínez",
-      "number": 22,
+      "id": "POR_008",
+      "name": "Bruno Fernandes",
+      "number": 8,
+      "position": "CAM",
+      "caps": 89,
+      "age": 31,
+      "height_cm": 179,
+      "current_club": "Manchester United",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "POR_009",
+      "name": "Gonçalo Ramos",
+      "number": 9,
       "position": "ST",
-      "caps": 75,
-      "age": 28,
-      "height_cm": 174,
-      "current_club": "Inter Milan",
-      "national_league": "Serie A",
-      "club_league_ranking": 2.1,
+      "caps": 25,
+      "age": 24,
+      "height_cm": 185,
+      "current_club": "Paris Saint-Germain",
+      "national_league": "Ligue 1",
+      "club_league_ranking": 4.1,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -548,16 +235,64 @@
     },
 
     {
-      "id": "ARG_023",
-      "name": "Emiliano Martínez",
-      "number": 23,
+      "id": "POR_010",
+      "name": "Bernardo Silva",
+      "number": 10,
+      "position": "CAM",
+      "caps": 109,
+      "age": 31,
+      "height_cm": 173,
+      "current_club": "Manchester City",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "POR_011",
+      "name": "João Félix",
+      "number": 11,
+      "position": "CAM",
+      "caps": 54,
+      "age": 26,
+      "height_cm": 181,
+      "current_club": "Al-Nassr",
+      "national_league": "Saudi Pro League",
+      "club_league_ranking": 36.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "POR_012",
+      "name": "José Sá",
+      "number": 12,
       "position": "GK",
-      "caps": 59,
+      "caps": 5,
       "age": 33,
-      "height_cm": 195,
-      "current_club": "Aston Villa",
+      "height_cm": 192,
+      "current_club": "Wolves",
       "national_league": "Premier League",
-      "club_league_ranking": 1.4,
+      "club_league_ranking": 1.20,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -573,13 +308,133 @@
     },
 
     {
-      "id": "ARG_024",
-      "name": "Enzo Fernández",
-      "number": 24,
+      "id": "POR_013",
+      "name": "Renato Veiga",
+      "number": 13,
+      "position": "CB",
+      "caps": 13,
+      "age": 22,
+      "height_cm": 190,
+      "current_club": "Villarreal",
+      "national_league": "La Liga",
+      "club_league_ranking": 3.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "POR_014",
+      "name": "Gonçalo Inácio",
+      "number": 14,
+      "position": "CB",
+      "caps": 22,
+      "age": 24,
+      "height_cm": 185,
+      "current_club": "Sporting CP",
+      "national_league": "Liga Portugal",
+      "club_league_ranking": 8.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "POR_015",
+      "name": "João Neves",
+      "number": 15,
       "position": "CM",
-      "caps": 40,
-      "age": 25,
-      "height_cm": 178,
+      "caps": 22,
+      "age": 21,
+      "height_cm": 174,
+      "current_club": "Paris Saint-Germain",
+      "national_league": "Ligue 1",
+      "club_league_ranking": 4.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "POR_016",
+      "name": "Francisco Trincão",
+      "number": 16,
+      "position": "RW",
+      "caps": 18,
+      "age": 26,
+      "height_cm": 183,
+      "current_club": "Sporting CP",
+      "national_league": "Liga Portugal",
+      "club_league_ranking": 8.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "POR_017",
+      "name": "Rafael Leão",
+      "number": 17,
+      "position": "LW",
+      "caps": 44,
+      "age": 27,
+      "height_cm": 188,
+      "current_club": "AC Milan",
+      "national_league": "Serie A",
+      "club_league_ranking": 2.5,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "POR_018",
+      "name": "Pedro Neto",
+      "number": 18,
+      "position": "RW",
+      "caps": 25,
+      "age": 26,
+      "height_cm": 172,
       "current_club": "Chelsea",
       "national_league": "Premier League",
       "club_league_ranking": 1.10,
@@ -597,16 +452,16 @@
     },
 
     {
-      "id": "ARG_025",
-      "name": "Facundo Medina",
-      "number": 25,
-      "position": "CB",
-      "caps": 7,
-      "age": 27,
-      "height_cm": 184,
-      "current_club": "Olympique de Marseille",
-      "national_league": "Ligue 1",
-      "club_league_ranking": 4.5,
+      "id": "POR_019",
+      "name": "Gonçalo Guedes",
+      "number": 19,
+      "position": "LW",
+      "caps": 34,
+      "age": 29,
+      "height_cm": 179,
+      "current_club": "Real Sociedad",
+      "national_league": "La Liga",
+      "club_league_ranking": 3.10,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -621,16 +476,161 @@
     },
 
     {
-      "id": "ARG_026",
-      "name": "Nahuel Molina",
-      "number": 26,
+      "id": "POR_020",
+      "name": "João Cancelo",
+      "number": 20,
       "position": "RB",
-      "caps": 58,
-      "age": 28,
-      "height_cm": 175,
-      "current_club": "Atlético de Madrid",
+      "caps": 68,
+      "age": 32,
+      "height_cm": 182,
+      "current_club": "FC Barcelona",
       "national_league": "La Liga",
-      "club_league_ranking": 3.4,
+      "club_league_ranking": 3.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "POR_021",
+      "name": "Rúben Neves",
+      "number": 21,
+      "position": "CDM",
+      "caps": 67,
+      "age": 29,
+      "height_cm": 180,
+      "current_club": "Al-Hilal",
+      "national_league": "Saudi Pro League",
+      "club_league_ranking": 36.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "POR_022",
+      "name": "Rui Silva",
+      "number": 22,
+      "position": "GK",
+      "caps": 3,
+      "age": 32,
+      "height_cm": 191,
+      "current_club": "Sporting CP",
+      "national_league": "Liga Portugal",
+      "club_league_ranking": 8.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "POR_023",
+      "name": "Vitinha Ferreira",
+      "number": 23,
+      "position": "CM",
+      "caps": 38,
+      "age": 26,
+      "height_cm": 172,
+      "current_club": "Paris Saint-Germain",
+      "national_league": "Ligue 1",
+      "club_league_ranking": 4.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "POR_024",
+      "name": "Samú Costa",
+      "number": 24,
+      "position": "CDM",
+      "caps": 6,
+      "age": 25,
+      "height_cm": 183,
+      "current_club": "Mallorca",
+      "national_league": "La Liga",
+      "club_league_ranking": 3.18,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "POR_025",
+      "name": "Nuno Mendes",
+      "number": 25,
+      "position": "LB",
+      "caps": 44,
+      "age": 23,
+      "height_cm": 180,
+      "current_club": "Paris Saint-Germain",
+      "national_league": "Ligue 1",
+      "club_league_ranking": 4.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "POR_026",
+      "name": "Francisco Conceição",
+      "number": 26,
+      "position": "RW",
+      "caps": 17,
+      "age": 23,
+      "height_cm": 168,
+      "current_club": "Juventus",
+      "national_league": "Serie A",
+      "club_league_ranking": 2.6,
 
       "tournament_stats": {
         "started_matches": 0,

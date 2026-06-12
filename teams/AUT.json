@@ -453,6 +453,30 @@
     },
 
     {
+      "id": "AUT_019",
+      "name": "Dejan Ljubičić",
+      "number": 19,
+      "position": "CAM",
+      "caps": 9,
+      "age": 28,
+      "height_cm": 187,
+      "current_club": "Schalke 04",
+      "national_league": "2. Bundesliga",
+      "club_league_ranking": 30.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
       "id": "AUT_020",
       "name": "Konrad Laimer",
       "number": 20,

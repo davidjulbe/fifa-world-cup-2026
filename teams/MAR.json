@@ -116,15 +116,15 @@
 
     {
       "id": "MAR_005",
-      "name": "Nayef Aguerd",
+      "name": "Marwane Saâdane",
       "number": 5,
       "position": "CB",
-      "caps": 64,
-      "age": 30,
-      "height_cm": 190,
-      "current_club": "Olympique de Marseille",
-      "national_league": "Ligue 1",
-      "club_league_ranking": 4.5,
+      "caps": 8,
+      "age": 34,
+      "height_cm": 184,
+      "current_club": "Al-Fateh",
+      "national_league": "Saudi Pro League",
+      "club_league_ranking": 36.11,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -405,15 +405,15 @@
 
     {
       "id": "MAR_017",
-      "name": "Abde Ezzalzouli",
+      "name": "Amine Sbaï",
       "number": 17,
       "position": "LM",
-      "caps": 37,
-      "age": 24,
-      "height_cm": 177,
-      "current_club": "Real Betis",
-      "national_league": "La Liga",
-      "club_league_ranking": 3.5,
+      "caps": 2,
+      "age": 25,
+      "height_cm": 175,
+      "current_club": "Angers SCO",
+      "national_league": "Ligue 1",
+      "club_league_ranking": 4.13,
 
       "tournament_stats": {
         "started_matches": 0,
