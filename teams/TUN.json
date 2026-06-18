@@ -22,7 +22,7 @@
       "name": "Mouhib Chamakh",
       "number": 1,
       "position": "GK",
-      "caps": 2,
+      "caps": 3,
       "age": 24,
       "height_cm": 192,
       "current_club": "Club Africain",
@@ -76,7 +76,7 @@
       "height_cm": 190,
       "current_club": "Lorient",
       "national_league": "Ligue 1",
-      "club_league_ranking": 4.9,
+      "club_league_ranking": 4.10,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -558,7 +558,7 @@
       "height_cm": 182,
       "current_club": "IFK Norrköping",
       "national_league": "Superettan",
-      "club_league_ranking": 85.4,
+      "club_league_ranking": 90.4,
 
       "tournament_stats": {
         "started_matches": 0,

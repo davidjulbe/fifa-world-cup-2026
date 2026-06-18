@@ -27,7 +27,7 @@
       "height_cm": 185,
       "current_club": "Navbahor Namangan",
       "national_league": "Uzbekistan Super League",
-      "club_league_ranking": 89.4,
+      "club_league_ranking": 81.4,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -43,37 +43,13 @@
     },
 
     {
-      "id": "POR_002",
-      "name": "Nélson Semedo",
+      "id": "UZB_002",
+      "name": "Abdukodir Khusanov",
       "number": 2,
-      "position": "RB",
-      "caps": 50,
-      "age": 32,
-      "height_cm": 177,
-      "current_club": "Fenerbahçe",
-      "national_league": "Süper Lig",
-      "club_league_ranking": 16.2,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "POR_003",
-      "name": "Rúben Dias",
-      "number": 3,
       "position": "CB",
-      "caps": 76,
-      "age": 29,
-      "height_cm": 187,
+      "caps": 27,
+      "age": 22,
+      "height_cm": 186,
       "current_club": "Manchester City",
       "national_league": "Premier League",
       "club_league_ranking": 1.2,
@@ -91,40 +67,16 @@
     },
 
     {
-      "id": "POR_004",
-      "name": "Tomás Araujo",
-      "number": 4,
-      "position": "CB",
-      "caps": 5,
-      "age": 24,
-      "height_cm": 187,
-      "current_club": "Benfica",
-      "national_league": "Liga Portugal",
-      "club_league_ranking": 8.3,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "POR_005",
-      "name": "Diogo Dalot",
-      "number": 5,
+      "id": "UZB_003",
+      "name": "Khojiakbar Alijonov",
+      "number": 3,
       "position": "RB",
-      "caps": 35,
-      "age": 27,
-      "height_cm": 183,
-      "current_club": "Manchester United",
-      "national_league": "Premier League",
-      "club_league_ranking": 1.3,
+      "caps": 40,
+      "age": 29,
+      "height_cm": 180,
+      "current_club": "Pakhtakor",
+      "national_league": "Uzbekistan Super League",
+      "club_league_ranking": 81.2,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -139,16 +91,64 @@
     },
 
     {
-      "id": "POR_006",
-      "name": "Matheus Nunes",
+      "id": "UZB_004",
+      "name": "Farrukh Sayfiev",
+      "number": 4,
+      "position": "LB",
+      "caps": 46,
+      "age": 35,
+      "height_cm": 180,
+      "current_club": "Neftchi Fergana",
+      "national_league": "Uzbekistan Super League",
+      "club_league_ranking": 81.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "UZB_005",
+      "name": "Rustam Ashurmatov",
+      "number": 5,
+      "position": "CB",
+      "caps": 49,
+      "age": 29,
+      "height_cm": 186,
+      "current_club": "Esteghlal",
+      "national_league": "Persian Gulf Pro League",
+      "club_league_ranking": 49.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "UZB_006",
+      "name": "Akmal Mozgovoy",
       "number": 6,
       "position": "CM",
-      "caps": 20,
+      "caps": 25,
       "age": 27,
-      "height_cm": 184,
-      "current_club": "Manchester City",
-      "national_league": "Premier League",
-      "club_league_ranking": 1.2,
+      "height_cm": 180,
+      "current_club": "Pakhtakor",
+      "national_league": "Uzbekistan Super League",
+      "club_league_ranking": 81.2,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -163,16 +163,16 @@
     },
 
     {
-      "id": "POR_007",
-      "name": "Cristiano Ronaldo Aveiro",
+      "id": "UZB_007",
+      "name": "Otabek Shukurov",
       "number": 7,
-      "position": "ST",
-      "caps": 228,
-      "age": 41,
-      "height_cm": 187,
-      "current_club": "Al-Nassr",
-      "national_league": "Saudi Pro League",
-      "club_league_ranking": 36.1,
+      "position": "CM",
+      "caps": 84,
+      "age": 29,
+      "height_cm": 183,
+      "current_club": "Baniyas",
+      "national_league": "UAE Pro League",
+      "club_league_ranking": 52.10,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -187,16 +187,16 @@
     },
 
     {
-      "id": "POR_008",
-      "name": "Bruno Fernandes",
+      "id": "UZB_008",
+      "name": "Jamshid Iskanderov",
       "number": 8,
       "position": "CAM",
-      "caps": 89,
-      "age": 31,
-      "height_cm": 179,
-      "current_club": "Manchester United",
-      "national_league": "Premier League",
-      "club_league_ranking": 1.3,
+      "caps": 38,
+      "age": 32,
+      "height_cm": 169,
+      "current_club": "Neftchi Fergana",
+      "national_league": "Uzbekistan Super League",
+      "club_league_ranking": 81.1,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -211,16 +211,16 @@
     },
 
     {
-      "id": "POR_009",
-      "name": "Gonçalo Ramos",
+      "id": "UZB_009",
+      "name": "Odiljon Hamrobekov",
       "number": 9,
-      "position": "ST",
-      "caps": 25,
-      "age": 24,
-      "height_cm": 185,
-      "current_club": "Paris Saint-Germain",
-      "national_league": "Ligue 1",
-      "club_league_ranking": 4.1,
+      "position": "CM",
+      "caps": 72,
+      "age": 30,
+      "height_cm": 180,
+      "current_club": "Tractor",
+      "national_league": "Persian Gulf Pro League",
+      "club_league_ranking": 49.2,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -235,16 +235,16 @@
     },
 
     {
-      "id": "POR_010",
-      "name": "Bernardo Silva",
+      "id": "UZB_010",
+      "name": "Ruslanbek Jiyanov",
       "number": 10,
-      "position": "CAM",
-      "caps": 109,
-      "age": 31,
+      "position": "LW",
+      "caps": 5,
+      "age": 25,
       "height_cm": 173,
-      "current_club": "Manchester City",
-      "national_league": "Premier League",
-      "club_league_ranking": 1.2,
+      "current_club": "Navbahor Namangan",
+      "national_league": "Uzbekistan Super League",
+      "club_league_ranking": 81.4,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -259,16 +259,16 @@
     },
 
     {
-      "id": "POR_011",
-      "name": "João Félix",
+      "id": "UZB_011",
+      "name": "Oston Urunov",
       "number": 11,
       "position": "CAM",
-      "caps": 54,
-      "age": 26,
+      "caps": 42,
+      "age": 25,
       "height_cm": 181,
-      "current_club": "Al-Nassr",
-      "national_league": "Saudi Pro League",
-      "club_league_ranking": 36.1,
+      "current_club": "Persepolis",
+      "national_league": "Persian Gulf Pro League",
+      "club_league_ranking": 49.6,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -284,305 +284,15 @@
 
     {
       "id": "UZB_012",
-      "name": "Utkir Yusupov",
+      "name": "Abduvohid Nematov",
       "number": 12,
       "position": "GK",
-      "caps": 40,
-      "age": 35,
-      "height_cm": 185,
-      "current_club": "Navbahor Namangan",
-      "national_league": "Uzbekistan Super League",
-      "club_league_ranking": 89.4,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "clean_sheets": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "POR_013",
-      "name": "Renato Veiga",
-      "number": 13,
-      "position": "CB",
-      "caps": 13,
-      "age": 22,
-      "height_cm": 190,
-      "current_club": "Villarreal",
-      "national_league": "La Liga",
-      "club_league_ranking": 3.3,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "POR_014",
-      "name": "Gonçalo Inácio",
-      "number": 14,
-      "position": "CB",
-      "caps": 22,
-      "age": 24,
-      "height_cm": 185,
-      "current_club": "Sporting CP",
-      "national_league": "Liga Portugal",
-      "club_league_ranking": 8.2,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "POR_015",
-      "name": "João Neves",
-      "number": 15,
-      "position": "CM",
-      "caps": 22,
-      "age": 21,
-      "height_cm": 174,
-      "current_club": "Paris Saint-Germain",
-      "national_league": "Ligue 1",
-      "club_league_ranking": 4.1,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "POR_016",
-      "name": "Francisco Trincão",
-      "number": 16,
-      "position": "RW",
-      "caps": 18,
-      "age": 26,
-      "height_cm": 183,
-      "current_club": "Sporting CP",
-      "national_league": "Liga Portugal",
-      "club_league_ranking": 8.2,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "POR_017",
-      "name": "Rafael Leão",
-      "number": 17,
-      "position": "LW",
-      "caps": 44,
-      "age": 27,
-      "height_cm": 188,
-      "current_club": "AC Milan",
-      "national_league": "Serie A",
-      "club_league_ranking": 2.5,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "POR_018",
-      "name": "Pedro Neto",
-      "number": 18,
-      "position": "RW",
-      "caps": 25,
-      "age": 26,
-      "height_cm": 172,
-      "current_club": "Chelsea",
-      "national_league": "Premier League",
-      "club_league_ranking": 1.10,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "POR_019",
-      "name": "Gonçalo Guedes",
-      "number": 19,
-      "position": "LW",
-      "caps": 34,
-      "age": 29,
-      "height_cm": 179,
-      "current_club": "Real Sociedad",
-      "national_league": "La Liga",
-      "club_league_ranking": 3.10,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "POR_020",
-      "name": "João Cancelo",
-      "number": 20,
-      "position": "RB",
-      "caps": 68,
-      "age": 32,
-      "height_cm": 182,
-      "current_club": "FC Barcelona",
-      "national_league": "La Liga",
-      "club_league_ranking": 3.1,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "POR_021",
-      "name": "Rúben Neves",
-      "number": 21,
-      "position": "CDM",
-      "caps": 67,
-      "age": 29,
-      "height_cm": 180,
-      "current_club": "Al-Hilal",
-      "national_league": "Saudi Pro League",
-      "club_league_ranking": 36.2,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "POR_022",
-      "name": "Rui Silva",
-      "number": 22,
-      "position": "GK",
-      "caps": 3,
-      "age": 32,
-      "height_cm": 191,
-      "current_club": "Sporting CP",
-      "national_league": "Liga Portugal",
-      "club_league_ranking": 8.2,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "clean_sheets": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "POR_023",
-      "name": "Vitinha Ferreira",
-      "number": 23,
-      "position": "CM",
-      "caps": 38,
-      "age": 26,
-      "height_cm": 172,
-      "current_club": "Paris Saint-Germain",
-      "national_league": "Ligue 1",
-      "club_league_ranking": 4.1,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "POR_024",
-      "name": "Samú Costa",
-      "number": 24,
-      "position": "CDM",
-      "caps": 6,
+      "caps": 8,
       "age": 25,
       "height_cm": 183,
-      "current_club": "Mallorca",
-      "national_league": "La Liga",
-      "club_league_ranking": 3.18,
+      "current_club": "FC Nasaf",
+      "national_league": "Uzbekistan Super League",
+      "club_league_ranking": 81.9,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -592,21 +302,22 @@
         "assists": 0,
         "yellow_cards": 0,
         "red_cards": 0,
+        "clean_sheets": 0,
         "rating": 6.0
       }
     },
 
     {
-      "id": "POR_025",
-      "name": "Nuno Mendes",
-      "number": 25,
+      "id": "UZB_013",
+      "name": "Sherzod Nasrullaev",
+      "number": 13,
       "position": "LB",
-      "caps": 44,
-      "age": 23,
-      "height_cm": 180,
-      "current_club": "Paris Saint-Germain",
-      "national_league": "Ligue 1",
-      "club_league_ranking": 4.1,
+      "caps": 31,
+      "age": 27,
+      "height_cm": 181,
+      "current_club": "FC Nasaf",
+      "national_league": "Uzbekistan Super League",
+      "club_league_ranking": 81.9,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -621,16 +332,305 @@
     },
 
     {
-      "id": "POR_026",
-      "name": "Francisco Conceição",
-      "number": 26,
+      "id": "UZB_014",
+      "name": "Eldor Shomurodov",
+      "number": 14,
+      "position": "ST",
+      "caps": 92,
+      "age": 30,
+      "height_cm": 190,
+      "current_club": "İstanbul Başakşehir",
+      "national_league": "Süper Lig",
+      "club_league_ranking": 16.5,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "UZB_015",
+      "name": "Umar Eshmurodov",
+      "number": 15,
+      "position": "CB",
+      "caps": 29,
+      "age": 33,
+      "height_cm": 185,
+      "current_club": "FC Nasaf",
+      "national_league": "Uzbekistan Super League",
+      "club_league_ranking": 81.9,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "UZB_016",
+      "name": "Botirali Ergashev",
+      "number": 12,
+      "position": "GK",
+      "caps": 2,
+      "age": 30,
+      "height_cm": 189,
+      "current_club": "Neftchi Fergana",
+      "national_league": "Uzbekistan Super League",
+      "club_league_ranking": 81.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "UZB_017",
+      "name": "Dostonbek Khamdamov",
+      "number": 17,
       "position": "RW",
+      "caps": 34,
+      "age": 29,
+      "height_cm": 178,
+      "current_club": "Pakhtakor",
+      "national_league": "Uzbekistan Super League",
+      "club_league_ranking": 81.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "UZB_018",
+      "name": "Abdulla Abdullaev",
+      "number": 18,
+      "position": "CB",
       "caps": 17,
+      "age": 28,
+      "height_cm": 181,
+      "current_club": "Dibba",
+      "national_league": "UAE Pro League",
+      "club_league_ranking": 52.14,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "UZB_019",
+      "name": "Azizjon Ganiev",
+      "number": 19,
+      "position": "CM",
+      "caps": 19,
+      "age": 28,
+      "height_cm": 178,
+      "current_club": "Al Bataeh",
+      "national_league": "UAE Pro League",
+      "club_league_ranking": 52.13,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "UZB_020",
+      "name": "Azizbek Amonov",
+      "number": 20,
+      "position": "ST",
+      "caps": 12,
+      "age": 28,
+      "height_cm": 179,
+      "current_club": "Dinamo Samarqand",
+      "national_league": "Uzbekistan Super League",
+      "club_league_ranking": 81.13,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "UZB_021",
+      "name": "Igor Sergeev",
+      "number": 21,
+      "position": "ST",
+      "caps": 83,
+      "age": 33,
+      "height_cm": 185,
+      "current_club": "Persepolis",
+      "national_league": "Persian Gulf Pro League",
+      "club_league_ranking": 49.6,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "UZB_022",
+      "name": "Abbosbek Fayzullaev",
+      "number": 22,
+      "position": "CAM",
+      "caps": 32,
+      "age": 22,
+      "height_cm": 167,
+      "current_club": "İstanbul Başakşehir",
+      "national_league": "Süper Lig",
+      "club_league_ranking": 16.5,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "UZB_023",
+      "name": "Sherzod Esanov",
+      "number": 23,
+      "position": "CM",
+      "caps": 1,
       "age": 23,
-      "height_cm": 168,
-      "current_club": "Juventus",
-      "national_league": "Serie A",
-      "club_league_ranking": 2.6,
+      "height_cm": 190,
+      "current_club": "FC Bukhara",
+      "national_league": "Uzbekistan Super League",
+      "club_league_ranking": 81.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "UZB_024",
+      "name": "Bekhruz Karimov",
+      "number": 24,
+      "position": "RB",
+      "caps": 2,
+      "age": 18,
+      "height_cm": 172,
+      "current_club": "FC Surkhon",
+      "national_league": "Uzbekistan Super League",
+      "club_league_ranking": 81.12,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "UZB_025",
+      "name": "Avazbek Ulmasaliev",
+      "number": 25,
+      "position": "CB",
+      "caps": 0,
+      "age": 26,
+      "height_cm": 187,
+      "current_club": "AGMK",
+      "national_league": "Uzbekistan Super League",
+      "club_league_ranking": 81.7,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "UZB_026",
+      "name": "Jakhongir Urozov",
+      "number": 26,
+      "position": "CB",
+      "caps": 4,
+      "age": 22,
+      "height_cm": 190,
+      "current_club": "Dinamo Samarqand",
+      "national_league": "Uzbekistan Super League",
+      "club_league_ranking": 81.13,
 
       "tournament_stats": {
         "started_matches": 0,

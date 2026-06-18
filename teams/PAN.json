@@ -1,8 +1,8 @@
 {
-  "name": "Canada",
-  "code": "CAN",
+  "name": "Panama",
+  "code": "PAN",
   "confederation": "CONCACAF",
-  "group": "B",
+  "group": "L",
 
   "tournament_stats": {
     "matches_played": 0,
@@ -18,16 +18,16 @@
 
   "players": [
     {
-      "id": "CAN_001",
-      "name": "Dayne St. Clair",
+      "id": "PAN_001",
+      "name": "Luis Mejía",
       "number": 1,
       "position": "GK",
-      "caps": 20,
-      "age": 29,
-      "height_cm": 191,
-      "current_club": "Inter Miami",
-      "national_league": "MLS",
-      "club_league_ranking": 10.4,
+      "caps": 56,
+      "age": 35,
+      "height_cm": 193,
+      "current_club": "Nacional",
+      "national_league": "Uruguayan Primera División",
+      "club_league_ranking": 43.3,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -43,16 +43,16 @@
     },
 
     {
-      "id": "CAN_002",
-      "name": "Alistair Johnston",
+      "id": "PAN_002",
+      "name": "César Blackman",
       "number": 2,
-      "position": "RB",
-      "caps": 58,
-      "age": 27,
-      "height_cm": 180,
-      "current_club": "Celtic",
-      "national_league": "Premiership",
-      "club_league_ranking": 33.1,
+      "position": "RWB",
+      "caps": 40,
+      "age": 28,
+      "height_cm": 174,
+      "current_club": "Slovan Bratislava",
+      "national_league": "Slovak 1. Liga",
+      "club_league_ranking": 46.1,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -67,423 +67,13 @@
     },
 
     {
-      "id": "CAN_003",
-      "name": "Alfie Jones",
+      "id": "PAN_003",
+      "name": "José Córdoba",
       "number": 3,
       "position": "CB",
-      "caps": 2,
-      "age": 28,
-      "height_cm": 191,
-      "current_club": "Middlesbrough",
-      "national_league": "EFL Championship",
-      "club_league_ranking": 7.5,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_004",
-      "name": "Luc De Fougerolles",
-      "number": 4,
-      "position": "CB",
-      "caps": 13,
-      "age": 20,
-      "height_cm": 178,
-      "current_club": "Dender",
-      "national_league": "Pro League",
-      "club_league_ranking": 6.16,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_005",
-      "name": "Joel Waterman",
-      "number": 5,
-      "position": "CB",
-      "caps": 17,
-      "age": 30,
-      "height_cm": 188,
-      "current_club": "Chicago Fire FC",
-      "national_league": "MLS",
-      "club_league_ranking": 10.5,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_006",
-      "name": "Mathieu Choinière",
-      "number": 6,
-      "position": "CM",
-      "caps": 23,
-      "age": 27,
-      "height_cm": 175,
-      "current_club": "Los Angeles FC",
-      "national_league": "MLS",
-      "club_league_ranking": 10.9,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_007",
-      "name": "Stephen Eustáquio",
-      "number": 7,
-      "position": "CDM",
-      "caps": 56,
-      "age": 29,
-      "height_cm": 178,
-      "current_club": "Los Angeles FC",
-      "national_league": "MLS",
-      "club_league_ranking": 10.9,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_008",
-      "name": "Ismaël Koné",
-      "number": 8,
-      "position": "CM",
-      "caps": 40,
-      "age": 23,
-      "height_cm": 188,
-      "current_club": "Sassuolo",
-      "national_league": "Serie A",
-      "club_league_ranking": 2.11,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_009",
-      "name": "Cyle Larin",
-      "number": 9,
-      "position": "ST",
-      "caps": 90,
-      "age": 31,
-      "height_cm": 188,
-      "current_club": "Southampton",
-      "national_league": "EFL Championship",
-      "club_league_ranking": 7.4,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_010",
-      "name": "Jonathan David",
-      "number": 10,
-      "position": "ST",
-      "caps": 77,
-      "age": 26,
-      "height_cm": 178,
-      "current_club": "Juventus",
-      "national_league": "Serie A",
-      "club_league_ranking": 2.6,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_011",
-      "name": "Liam Millar",
-      "number": 11,
-      "position": "LM",
-      "caps": 41,
-      "age": 26,
-      "height_cm": 181,
-      "current_club": "Hull City",
-      "national_league": "EFL Championship",
-      "club_league_ranking": 7.6,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_012",
-      "name": "Tani Oluwaseyi",
-      "number": 12,
-      "position": "ST",
-      "caps": 24,
-      "age": 26,
-      "height_cm": 188,
-      "current_club": "Villarreal",
-      "national_league": "La Liga",
-      "club_league_ranking": 3.3,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_013",
-      "name": "Derek Cornelius",
-      "number": 13,
-      "position": "CB",
-      "caps": 44,
-      "age": 28,
-      "height_cm": 187,
-      "current_club": "Rangers",
-      "national_league": "Premiership",
-      "club_league_ranking": 33.3,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_014",
-      "name": "Jacob Shaffelburg",
-      "number": 14,
-      "position": "LM",
-      "caps": 31,
-      "age": 26,
-      "height_cm": 178,
-      "current_club": "Los Angeles FC",
-      "national_league": "MLS",
-      "club_league_ranking": 10.9,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_015",
-      "name": "Moïse Bombito",
-      "number": 15,
-      "position": "CB",
-      "caps": 20,
-      "age": 26,
-      "height_cm": 191,
-      "current_club": "Nice",
-      "national_league": "Ligue 1",
-      "club_league_ranking": 4.16,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_016",
-      "name": "Maxime Crépeau",
-      "number": 16,
-      "position": "GK",
       "caps": 32,
-      "age": 32,
-      "height_cm": 182,
-      "current_club": "Orlando City",
-      "national_league": "MLS",
-      "club_league_ranking": 10.25,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "clean_sheets": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_017",
-      "name": "Tajon Buchanan",
-      "number": 17,
-      "position": "RM",
-      "caps": 60,
-      "age": 27,
-      "height_cm": 183,
-      "current_club": "Villarreal",
-      "national_league": "La Liga",
-      "club_league_ranking": 3.3,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_018",
-      "name": "Owen Goodman",
-      "number": 18,
-      "position": "GK",
-      "caps": 0,
-      "age": 22,
-      "height_cm": 193,
-      "current_club": "Barnsley",
-      "national_league": "EFL League One",
-      "club_league_ranking": 41.15,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "clean_sheets": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_019",
-      "name": "Alphonso Davies",
-      "number": 19,
-      "position": "LB",
-      "caps": 58,
       "age": 25,
-      "height_cm": 185,
-      "current_club": "Bayern München",
-      "national_league": "Bundesliga",
-      "club_league_ranking": 5.1,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_020",
-      "name": "Ali Ahmed",
-      "number": 20,
-      "position": "LM",
-      "caps": 24,
-      "age": 25,
-      "height_cm": 180,
+      "height_cm": 187,
       "current_club": "Norwich City",
       "national_league": "EFL Championship",
       "club_league_ranking": 7.9,
@@ -501,40 +91,16 @@
     },
 
     {
-      "id": "CAN_021",
-      "name": "Jonathan Osorio",
-      "number": 21,
-      "position": "CM",
-      "caps": 90,
-      "age": 33,
-      "height_cm": 175,
-      "current_club": "Toronto FC",
-      "national_league": "MLS",
-      "club_league_ranking": 10.26,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_022",
-      "name": "Richie Laryea",
-      "number": 22,
-      "position": "RB",
-      "caps": 75,
+      "id": "PAN_004",
+      "name": "Fidel Escobar",
+      "number": 4,
+      "position": "CB",
+      "caps": 99,
       "age": 31,
-      "height_cm": 175,
-      "current_club": "Toronto FC",
-      "national_league": "MLS",
-      "club_league_ranking": 10.26,
+      "height_cm": 182,
+      "current_club": "Deportivo Saprissa",
+      "national_league": "Costa Rica Primera División",
+      "club_league_ranking": 45.2,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -549,40 +115,16 @@
     },
 
     {
-      "id": "CAN_023",
-      "name": "Niko Sigur",
-      "number": 23,
-      "position": "RB",
-      "caps": 19,
-      "age": 22,
-      "height_cm": 180,
-      "current_club": "Hajduk Split",
-      "national_league": "HNL",
-      "club_league_ranking": 18.2,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_024",
-      "name": "Promise David",
-      "number": 24,
-      "position": "ST",
-      "caps": 10,
+      "id": "PAN_005",
+      "name": "Edgardo Fariña",
+      "number": 5,
+      "position": "CB",
+      "caps": 18,
       "age": 24,
-      "height_cm": 195,
-      "current_club": "Union Saint-Gilloise",
-      "national_league": "Pro League",
-      "club_league_ranking": 6.2,
+      "height_cm": 194,
+      "current_club": "Nizhny Novgorod",
+      "national_league": "Russian Premier League",
+      "club_league_ranking": 22.15,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -597,40 +139,498 @@
     },
 
     {
-      "id": "CAN_025",
-      "name": "Nathan Saliba",
-      "number": 25,
-      "position": "CM",
-      "caps": 15,
-      "age": 22,
-      "height_cm": 173,
-      "current_club": "Anderlecht",
-      "national_league": "Pro League",
-      "club_league_ranking": 6.4,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_026",
-      "name": "Jayden Nelson",
-      "number": 26,
-      "position": "LM",
-      "caps": 14,
-      "age": 24,
+      "id": "PAN_006",
+      "name": "Cristian Martínez",
+      "number": 6,
+      "position": "CAM",
+      "caps": 66,
+      "age": 29,
       "height_cm": 170,
-      "current_club": "Austin FC",
+      "current_club": "Hapoel Ironi Kiryat Shmona",
+      "national_league": "Ligat Ha'Al",
+      "club_league_ranking": 42.8,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "PAN_007",
+      "name": "José Luis Rodríguez",
+      "number": 7,
+      "position": "LW",
+      "caps": 70,
+      "age": 27,
+      "height_cm": 180,
+      "current_club": "Juárez",
+      "national_league": "Liga MX",
+      "club_league_ranking": 19.12,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "PAN_008",
+      "name": "Adalberto Carrasquilla",
+      "number": 8,
+      "position": "CAM",
+      "caps": 73,
+      "age": 27,
+      "height_cm": 170,
+      "current_club": "Pumas",
+      "national_league": "Liga MX",
+      "club_league_ranking": 19.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "PAN_009",
+      "name": "Tomás Rodríguez",
+      "number": 9,
+      "position": "ST",
+      "caps": 13,
+      "age": 27,
+      "height_cm": 183,
+      "current_club": "Deportivo Saprissa",
+      "national_league": "Costa Rica Primera División",
+      "club_league_ranking": 45.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "PAN_010",
+      "name": "Ismael Díaz",
+      "number": 10,
+      "position": "LW",
+      "caps": 57,
+      "age": 29,
+      "height_cm": 182,
+      "current_club": "León",
+      "national_league": "Liga MX",
+      "club_league_ranking": 19.10,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "PAN_011",
+      "name": "Yoel Bárcenas",
+      "number": 11,
+      "position": "CAM",
+      "caps": 104,
+      "age": 32,
+      "height_cm": 175,
+      "current_club": "Mazatlán",
+      "national_league": "Liga MX",
+      "club_league_ranking": 19.16,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "PAN_012",
+      "name": "César Samudio",
+      "number": 12,
+      "position": "GK",
+      "caps": 5,
+      "age": 32,
+      "height_cm": 189,
+      "current_club": "Marathón",
+      "national_league": "Honduras Liga Nacional",
+      "club_league_ranking": 61.5,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "PAN_013",
+      "name": "Jiovany Ramos",
+      "number": 13,
+      "position": "CB",
+      "caps": 23,
+      "age": 29,
+      "height_cm": 185,
+      "current_club": "Puerto Cabello",
+      "national_league": "Liga FUTVE",
+      "club_league_ranking": 70.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "PAN_014",
+      "name": "Carlos Harvey",
+      "number": 14,
+      "position": "CDM",
+      "caps": 28,
+      "age": 26,
+      "height_cm": 185,
+      "current_club": "Minnesota United FC",
       "national_league": "MLS",
-      "club_league_ranking": 10.27,
+      "club_league_ranking": 10.12,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "PAN_015",
+      "name": "Éric Davis",
+      "number": 15,
+      "position": "LWB",
+      "caps": 107,
+      "age": 35,
+      "height_cm": 180,
+      "current_club": "Plaza Amador",
+      "national_league": "LPF",
+      "club_league_ranking": 96.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "PAN_016",
+      "name": "Andrés Andrade",
+      "number": 16,
+      "position": "CB",
+      "caps": 50,
+      "age": 27,
+      "height_cm": 187,
+      "current_club": "LASK",
+      "national_league": "Austrian Bundesliga",
+      "club_league_ranking": 23.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "PAN_017",
+      "name": "José Fajardo",
+      "number": 17,
+      "position": "ST",
+      "caps": 68,
+      "age": 32,
+      "height_cm": 181,
+      "current_club": "Universidad Católica del Ecuador",
+      "national_league": "Ecuadorian Serie A",
+      "club_league_ranking": 26.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "PAN_018",
+      "name": "Cecilio Waterman",
+      "number": 18,
+      "position": "ST",
+      "caps": 55,
+      "age": 35,
+      "height_cm": 181,
+      "current_club": "Universidad de Concepción",
+      "national_league": "Chile Primera División",
+      "club_league_ranking": 47.11,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "PAN_019",
+      "name": "Alberto Quintero",
+      "number": 19,
+      "position": "LW",
+      "caps": 141,
+      "age": 38,
+      "height_cm": 165,
+      "current_club": "Plaza Amador",
+      "national_league": "LPF",
+      "club_league_ranking": 96.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "PAN_020",
+      "name": "Aníbal Godoy",
+      "number": 20,
+      "position": "CDM",
+      "caps": 159,
+      "age": 36,
+      "height_cm": 183,
+      "current_club": "San Diego FC",
+      "national_league": "MLS",
+      "club_league_ranking": 10.19,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "PAN_021",
+      "name": "César Yanis",
+      "number": 21,
+      "position": "RW",
+      "caps": 56,
+      "age": 30,
+      "height_cm": 160,
+      "current_club": "Cobresal",
+      "national_league": "Chile Primera División",
+      "club_league_ranking": 47.15,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "PAN_022",
+      "name": "Orlando Mosquera",
+      "number": 22,
+      "position": "GK",
+      "caps": 48,
+      "age": 31,
+      "height_cm": 191,
+      "current_club": "Al-Fayha",
+      "national_league": "Saudi Pro League",
+      "club_league_ranking": 36.10,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "PAN_023",
+      "name": "Michael Amir Murillo",
+      "number": 23,
+      "position": "RWB",
+      "caps": 94,
+      "age": 30,
+      "height_cm": 183,
+      "current_club": "Beşiktaş",
+      "national_league": "Süper Lig",
+      "club_league_ranking": 16.4,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "PAN_024",
+      "name": "Azarías Londoño",
+      "number": 24,
+      "position": "RW",
+      "caps": 11,
+      "age": 24,
+      "height_cm": 185,
+      "current_club": "Universidad Católica del Ecuador",
+      "national_league": "Ecuadorian Serie A",
+      "club_league_ranking": 26.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "PAN_025",
+      "name": "Roderick Miller",
+      "number": 25,
+      "position": "CB",
+      "caps": 50,
+      "age": 34,
+      "height_cm": 190,
+      "current_club": "Turan Tovuz",
+      "national_league": "Azerbaijan Premier League",
+      "club_league_ranking": 55.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "PAN_026",
+      "name": "Jorge Gutiérrez",
+      "number": 26,
+      "position": "LWB",
+      "caps": 18,
+      "age": 27,
+      "height_cm": 171,
+      "current_club": "Deportivo La Guaira",
+      "national_league": "Liga FUTVE",
+      "club_league_ranking": 70.6,
 
       "tournament_stats": {
         "started_matches": 0,

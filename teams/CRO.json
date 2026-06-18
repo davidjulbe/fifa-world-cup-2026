@@ -1,8 +1,8 @@
 {
-  "name": "Canada",
-  "code": "CAN",
-  "confederation": "CONCACAF",
-  "group": "B",
+  "name": "Croatia",
+  "code": "CRO",
+  "confederation": "UEFA",
+  "group": "L",
 
   "tournament_stats": {
     "matches_played": 0,
@@ -18,209 +18,16 @@
 
   "players": [
     {
-      "id": "CAN_001",
-      "name": "Dayne St. Clair",
+      "id": "CRO_001",
+      "name": "Dominik Livaković",
       "number": 1,
       "position": "GK",
-      "caps": 20,
-      "age": 29,
-      "height_cm": 191,
-      "current_club": "Inter Miami",
-      "national_league": "MLS",
-      "club_league_ranking": 10.4,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "clean_sheets": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_002",
-      "name": "Alistair Johnston",
-      "number": 2,
-      "position": "RB",
-      "caps": 58,
-      "age": 27,
-      "height_cm": 180,
-      "current_club": "Celtic",
-      "national_league": "Premiership",
-      "club_league_ranking": 33.1,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_003",
-      "name": "Alfie Jones",
-      "number": 3,
-      "position": "CB",
-      "caps": 2,
-      "age": 28,
-      "height_cm": 191,
-      "current_club": "Middlesbrough",
-      "national_league": "EFL Championship",
-      "club_league_ranking": 7.5,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_004",
-      "name": "Luc De Fougerolles",
-      "number": 4,
-      "position": "CB",
-      "caps": 13,
-      "age": 20,
-      "height_cm": 178,
-      "current_club": "Dender",
-      "national_league": "Pro League",
-      "club_league_ranking": 6.16,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_005",
-      "name": "Joel Waterman",
-      "number": 5,
-      "position": "CB",
-      "caps": 17,
-      "age": 30,
-      "height_cm": 188,
-      "current_club": "Chicago Fire FC",
-      "national_league": "MLS",
-      "club_league_ranking": 10.5,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_006",
-      "name": "Mathieu Choinière",
-      "number": 6,
-      "position": "CM",
-      "caps": 23,
-      "age": 27,
-      "height_cm": 175,
-      "current_club": "Los Angeles FC",
-      "national_league": "MLS",
-      "club_league_ranking": 10.9,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_007",
-      "name": "Stephen Eustáquio",
-      "number": 7,
-      "position": "CDM",
-      "caps": 56,
-      "age": 29,
-      "height_cm": 178,
-      "current_club": "Los Angeles FC",
-      "national_league": "MLS",
-      "club_league_ranking": 10.9,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_008",
-      "name": "Ismaël Koné",
-      "number": 8,
-      "position": "CM",
-      "caps": 40,
-      "age": 23,
-      "height_cm": 188,
-      "current_club": "Sassuolo",
-      "national_league": "Serie A",
-      "club_league_ranking": 2.11,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_009",
-      "name": "Cyle Larin",
-      "number": 9,
-      "position": "ST",
-      "caps": 90,
+      "caps": 75,
       "age": 31,
       "height_cm": 188,
-      "current_club": "Southampton",
-      "national_league": "EFL Championship",
-      "club_league_ranking": 7.4,
+      "current_club": "Dinamo Zagreb",
+      "national_league": "HNL",
+      "club_league_ranking": 18.1,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -230,236 +37,19 @@
         "assists": 0,
         "yellow_cards": 0,
         "red_cards": 0,
+        "clean_sheets": 0,
         "rating": 6.0
       }
     },
 
     {
-      "id": "CAN_010",
-      "name": "Jonathan David",
-      "number": 10,
-      "position": "ST",
-      "caps": 77,
-      "age": 26,
-      "height_cm": 178,
-      "current_club": "Juventus",
-      "national_league": "Serie A",
-      "club_league_ranking": 2.6,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_011",
-      "name": "Liam Millar",
-      "number": 11,
-      "position": "LM",
-      "caps": 41,
-      "age": 26,
-      "height_cm": 181,
-      "current_club": "Hull City",
-      "national_league": "EFL Championship",
-      "club_league_ranking": 7.6,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_012",
-      "name": "Tani Oluwaseyi",
-      "number": 12,
-      "position": "ST",
-      "caps": 24,
-      "age": 26,
-      "height_cm": 188,
-      "current_club": "Villarreal",
-      "national_league": "La Liga",
-      "club_league_ranking": 3.3,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_013",
-      "name": "Derek Cornelius",
-      "number": 13,
-      "position": "CB",
-      "caps": 44,
-      "age": 28,
-      "height_cm": 187,
-      "current_club": "Rangers",
-      "national_league": "Premiership",
-      "club_league_ranking": 33.3,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_014",
-      "name": "Jacob Shaffelburg",
-      "number": 14,
-      "position": "LM",
+      "id": "CRO_002",
+      "name": "Josip Stanišić",
+      "number": 2,
+      "position": "RB",
       "caps": 31,
       "age": 26,
-      "height_cm": 178,
-      "current_club": "Los Angeles FC",
-      "national_league": "MLS",
-      "club_league_ranking": 10.9,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_015",
-      "name": "Moïse Bombito",
-      "number": 15,
-      "position": "CB",
-      "caps": 20,
-      "age": 26,
-      "height_cm": 191,
-      "current_club": "Nice",
-      "national_league": "Ligue 1",
-      "club_league_ranking": 4.16,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_016",
-      "name": "Maxime Crépeau",
-      "number": 16,
-      "position": "GK",
-      "caps": 32,
-      "age": 32,
-      "height_cm": 182,
-      "current_club": "Orlando City",
-      "national_league": "MLS",
-      "club_league_ranking": 10.25,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "clean_sheets": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_017",
-      "name": "Tajon Buchanan",
-      "number": 17,
-      "position": "RM",
-      "caps": 60,
-      "age": 27,
-      "height_cm": 183,
-      "current_club": "Villarreal",
-      "national_league": "La Liga",
-      "club_league_ranking": 3.3,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_018",
-      "name": "Owen Goodman",
-      "number": 18,
-      "position": "GK",
-      "caps": 0,
-      "age": 22,
-      "height_cm": 193,
-      "current_club": "Barnsley",
-      "national_league": "EFL League One",
-      "club_league_ranking": 41.15,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "clean_sheets": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_019",
-      "name": "Alphonso Davies",
-      "number": 19,
-      "position": "LB",
-      "caps": 58,
-      "age": 25,
-      "height_cm": 185,
+      "height_cm": 186,
       "current_club": "Bayern München",
       "national_league": "Bundesliga",
       "club_league_ranking": 5.1,
@@ -477,16 +67,16 @@
     },
 
     {
-      "id": "CAN_020",
-      "name": "Ali Ahmed",
-      "number": 20,
-      "position": "LM",
-      "caps": 24,
-      "age": 25,
-      "height_cm": 180,
-      "current_club": "Norwich City",
-      "national_league": "EFL Championship",
-      "club_league_ranking": 7.9,
+      "id": "CRO_003",
+      "name": "Marin Pongračić",
+      "number": 3,
+      "position": "CB",
+      "caps": 20,
+      "age": 28,
+      "height_cm": 190,
+      "current_club": "Fiorentina",
+      "national_league": "Serie A",
+      "club_league_ranking": 2.15,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -501,16 +91,425 @@
     },
 
     {
-      "id": "CAN_021",
-      "name": "Jonathan Osorio",
+      "id": "CRO_004",
+      "name": "Joško Gvardiol",
+      "number": 4,
+      "position": "CB",
+      "caps": 48,
+      "age": 24,
+      "height_cm": 185,
+      "current_club": "Manchester City",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CRO_005",
+      "name": "Duje Ćaleta-Car",
+      "number": 5,
+      "position": "CB",
+      "caps": 38,
+      "age": 29,
+      "height_cm": 193,
+      "current_club": "Real Sociedad",
+      "national_league": "La Liga",
+      "club_league_ranking": 3.10,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CRO_006",
+      "name": "Josip Šutalo",
+      "number": 6,
+      "position": "CB",
+      "caps": 33,
+      "age": 26,
+      "height_cm": 185,
+      "current_club": "Ajax",
+      "national_league": "Eredivisie",
+      "club_league_ranking": 11.5,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CRO_007",
+      "name": "Nikola Moro",
+      "number": 7,
+      "position": "CDM",
+      "caps": 10,
+      "age": 28,
+      "height_cm": 184,
+      "current_club": "Bologna",
+      "national_league": "Serie A",
+      "club_league_ranking": 2.8,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CRO_008",
+      "name": "Mateo Kovačić",
+      "number": 8,
+      "position": "CM",
+      "caps": 113,
+      "age": 32,
+      "height_cm": 177,
+      "current_club": "Manchester City",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CRO_009",
+      "name": "Andrej Kramarić",
+      "number": 9,
+      "position": "CAM",
+      "caps": 116,
+      "age": 34,
+      "height_cm": 177,
+      "current_club": "Hoffenheim",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.5,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CRO_010",
+      "name": "Luka Modrić",
+      "number": 10,
+      "position": "CM",
+      "caps": 198,
+      "age": 40,
+      "height_cm": 172,
+      "current_club": "AC Milan",
+      "national_league": "Serie A",
+      "club_league_ranking": 2.5,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CRO_011",
+      "name": "Ante Budimir",
+      "number": 11,
+      "position": "ST",
+      "caps": 38,
+      "age": 34,
+      "height_cm": 190,
+      "current_club": "Osasuna",
+      "national_league": "La Liga",
+      "club_league_ranking": 3.17,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CRO_012",
+      "name": "Ivor Pandur",
+      "number": 12,
+      "position": "GK",
+      "caps": 0,
+      "age": 26,
+      "height_cm": 187,
+      "current_club": "Hull City",
+      "national_league": "EFL Championship",
+      "club_league_ranking": 7.6,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CRO_013",
+      "name": "Nikola Vlašić",
+      "number": 13,
+      "position": "CAM",
+      "caps": 63,
+      "age": 28,
+      "height_cm": 179,
+      "current_club": "Torino",
+      "national_league": "Serie A",
+      "club_league_ranking": 2.12,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CRO_014",
+      "name": "Ivan Perišić",
+      "number": 14,
+      "position": "LW",
+      "caps": 154,
+      "age": 37,
+      "height_cm": 186,
+      "current_club": "PSV",
+      "national_league": "Eredivisie",
+      "club_league_ranking": 11.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CRO_015",
+      "name": "Mario Pašalić",
+      "number": 15,
+      "position": "CM",
+      "caps": 85,
+      "age": 31,
+      "height_cm": 188,
+      "current_club": "Atalanta",
+      "national_league": "Serie A",
+      "club_league_ranking": 2.7,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CRO_016",
+      "name": "Martin Baturina",
+      "number": 16,
+      "position": "CAM",
+      "caps": 19,
+      "age": 23,
+      "height_cm": 172,
+      "current_club": "Como",
+      "national_league": "Serie A",
+      "club_league_ranking": 2.4,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CRO_017",
+      "name": "Petar Sučić",
+      "number": 17,
+      "position": "CM",
+      "caps": 17,
+      "age": 22,
+      "height_cm": 183,
+      "current_club": "Inter Milan",
+      "national_league": "Serie A",
+      "club_league_ranking": 2.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CRO_018",
+      "name": "Kristijan Jakić",
+      "number": 18,
+      "position": "CDM",
+      "caps": 17,
+      "age": 29,
+      "height_cm": 181,
+      "current_club": "FC Augsburg",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.9,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CRO_019",
+      "name": "Toni Fruk",
+      "number": 19,
+      "position": "CAM",
+      "caps": 7,
+      "age": 25,
+      "height_cm": 178,
+      "current_club": "Rijeka",
+      "national_league": "HNL",
+      "club_league_ranking": 18.4,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CRO_020",
+      "name": "Igor Matanović",
+      "number": 20,
+      "position": "ST",
+      "caps": 9,
+      "age": 23,
+      "height_cm": 194,
+      "current_club": "Freiburg",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.7,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CRO_021",
+      "name": "Luka Sučić",
       "number": 21,
       "position": "CM",
-      "caps": 90,
-      "age": 33,
-      "height_cm": 175,
-      "current_club": "Toronto FC",
-      "national_league": "MLS",
-      "club_league_ranking": 10.26,
+      "caps": 21,
+      "age": 23,
+      "height_cm": 185,
+      "current_club": "Real Sociedad",
+      "national_league": "La Liga",
+      "club_league_ranking": 3.10,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -525,16 +524,16 @@
     },
 
     {
-      "id": "CAN_022",
-      "name": "Richie Laryea",
+      "id": "CRO_022",
+      "name": "Luka Vušković",
       "number": 22,
-      "position": "RB",
-      "caps": 75,
-      "age": 31,
-      "height_cm": 175,
-      "current_club": "Toronto FC",
-      "national_league": "MLS",
-      "club_league_ranking": 10.26,
+      "position": "CB",
+      "caps": 5,
+      "age": 19,
+      "height_cm": 193,
+      "current_club": "Hamburger SV",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.13,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -549,16 +548,16 @@
     },
 
     {
-      "id": "CAN_023",
-      "name": "Niko Sigur",
+      "id": "CRO_023",
+      "name": "Dominik Kotarski",
       "number": 23,
-      "position": "RB",
-      "caps": 19,
-      "age": 22,
-      "height_cm": 180,
-      "current_club": "Hajduk Split",
-      "national_league": "HNL",
-      "club_league_ranking": 18.2,
+      "position": "GK",
+      "caps": 4,
+      "age": 26,
+      "height_cm": 189,
+      "current_club": "F.C. København",
+      "national_league": "Superligaen",
+      "club_league_ranking": 12.7,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -568,45 +567,22 @@
         "assists": 0,
         "yellow_cards": 0,
         "red_cards": 0,
+        "clean_sheets": 0,
         "rating": 6.0
       }
     },
 
     {
-      "id": "CAN_024",
-      "name": "Promise David",
+      "id": "CRO_024",
+      "name": "Marco Pašalić",
       "number": 24,
-      "position": "ST",
-      "caps": 10,
-      "age": 24,
-      "height_cm": 195,
-      "current_club": "Union Saint-Gilloise",
-      "national_league": "Pro League",
-      "club_league_ranking": 6.2,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_025",
-      "name": "Nathan Saliba",
-      "number": 25,
-      "position": "CM",
+      "position": "RM",
       "caps": 15,
-      "age": 22,
-      "height_cm": 173,
-      "current_club": "Anderlecht",
-      "national_league": "Pro League",
-      "club_league_ranking": 6.4,
+      "age": 25,
+      "height_cm": 177,
+      "current_club": "Orlando City",
+      "national_league": "MLS",
+      "club_league_ranking": 10.25,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -621,16 +597,40 @@
     },
 
     {
-      "id": "CAN_026",
-      "name": "Jayden Nelson",
+      "id": "CRO_025",
+      "name": "Martin Erlić",
+      "number": 25,
+      "position": "CB",
+      "caps": 13,
+      "age": 28,
+      "height_cm": 192,
+      "current_club": "Midtjylland",
+      "national_league": "Superligaen",
+      "club_league_ranking": 12.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "CRO_026",
+      "name": "Petar Musa",
       "number": 26,
-      "position": "LM",
-      "caps": 14,
-      "age": 24,
-      "height_cm": 170,
-      "current_club": "Austin FC",
+      "position": "ST",
+      "caps": 11,
+      "age": 28,
+      "height_cm": 190,
+      "current_club": "FC Dallas",
       "national_league": "MLS",
-      "club_league_ranking": 10.27,
+      "club_league_ranking": 10.8,
 
       "tournament_stats": {
         "started_matches": 0,

@@ -1,8 +1,8 @@
 {
-  "name": "Canada",
-  "code": "CAN",
-  "confederation": "CONCACAF",
-  "group": "B",
+  "name": "Ghana",
+  "code": "GHA",
+  "confederation": "CAF",
+  "group": "L",
 
   "tournament_stats": {
     "matches_played": 0,
@@ -18,16 +18,16 @@
 
   "players": [
     {
-      "id": "CAN_001",
-      "name": "Dayne St. Clair",
+      "id": "GHA_001",
+      "name": "Lawrence Ati-Zigi",
       "number": 1,
       "position": "GK",
-      "caps": 20,
+      "caps": 29,
       "age": 29,
-      "height_cm": 191,
-      "current_club": "Inter Miami",
-      "national_league": "MLS",
-      "club_league_ranking": 10.4,
+      "height_cm": 188,
+      "current_club": "St. Gallen",
+      "national_league": "Swiss Super League",
+      "club_league_ranking": 24.2,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -43,253 +43,85 @@
     },
 
     {
-      "id": "CAN_002",
-      "name": "Alistair Johnston",
+      "id": "GHA_002",
+      "name": "Alidu Seidu",
       "number": 2,
       "position": "RB",
-      "caps": 58,
-      "age": 27,
-      "height_cm": 180,
-      "current_club": "Celtic",
-      "national_league": "Premiership",
-      "club_league_ranking": 33.1,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_003",
-      "name": "Alfie Jones",
-      "number": 3,
-      "position": "CB",
-      "caps": 2,
-      "age": 28,
-      "height_cm": 191,
-      "current_club": "Middlesbrough",
-      "national_league": "EFL Championship",
-      "club_league_ranking": 7.5,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_004",
-      "name": "Luc De Fougerolles",
-      "number": 4,
-      "position": "CB",
-      "caps": 13,
-      "age": 20,
-      "height_cm": 178,
-      "current_club": "Dender",
-      "national_league": "Pro League",
-      "club_league_ranking": 6.16,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_005",
-      "name": "Joel Waterman",
-      "number": 5,
-      "position": "CB",
-      "caps": 17,
-      "age": 30,
-      "height_cm": 188,
-      "current_club": "Chicago Fire FC",
-      "national_league": "MLS",
-      "club_league_ranking": 10.5,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_006",
-      "name": "Mathieu Choinière",
-      "number": 6,
-      "position": "CM",
-      "caps": 23,
-      "age": 27,
-      "height_cm": 175,
-      "current_club": "Los Angeles FC",
-      "national_league": "MLS",
-      "club_league_ranking": 10.9,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_007",
-      "name": "Stephen Eustáquio",
-      "number": 7,
-      "position": "CDM",
-      "caps": 56,
-      "age": 29,
-      "height_cm": 178,
-      "current_club": "Los Angeles FC",
-      "national_league": "MLS",
-      "club_league_ranking": 10.9,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_008",
-      "name": "Ismaël Koné",
-      "number": 8,
-      "position": "CM",
-      "caps": 40,
-      "age": 23,
-      "height_cm": 188,
-      "current_club": "Sassuolo",
-      "national_league": "Serie A",
-      "club_league_ranking": 2.11,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_009",
-      "name": "Cyle Larin",
-      "number": 9,
-      "position": "ST",
-      "caps": 90,
-      "age": 31,
-      "height_cm": 188,
-      "current_club": "Southampton",
-      "national_league": "EFL Championship",
-      "club_league_ranking": 7.4,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_010",
-      "name": "Jonathan David",
-      "number": 10,
-      "position": "ST",
-      "caps": 77,
-      "age": 26,
-      "height_cm": 178,
-      "current_club": "Juventus",
-      "national_league": "Serie A",
-      "club_league_ranking": 2.6,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_011",
-      "name": "Liam Millar",
-      "number": 11,
-      "position": "LM",
-      "caps": 41,
-      "age": 26,
-      "height_cm": 181,
-      "current_club": "Hull City",
-      "national_league": "EFL Championship",
-      "club_league_ranking": 7.6,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_012",
-      "name": "Tani Oluwaseyi",
-      "number": 12,
-      "position": "ST",
       "caps": 24,
       "age": 26,
+      "height_cm": 173,
+      "current_club": "Stade Rennais",
+      "national_league": "Ligue 1",
+      "club_league_ranking": 4.6,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "GHA_003",
+      "name": "Caleb Yirenkyi",
+      "number": 3,
+      "position": "CM",
+      "caps": 11,
+      "age": 20,
+      "height_cm": 182,
+      "current_club": "Nordsjælland",
+      "national_league": "Superligaen",
+      "club_league_ranking": 12.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "GHA_004",
+      "name": "Jonas Adjetey",
+      "number": 4,
+      "position": "CB",
+      "caps": 10,
+      "age": 22,
       "height_cm": 188,
+      "current_club": "Wolfsburg",
+      "national_league": "Bundesliga",
+      "club_league_ranking": 5.16,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "GHA_005",
+      "name": "Thomas Partey",
+      "number": 5,
+      "position": "CM",
+      "caps": 57,
+      "age": 32,
+      "height_cm": 185,
       "current_club": "Villarreal",
       "national_league": "La Liga",
       "club_league_ranking": 3.3,
@@ -307,16 +139,16 @@
     },
 
     {
-      "id": "CAN_013",
-      "name": "Derek Cornelius",
-      "number": 13,
+      "id": "GHA_006",
+      "name": "Abdul Mumin",
+      "number": 6,
       "position": "CB",
-      "caps": 44,
+      "caps": 5,
       "age": 28,
-      "height_cm": 187,
-      "current_club": "Rangers",
-      "national_league": "Premiership",
-      "club_league_ranking": 33.3,
+      "height_cm": 188,
+      "current_club": "Rayo Vallecano",
+      "national_league": "La Liga",
+      "club_league_ranking": 3.8,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -331,16 +163,161 @@
     },
 
     {
-      "id": "CAN_014",
-      "name": "Jacob Shaffelburg",
-      "number": 14,
+      "id": "GHA_007",
+      "name": "Abdul Fatawu",
+      "number": 7,
+      "position": "RM",
+      "caps": 28,
+      "age": 22,
+      "height_cm": 177,
+      "current_club": "Leicester City",
+      "national_league": "EFL Championship",
+      "club_league_ranking": 7.23,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "GHA_008",
+      "name": "Kwasi Sibo",
+      "number": 8,
+      "position": "CM",
+      "caps": 8,
+      "age": 27,
+      "height_cm": 182,
+      "current_club": "Real Oviedo",
+      "national_league": "La Liga",
+      "club_league_ranking": 3.20,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "GHA_009",
+      "name": "Jordan Ayew",
+      "number": 9,
+      "position": "ST",
+      "caps": 120,
+      "age": 34,
+      "height_cm": 182,
+      "current_club": "Leicester City",
+      "national_league": "EFL Championship",
+      "club_league_ranking": 7.23,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "GHA_010",
+      "name": "Brandon Thomas-Asante",
+      "number": 10,
+      "position": "ST",
+      "caps": 8,
+      "age": 27,
+      "height_cm": 180,
+      "current_club": "Coventry City",
+      "national_league": "EFL Championship",
+      "club_league_ranking": 7.1,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "GHA_011",
+      "name": "Antoine Semenyo",
+      "number": 11,
+      "position": "RM",
+      "caps": 34,
+      "age": 26,
+      "height_cm": 185,
+      "current_club": "Manchester City",
+      "national_league": "Premier League",
+      "club_league_ranking": 1.2,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "GHA_012",
+      "name": "Joseph Anang",
+      "number": 12,
+      "position": "GK",
+      "caps": 1,
+      "age": 26,
+      "height_cm": 190,
+      "current_club": "St. Patrick's Athletic",
+      "national_league": "Irish Premier Division",
+      "club_league_ranking": 89.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "GHA_013",
+      "name": "Christopher Bonsu Baah",
+      "number": 13,
       "position": "LM",
-      "caps": 31,
-      "age": 26,
-      "height_cm": 178,
-      "current_club": "Los Angeles FC",
-      "national_league": "MLS",
-      "club_league_ranking": 10.9,
+      "caps": 9,
+      "age": 21,
+      "height_cm": 172,
+      "current_club": "Al-Qadsiah",
+      "national_league": "Saudi Pro League",
+      "club_league_ranking": 36.4,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -355,13 +332,182 @@
     },
 
     {
-      "id": "CAN_015",
-      "name": "Moïse Bombito",
+      "id": "GHA_014",
+      "name": "Gideon Mensah",
+      "number": 14,
+      "position": "LB",
+      "caps": 40,
+      "age": 27,
+      "height_cm": 178,
+      "current_club": "Auxerre",
+      "national_league": "Ligue 1",
+      "club_league_ranking": 4.15,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "GHA_015",
+      "name": "Elisha Owusu",
       "number": 15,
-      "position": "CB",
+      "position": "CM",
       "caps": 20,
-      "age": 26,
-      "height_cm": 191,
+      "age": 28,
+      "height_cm": 182,
+      "current_club": "Auxerre",
+      "national_league": "Ligue 1",
+      "club_league_ranking": 4.15,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "GHA_016",
+      "name": "Benjamin Asare",
+      "number": 16,
+      "position": "GK",
+      "caps": 11,
+      "age": 33,
+      "height_cm": 188,
+      "current_club": "Hearts of Oak",
+      "national_league": "Ghana Premier League",
+      "club_league_ranking": 94.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "clean_sheets": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "GHA_017",
+      "name": "Abdul Rahman Baba",
+      "number": 17,
+      "position": "LB",
+      "caps": 51,
+      "age": 31,
+      "height_cm": 180,
+      "current_club": "PAOK",
+      "national_league": "Greek Super League",
+      "club_league_ranking": 32.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "GHA_018",
+      "name": "Jerome Opoku",
+      "number": 18,
+      "position": "CB",
+      "caps": 11,
+      "age": 27,
+      "height_cm": 197,
+      "current_club": "İstanbul Başakşehir",
+      "national_league": "Süper Lig",
+      "club_league_ranking": 16.5,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "GHA_019",
+      "name": "Iñaki Williams",
+      "number": 19,
+      "position": "ST",
+      "caps": 26,
+      "age": 31,
+      "height_cm": 186,
+      "current_club": "Athletic Club",
+      "national_league": "La Liga",
+      "club_league_ranking": 3.12,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "GHA_020",
+      "name": "Augustine Boakye",
+      "number": 20,
+      "position": "RM",
+      "caps": 0,
+      "age": 25,
+      "height_cm": 178,
+      "current_club": "Saint-Étienne",
+      "national_league": "Ligue 2",
+      "club_league_ranking": 34.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "GHA_021",
+      "name": "Kojo Peprah Oppong",
+      "number": 21,
+      "position": "CB",
+      "caps": 4,
+      "age": 22,
+      "height_cm": 188,
       "current_club": "Nice",
       "national_league": "Ligue 1",
       "club_league_ranking": 4.16,
@@ -379,162 +525,16 @@
     },
 
     {
-      "id": "CAN_016",
-      "name": "Maxime Crépeau",
-      "number": 16,
-      "position": "GK",
-      "caps": 32,
-      "age": 32,
-      "height_cm": 182,
-      "current_club": "Orlando City",
-      "national_league": "MLS",
-      "club_league_ranking": 10.25,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "clean_sheets": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_017",
-      "name": "Tajon Buchanan",
-      "number": 17,
-      "position": "RM",
-      "caps": 60,
-      "age": 27,
-      "height_cm": 183,
-      "current_club": "Villarreal",
-      "national_league": "La Liga",
-      "club_league_ranking": 3.3,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_018",
-      "name": "Owen Goodman",
-      "number": 18,
-      "position": "GK",
-      "caps": 0,
-      "age": 22,
-      "height_cm": 193,
-      "current_club": "Barnsley",
-      "national_league": "EFL League One",
-      "club_league_ranking": 41.15,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "clean_sheets": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_019",
-      "name": "Alphonso Davies",
-      "number": 19,
-      "position": "LB",
-      "caps": 58,
-      "age": 25,
-      "height_cm": 185,
-      "current_club": "Bayern München",
-      "national_league": "Bundesliga",
-      "club_league_ranking": 5.1,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_020",
-      "name": "Ali Ahmed",
-      "number": 20,
-      "position": "LM",
-      "caps": 24,
-      "age": 25,
-      "height_cm": 180,
-      "current_club": "Norwich City",
-      "national_league": "EFL Championship",
-      "club_league_ranking": 7.9,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_021",
-      "name": "Jonathan Osorio",
-      "number": 21,
-      "position": "CM",
-      "caps": 90,
-      "age": 33,
-      "height_cm": 175,
-      "current_club": "Toronto FC",
-      "national_league": "MLS",
-      "club_league_ranking": 10.26,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_022",
-      "name": "Richie Laryea",
+      "id": "GHA_022",
+      "name": "Kamaldeen Sulemana",
       "number": 22,
-      "position": "RB",
-      "caps": 75,
-      "age": 31,
+      "position": "CAM",
+      "caps": 28,
+      "age": 24,
       "height_cm": 175,
-      "current_club": "Toronto FC",
-      "national_league": "MLS",
-      "club_league_ranking": 10.26,
+      "current_club": "Atalanta",
+      "national_league": "Serie A",
+      "club_league_ranking": 2.7,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -549,16 +549,16 @@
     },
 
     {
-      "id": "CAN_023",
-      "name": "Niko Sigur",
+      "id": "GHA_023",
+      "name": "Derrick Luckassen",
       "number": 23,
-      "position": "RB",
-      "caps": 19,
-      "age": 22,
-      "height_cm": 180,
-      "current_club": "Hajduk Split",
-      "national_league": "HNL",
-      "club_league_ranking": 18.2,
+      "position": "CB",
+      "caps": 1,
+      "age": 30,
+      "height_cm": 186,
+      "current_club": "Pafos FC",
+      "national_league": "1. Division",
+      "club_league_ranking": 25.4,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -573,40 +573,16 @@
     },
 
     {
-      "id": "CAN_024",
-      "name": "Promise David",
+      "id": "GHA_024",
+      "name": "Ernest Nuamah",
       "number": 24,
-      "position": "ST",
-      "caps": 10,
-      "age": 24,
-      "height_cm": 195,
-      "current_club": "Union Saint-Gilloise",
-      "national_league": "Pro League",
-      "club_league_ranking": 6.2,
-
-      "tournament_stats": {
-        "started_matches": 0,
-        "benched_matches": 0,
-        "minutes_played": 0,
-        "goals": 0,
-        "assists": 0,
-        "yellow_cards": 0,
-        "red_cards": 0,
-        "rating": 6.0
-      }
-    },
-
-    {
-      "id": "CAN_025",
-      "name": "Nathan Saliba",
-      "number": 25,
-      "position": "CM",
-      "caps": 15,
+      "position": "RM",
+      "caps": 18,
       "age": 22,
-      "height_cm": 173,
-      "current_club": "Anderlecht",
-      "national_league": "Pro League",
-      "club_league_ranking": 6.4,
+      "height_cm": 178,
+      "current_club": "Olympique Lyonnais",
+      "national_league": "Ligue 1",
+      "club_league_ranking": 4.4,
 
       "tournament_stats": {
         "started_matches": 0,
@@ -621,16 +597,40 @@
     },
 
     {
-      "id": "CAN_026",
-      "name": "Jayden Nelson",
+      "id": "GHA_025",
+      "name": "Prince Kwabena Adu",
+      "number": 25,
+      "position": "ST",
+      "caps": 5,
+      "age": 22,
+      "height_cm": 179,
+      "current_club": "Viktoria Plzeň",
+      "national_league": "Czech 1. Liga",
+      "club_league_ranking": 27.3,
+
+      "tournament_stats": {
+        "started_matches": 0,
+        "benched_matches": 0,
+        "minutes_played": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "rating": 6.0
+      }
+    },
+
+    {
+      "id": "GHA_026",
+      "name": "Marvin Senaya",
       "number": 26,
-      "position": "LM",
-      "caps": 14,
-      "age": 24,
-      "height_cm": 170,
-      "current_club": "Austin FC",
-      "national_league": "MLS",
-      "club_league_ranking": 10.27,
+      "position": "RB",
+      "caps": 2,
+      "age": 25,
+      "height_cm": 179,
+      "current_club": "Auxerre",
+      "national_league": "Ligue 1",
+      "club_league_ranking": 4.15,
 
       "tournament_stats": {
         "started_matches": 0,
