@@ -1,0 +1,122 @@
+{
+  "match_id": "G7_HAI_vs_SCO",
+  "phase": "Groups",
+  "group": "C",
+  "matchday": 3,
+  "date": "2026-06-13",
+  "venue": "Boston Stadium, Foxborough",
+
+  "home_team": "HAI",
+  "away_team": "SCO",
+  "score": {
+    "home": 0,
+    "away": 1
+  },
+  "clean_sheets": {
+    "home": false,
+    "away": true
+  },
+
+  "lineups": {
+    "home": [
+        { "player_id": "HAI_001", "role": "starter", "minutes_played": 90 },
+        { "player_id": "HAI_002", "role": "starter", "minutes_played": 90 },
+        { "player_id": "HAI_004", "role": "starter", "minutes_played": 90 },
+        { "player_id": "HAI_005", "role": "starter", "minutes_played": 90 },
+        { "player_id": "HAI_008", "role": "starter", "minutes_played": 90 },
+        { "player_id": "HAI_011", "role": "starter", "minutes_played": 61 },
+        { "player_id": "HAI_017", "role": "starter", "minutes_played": 90 },
+        { "player_id": "HAI_010", "role": "starter", "minutes_played": 90 },
+        { "player_id": "HAI_015", "role": "starter", "minutes_played": 85 },
+        { "player_id": "HAI_018", "role": "starter", "minutes_played": 75 },
+        { "player_id": "HAI_020", "role": "starter", "minutes_played": 90 },
+        { "player_id": "HAI_021", "role": "substitute_in", "minutes_played": 29 },
+        { "player_id": "HAI_016", "role": "substitute_in", "minutes_played": 15 },
+        { "player_id": "HAI_019", "role": "substitute_in", "minutes_played": 5 },
+        { "player_id": "HAI_012", "role": "bench", "minutes_played": 0 },
+        { "player_id": "HAI_023", "role": "bench", "minutes_played": 0 },
+        { "player_id": "HAI_006", "role": "bench", "minutes_played": 0 },
+        { "player_id": "HAI_013", "role": "bench", "minutes_played": 0 },
+        { "player_id": "HAI_014", "role": "bench", "minutes_played": 0 },
+        { "player_id": "HAI_022", "role": "bench", "minutes_played": 0 },
+        { "player_id": "HAI_003", "role": "bench", "minutes_played": 0 },
+        { "player_id": "HAI_025", "role": "bench", "minutes_played": 0 },
+        { "player_id": "HAI_026", "role": "bench", "minutes_played": 0 },
+        { "player_id": "HAI_024", "role": "bench", "minutes_played": 0 },
+        { "player_id": "HAI_007", "role": "bench", "minutes_played": 0 },
+        { "player_id": "HAI_009", "role": "bench", "minutes_played": 0 }
+    ],
+    "away": [
+        { "player_id": "SCO_001", "role": "starter", "minutes_played": 90 },
+        { "player_id": "SCO_002", "role": "starter", "minutes_played": 75 },
+        { "player_id": "SCO_005", "role": "starter", "minutes_played": 90 },
+        { "player_id": "SCO_013", "role": "starter", "minutes_played": 90 },
+        { "player_id": "SCO_003", "role": "starter", "minutes_played": 90 },
+        { "player_id": "SCO_017", "role": "starter", "minutes_played": 75 },
+        { "player_id": "SCO_004", "role": "starter", "minutes_played": 90 },
+        { "player_id": "SCO_019", "role": "starter", "minutes_played": 90 },
+        { "player_id": "SCO_007", "role": "starter", "minutes_played": 82 },
+        { "player_id": "SCO_020", "role": "starter", "minutes_played": 82 },
+        { "player_id": "SCO_010", "role": "starter", "minutes_played": 75 },
+        { "player_id": "SCO_011", "role": "substitute_in", "minutes_played": 15 },
+        { "player_id": "SCO_009", "role": "substitute_in", "minutes_played": 15 },
+        { "player_id": "SCO_022", "role": "substitute_in", "minutes_played": 15 },
+        { "player_id": "SCO_025", "role": "substitute_in", "minutes_played": 8 },
+        { "player_id": "SCO_023", "role": "substitute_in", "minutes_played": 8 },
+        { "player_id": "SCO_021", "role": "bench", "minutes_played": 0 },
+        { "player_id": "SCO_012", "role": "bench", "minutes_played": 0 },
+        { "player_id": "SCO_024", "role": "bench", "minutes_played": 0 },
+        { "player_id": "SCO_016", "role": "bench", "minutes_played": 0 },
+        { "player_id": "SCO_015", "role": "bench", "minutes_played": 0 },
+        { "player_id": "SCO_006", "role": "bench", "minutes_played": 0 },
+        { "player_id": "SCO_026", "role": "bench", "minutes_played": 0 },
+        { "player_id": "SCO_008", "role": "bench", "minutes_played": 0 },
+        { "player_id": "SCO_018", "role": "bench", "minutes_played": 0 },
+        { "player_id": "SCO_014", "role": "bench", "minutes_played": 0 }
+    ]
+  },
+
+  "events": [
+    { "type": "goal", "minute": 29, "player_id": "SCO_007", "team": "SCO" },
+    { "type": "yellow_card", "minute": 39, "player_id": "HAI_010", "team": "HAI" },
+    { "type": "yellow_card", "minute": 46, "player_id": "SCO_002", "team": "SCO" },
+    { "type": "yellow_card", "minute": 90, "player_id": "SCO_025", "team": "SCO" },
+    { "type": "yellow_card", "minute": 90, "player_id": "SCO_023", "team": "SCO" }
+  ],
+
+  "player_ratings": [
+    { "player_id": "HAI_001", "rating": 7.2 },
+    { "player_id": "HAI_002", "rating": 7.2 },
+    { "player_id": "HAI_004", "rating": 6.8 },
+    { "player_id": "HAI_005", "rating": 7.2 },
+    { "player_id": "HAI_008", "rating": 7.8 },
+    { "player_id": "HAI_011", "rating": 7.3 },
+    { "player_id": "HAI_017", "rating": 7.0 },
+    { "player_id": "HAI_010", "rating": 6.1 },
+    { "player_id": "HAI_015", "rating": 8.2 },
+    { "player_id": "HAI_018", "rating": 6.5 },
+    { "player_id": "HAI_020", "rating": 7.9 },
+    { "player_id": "HAI_021", "rating": 6.0 },
+    { "player_id": "HAI_016", "rating": 6.5 },
+    { "player_id": "HAI_019", "rating": 6.0 },
+
+    { "player_id": "SCO_001", "rating": 6.2 },
+    { "player_id": "SCO_002", "rating": 5.9 },
+    { "player_id": "SCO_005", "rating": 7.1 },
+    { "player_id": "SCO_013", "rating": 7.0 },
+    { "player_id": "SCO_003", "rating": 7.1 },
+    { "player_id": "SCO_017", "rating": 8.1 },
+    { "player_id": "SCO_004", "rating": 6.5 },
+    { "player_id": "SCO_019", "rating": 7.3 },
+    { "player_id": "SCO_007", "rating": 8.3 },
+    { "player_id": "SCO_020", "rating": 6.3 },
+    { "player_id": "SCO_010", "rating": 6.9 },
+    { "player_id": "SCO_011", "rating": 6.1 },
+    { "player_id": "SCO_009", "rating": 6.0 },
+    { "player_id": "SCO_022", "rating": 6.0 },
+    { "player_id": "SCO_025", "rating": 5.5 },
+    { "player_id": "SCO_023", "rating": 5.6 }
+  ],
+
+  "stats_propagated": false
+}
