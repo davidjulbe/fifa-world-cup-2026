@@ -1,0 +1,123 @@
+{
+  "match_id": "G9_GER_vs_CUW",
+  "phase": "Groups",
+  "group": "E",
+  "matchday": 4,
+  "date": "2026-06-14",
+  "venue": "Houston Stadium, Houston",
+
+  "home_team": "GER",
+  "away_team": "CUW",
+  "score": {
+    "home": 7,
+    "away": 1
+  },
+  "clean_sheets": {
+    "home": false,
+    "away": false
+  },
+
+  "lineups": {
+    "home": [
+        { "player_id": "GER_001", "role": "starter", "minutes_played": 90 },
+        { "player_id": "GER_006", "role": "starter", "minutes_played": 83 },
+        { "player_id": "GER_004", "role": "starter", "minutes_played": 72 },
+        { "player_id": "GER_015", "role": "starter", "minutes_played": 90 },
+        { "player_id": "GER_018", "role": "starter", "minutes_played": 72 },
+        { "player_id": "GER_023", "role": "starter", "minutes_played": 72 },
+        { "player_id": "GER_005", "role": "starter", "minutes_played": 90 },
+        { "player_id": "GER_019", "role": "starter", "minutes_played": 90 },
+        { "player_id": "GER_010", "role": "starter", "minutes_played": 64 },
+        { "player_id": "GER_017", "role": "starter", "minutes_played": 90 },
+        { "player_id": "GER_007", "role": "starter", "minutes_played": 90 },
+        { "player_id": "GER_026", "role": "substitute_in", "minutes_played": 26 },
+        { "player_id": "GER_002", "role": "substitute_in", "minutes_played": 18 },
+        { "player_id": "GER_008", "role": "substitute_in", "minutes_played": 18 },
+        { "player_id": "GER_022", "role": "substitute_in", "minutes_played": 18 },
+        { "player_id": "GER_003", "role": "substitute_in", "minutes_played": 7 },
+        { "player_id": "GER_021", "role": "bench", "minutes_played": 0 },
+        { "player_id": "GER_012", "role": "bench", "minutes_played": 0 },
+        { "player_id": "GER_024", "role": "bench", "minutes_played": 0 },
+        { "player_id": "GER_016", "role": "bench", "minutes_played": 0 },
+        { "player_id": "GER_025", "role": "bench", "minutes_played": 0 },
+        { "player_id": "GER_014", "role": "bench", "minutes_played": 0 },
+        { "player_id": "GER_020", "role": "bench", "minutes_played": 0 },
+        { "player_id": "GER_013", "role": "bench", "minutes_played": 0 },
+        { "player_id": "GER_009", "role": "bench", "minutes_played": 0 },
+        { "player_id": "GER_011", "role": "bench", "minutes_played": 0 }
+    ],
+    "away": [
+        { "player_id": "CUW_001", "role": "starter", "minutes_played": 90 },
+        { "player_id": "CUW_005", "role": "starter", "minutes_played": 81 },
+        { "player_id": "CUW_023", "role": "starter", "minutes_played": 90 },
+        { "player_id": "CUW_018", "role": "starter", "minutes_played": 90 },
+        { "player_id": "CUW_024", "role": "starter", "minutes_played": 90 },
+        { "player_id": "CUW_010", "role": "starter", "minutes_played": 81 },
+        { "player_id": "CUW_008", "role": "starter", "minutes_played": 90 },
+        { "player_id": "CUW_007", "role": "starter", "minutes_played": 90 },
+        { "player_id": "CUW_021", "role": "starter", "minutes_played": 62 },
+        { "player_id": "CUW_009", "role": "starter", "minutes_played": 45 },
+        { "player_id": "CUW_012", "role": "starter", "minutes_played": 85 },
+        { "player_id": "CUW_011", "role": "substitute_in", "minutes_played": 45 },
+        { "player_id": "CUW_016", "role": "substitute_in", "minutes_played": 28 },
+        { "player_id": "CUW_019", "role": "substitute_in", "minutes_played": 9 },
+        { "player_id": "CUW_026", "role": "bench", "minutes_played": 0 },
+        { "player_id": "CUW_025", "role": "bench", "minutes_played": 0 },
+        { "player_id": "CUW_020", "role": "bench", "minutes_played": 0 },
+        { "player_id": "CUW_003", "role": "bench", "minutes_played": 0 },
+        { "player_id": "CUW_004", "role": "bench", "minutes_played": 0 },
+        { "player_id": "CUW_002", "role": "bench", "minutes_played": 0 },
+        { "player_id": "CUW_006", "role": "bench", "minutes_played": 0 },
+        { "player_id": "CUW_022", "role": "bench", "minutes_played": 0 },
+        { "player_id": "CUW_013", "role": "bench", "minutes_played": 0 },
+        { "player_id": "CUW_015", "role": "bench", "minutes_played": 0 },
+        { "player_id": "CUW_017", "role": "bench", "minutes_played": 0 },
+        { "player_id": "CUW_014", "role": "bench", "minutes_played": 0 }
+    ]
+  },
+
+  "events": [
+    { "type": "goal", "minute": 27, "player_id": "AUS_017", "team": "AUS" },
+    { "type": "assist", "minute": 27, "player_id": "AUS_024", "team": "AUS" },
+    { "type": "goal", "minute": 75, "player_id": "AUS_008", "team": "AUS" },
+    { "type": "yellow_card", "minute": 86, "player_id": "TUR_019", "team": "TUR" }
+  ],
+
+  "player_ratings": [
+    { "player_id": "GER_001", "rating": 5.4 },
+    { "player_id": "GER_006", "rating": 9.2 },
+    { "player_id": "GER_004", "rating": 7.1 },
+    { "player_id": "GER_015", "rating": 8.4 },
+    { "player_id": "GER_018", "rating": 9.0 },
+    { "player_id": "GER_023", "rating": 9.1 },
+    { "player_id": "GER_005", "rating": 7.7 },
+    { "player_id": "GER_019", "rating": 6.7 },
+    { "player_id": "GER_010", "rating": 9.2 },
+    { "player_id": "GER_017", "rating": 8.8 },
+    { "player_id": "GER_007", "rating": 9.0 },
+    { "player_id": "GER_026", "rating": 9.7 },
+    { "player_id": "GER_002", "rating": 6.2 },
+    { "player_id": "GER_008", "rating": 5.6 },
+    { "player_id": "GER_022", "rating": 6.6 },
+    { "player_id": "GER_003", "rating": 6.2 },
+
+    { "player_id": "TUR_023", "rating": 7.4 },
+    { "player_id": "TUR_002", "rating": 7.1 },
+    { "player_id": "TUR_003", "rating": 5.8 },
+    { "player_id": "TUR_014", "rating": 5.7 },
+    { "player_id": "TUR_020", "rating": 7.3 },
+    { "player_id": "TUR_016", "rating": 7.6 },
+    { "player_id": "TUR_010", "rating": 8.3 },
+    { "player_id": "TUR_008", "rating": 8.2 },
+    { "player_id": "TUR_006", "rating": 6.2 },
+    { "player_id": "TUR_021", "rating": 6.3 },
+    { "player_id": "TUR_007", "rating": 6.2 },
+    { "player_id": "TUR_011", "rating": 7.1 },
+    { "player_id": "TUR_019", "rating": 5.4 },
+    { "player_id": "TUR_018", "rating": 6.0 },
+    { "player_id": "TUR_005", "rating": 6.0 },
+    { "player_id": "TUR_009", "rating": 5.9 }
+  ],
+
+  "stats_propagated": false
+}
