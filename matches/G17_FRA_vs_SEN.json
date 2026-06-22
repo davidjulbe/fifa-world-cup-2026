@@ -1,0 +1,123 @@
+{
+  "match_id": "G17_FRA_vs_SEN",
+  "phase": "Groups",
+  "group": "I",
+  "matchday": 6,
+  "date": "2026-06-16",
+  "venue": "New York New Jersey Stadium, East Rutherford",
+
+  "home_team": "FRA",
+  "away_team": "SEN",
+  "score": {
+    "home": 3,
+    "away": 1
+  },
+  "clean_sheets": {
+    "home": false,
+    "away": false
+  },
+
+  "lineups": {
+    "home": [
+        { "player_id": "FRA_016", "role": "starter", "minutes_played": 90 },
+        { "player_id": "FRA_005", "role": "starter", "minutes_played": 90 },
+        { "player_id": "FRA_004", "role": "starter", "minutes_played": 90 },
+        { "player_id": "FRA_017", "role": "starter", "minutes_played": 90 },
+        { "player_id": "FRA_019", "role": "starter", "minutes_played": 90 },
+        { "player_id": "FRA_008", "role": "starter", "minutes_played": 90 },
+        { "player_id": "FRA_014", "role": "starter", "minutes_played": 90 },
+        { "player_id": "FRA_011", "role": "starter", "minutes_played": 90 },
+        { "player_id": "FRA_007", "role": "starter", "minutes_played": 80 },
+        { "player_id": "FRA_020", "role": "starter", "minutes_played": 87 },
+        { "player_id": "FRA_010", "role": "starter", "minutes_played": 90 },
+        { "player_id": "FRA_012", "role": "substitute_in", "minutes_played": 10 },
+        { "player_id": "FRA_024", "role": "substitute_in", "minutes_played": 3 },
+        { "player_id": "FRA_001", "role": "bench", "minutes_played": 0 },
+        { "player_id": "FRA_023", "role": "bench", "minutes_played": 0 },
+        { "player_id": "FRA_015", "role": "bench", "minutes_played": 0 },
+        { "player_id": "FRA_003", "role": "bench", "minutes_played": 0 },
+        { "player_id": "FRA_021", "role": "bench", "minutes_played": 0 },
+        { "player_id": "FRA_002", "role": "bench", "minutes_played": 0 },
+        { "player_id": "FRA_026", "role": "bench", "minutes_played": 0 },
+        { "player_id": "FRA_006", "role": "bench", "minutes_played": 0 },
+        { "player_id": "FRA_013", "role": "bench", "minutes_played": 0 },
+        { "player_id": "FRA_018", "role": "bench", "minutes_played": 0 },
+        { "player_id": "FRA_022", "role": "bench", "minutes_played": 0 },
+        { "player_id": "FRA_025", "role": "bench", "minutes_played": 0 },
+        { "player_id": "FRA_009", "role": "bench", "minutes_played": 0 }
+    ],
+    "away": [
+        { "player_id": "SEN_016", "role": "starter", "minutes_played": 90 },
+        { "player_id": "SEN_015", "role": "starter", "minutes_played": 90 },
+        { "player_id": "SEN_003", "role": "starter", "minutes_played": 90 },
+        { "player_id": "SEN_019", "role": "starter", "minutes_played": 90 },
+        { "player_id": "SEN_025", "role": "starter", "minutes_played": 90 },
+        { "player_id": "SEN_005", "role": "starter", "minutes_played": 88 },
+        { "player_id": "SEN_008", "role": "starter", "minutes_played": 75 },
+        { "player_id": "SEN_026", "role": "starter", "minutes_played": 83 },
+        { "player_id": "SEN_018", "role": "starter", "minutes_played": 75 },
+        { "player_id": "SEN_011", "role": "starter", "minutes_played": 83 },
+        { "player_id": "SEN_010", "role": "starter", "minutes_played": 90 },
+        { "player_id": "SEN_021", "role": "substitute_in", "minutes_played": 15 },
+        { "player_id": "SEN_020", "role": "substitute_in", "minutes_played": 15 },
+        { "player_id": "SEN_013", "role": "substitute_in", "minutes_played": 7 },
+        { "player_id": "SEN_009", "role": "substitute_in", "minutes_played": 7 },
+        { "player_id": "SEN_006", "role": "substitute_in", "minutes_played": 2 },
+        { "player_id": "SEN_023", "role": "bench", "minutes_played": 0 },
+        { "player_id": "SEN_001", "role": "bench", "minutes_played": 0 },
+        { "player_id": "SEN_004", "role": "bench", "minutes_played": 0 },
+        { "player_id": "SEN_024", "role": "bench", "minutes_played": 0 },
+        { "player_id": "SEN_014", "role": "bench", "minutes_played": 0 },
+        { "player_id": "SEN_002", "role": "bench", "minutes_played": 0 },
+        { "player_id": "SEN_022", "role": "bench", "minutes_played": 0 },
+        { "player_id": "SEN_017", "role": "bench", "minutes_played": 0 },
+        { "player_id": "SEN_007", "role": "bench", "minutes_played": 0 },
+        { "player_id": "SEN_012", "role": "bench", "minutes_played": 0 }
+    ]
+  },
+
+  "events": [
+    { "type": "goal", "minute": 66, "player_id": "FRA_010", "team": "FRA" },
+    { "type": "assist", "minute": 66, "player_id": "FRA_011", "team": "FRA" },
+    { "type": "goal", "minute": 82, "player_id": "FRA_012", "team": "FRA" },
+    { "type": "assist", "minute": 82, "player_id": "FRA_014", "team": "FRA" },
+    { "type": "goal", "minute": 90, "player_id": "SEN_020", "team": "SEN" },
+    { "type": "assist", "minute": 90, "player_id": "SEN_013", "team": "SEN" },
+    { "type": "goal", "minute": 90, "player_id": "FRA_010", "team": "FRA" }
+  ],
+
+  "player_ratings": [
+    { "player_id": "FRA_016", "rating": 5.3 },
+    { "player_id": "FRA_005", "rating": 6.4 },
+    { "player_id": "FRA_004", "rating": 7.8 },
+    { "player_id": "FRA_017", "rating": 7.9 },
+    { "player_id": "FRA_019", "rating": 6.5 },
+    { "player_id": "FRA_008", "rating": 7.1 },
+    { "player_id": "FRA_014", "rating": 8.2 },
+    { "player_id": "FRA_011", "rating": 9.5 },
+    { "player_id": "FRA_007", "rating": 7.2 },
+    { "player_id": "FRA_020", "rating": 7.3 },
+    { "player_id": "FRA_010", "rating": 9.0 },
+    { "player_id": "FRA_012", "rating": 7.5 },
+    { "player_id": "FRA_024", "rating": 5.1 },
+
+    { "player_id": "SEN_016", "rating": 7.9 },
+    { "player_id": "SEN_015", "rating": 7.4 },
+    { "player_id": "SEN_003", "rating": 6.6 },
+    { "player_id": "SEN_019", "rating": 6.5 },
+    { "player_id": "SEN_025", "rating": 7.5 },
+    { "player_id": "SEN_005", "rating": 7.1 },
+    { "player_id": "SEN_008", "rating": 5.9 },
+    { "player_id": "SEN_026", "rating": 6.7 },
+    { "player_id": "SEN_018", "rating": 6.6 },
+    { "player_id": "SEN_011", "rating": 8.1 },
+    { "player_id": "SEN_010", "rating": 7.5 },
+    { "player_id": "SEN_021", "rating": 6.1 },
+    { "player_id": "SEN_020", "rating": 6.9 },
+    { "player_id": "SEN_013", "rating": 7.4 },
+    { "player_id": "SEN_009", "rating": 6.0 },
+    { "player_id": "SEN_006", "rating": 6.1 }
+  ],
+
+  "stats_propagated": false
+}

@@ -1,0 +1,120 @@
+{
+  "match_id": "G15_KSA_vs_URU",
+  "phase": "Groups",
+  "group": "H",
+  "matchday": 5,
+  "date": "2026-06-15",
+  "venue": "Miami Stadium, Miami Gardens",
+
+  "home_team": "KSA",
+  "away_team": "URU",
+  "score": {
+    "home": 1,
+    "away": 1
+  },
+  "clean_sheets": {
+    "home": false,
+    "away": false
+  },
+
+  "lineups": {
+    "home": [
+        { "player_id": "KSA_021", "role": "starter", "minutes_played": 90 },
+        { "player_id": "KSA_012", "role": "starter", "minutes_played": 89 },
+        { "player_id": "KSA_005", "role": "starter", "minutes_played": 90 },
+        { "player_id": "KSA_004", "role": "starter", "minutes_played": 90 },
+        { "player_id": "KSA_024", "role": "starter", "minutes_played": 89 },
+        { "player_id": "KSA_026", "role": "starter", "minutes_played": 81 },
+        { "player_id": "KSA_023", "role": "starter", "minutes_played": 90 },
+        { "player_id": "KSA_015", "role": "starter", "minutes_played": 90 },
+        { "player_id": "KSA_010", "role": "starter", "minutes_played": 90 },
+        { "player_id": "KSA_007", "role": "starter", "minutes_played": 63 },
+        { "player_id": "KSA_009", "role": "starter", "minutes_played": 89 },
+        { "player_id": "KSA_006", "role": "substitute_in", "minutes_played": 27 },
+        { "player_id": "KSA_013", "role": "substitute_in", "minutes_played": 9 },
+        { "player_id": "KSA_019", "role": "substitute_in", "minutes_played": 1 },
+        { "player_id": "KSA_003", "role": "substitute_in", "minutes_played": 1 },
+        { "player_id": "KSA_018", "role": "substitute_in", "minutes_played": 1 },
+        { "player_id": "KSA_022", "role": "bench", "minutes_played": 0 },
+        { "player_id": "KSA_001", "role": "bench", "minutes_played": 0 },
+        { "player_id": "KSA_002", "role": "bench", "minutes_played": 0 },
+        { "player_id": "KSA_008", "role": "bench", "minutes_played": 0 },
+        { "player_id": "KSA_014", "role": "bench", "minutes_played": 0 },
+        { "player_id": "KSA_025", "role": "bench", "minutes_played": 0 },
+        { "player_id": "KSA_016", "role": "bench", "minutes_played": 0 },
+        { "player_id": "KSA_017", "role": "bench", "minutes_played": 0 },
+        { "player_id": "KSA_011", "role": "bench", "minutes_played": 0 },
+        { "player_id": "KSA_020", "role": "bench", "minutes_played": 0 }
+    ],
+    "away": [
+        { "player_id": "URU_023", "role": "starter", "minutes_played": 90 },
+        { "player_id": "URU_013", "role": "starter", "minutes_played": 90 },
+        { "player_id": "URU_003", "role": "starter", "minutes_played": 90 },
+        { "player_id": "URU_016", "role": "starter", "minutes_played": 90 },
+        { "player_id": "URU_017", "role": "starter", "minutes_played": 45 },
+        { "player_id": "URU_008", "role": "starter", "minutes_played": 90 },
+        { "player_id": "URU_005", "role": "starter", "minutes_played": 72 },
+        { "player_id": "URU_006", "role": "starter", "minutes_played": 90 },
+        { "player_id": "URU_020", "role": "starter", "minutes_played": 81 },
+        { "player_id": "URU_021", "role": "starter", "minutes_played": 89 },
+        { "player_id": "URU_009", "role": "starter", "minutes_played": 45 },
+        { "player_id": "URU_025", "role": "substitute_in", "minutes_played": 45 },
+        { "player_id": "URU_014", "role": "substitute_in", "minutes_played": 45 },
+        { "player_id": "URU_007", "role": "substitute_in", "minutes_played": 18 },
+        { "player_id": "URU_018", "role": "substitute_in", "minutes_played": 9 },
+        { "player_id": "URU_019", "role": "substitute_in", "minutes_played": 1 },
+        { "player_id": "URU_012", "role": "bench", "minutes_played": 0 },
+        { "player_id": "URU_001", "role": "bench", "minutes_played": 0 },
+        { "player_id": "URU_022", "role": "bench", "minutes_played": 0 },
+        { "player_id": "URU_002", "role": "bench", "minutes_played": 0 },
+        { "player_id": "URU_024", "role": "bench", "minutes_played": 0 },
+        { "player_id": "URU_015", "role": "bench", "minutes_played": 0 },
+        { "player_id": "URU_011", "role": "bench", "minutes_played": 0 },
+        { "player_id": "URU_026", "role": "bench", "minutes_played": 0 }
+    ]
+  },
+
+  "events": [
+    { "type": "goal", "minute": 41, "player_id": "KSA_004", "team": "KSA" },
+    { "type": "yellow_card", "minute": 44, "player_id": "KSA_004", "team": "KSA" },
+    { "type": "goal", "minute": 80, "player_id": "URU_020", "team": "URU" }
+  ],
+
+  "player_ratings": [
+    { "player_id": "KSA_021", "rating": 9.5 },
+    { "player_id": "KSA_012", "rating": 7.1 },
+    { "player_id": "KSA_005", "rating": 7.1 },
+    { "player_id": "KSA_004", "rating": 8.4 },
+    { "player_id": "KSA_024", "rating": 8.2 },
+    { "player_id": "KSA_026", "rating": 7.2 },
+    { "player_id": "KSA_023", "rating": 7.2 },
+    { "player_id": "KSA_015", "rating": 6.7 },
+    { "player_id": "KSA_010", "rating": 6.2 },
+    { "player_id": "KSA_007", "rating": 7.6 },
+    { "player_id": "KSA_009", "rating": 5.9 },
+    { "player_id": "KSA_006", "rating": 6.2 },
+    { "player_id": "KSA_013", "rating": 6.1 },
+    { "player_id": "KSA_019", "rating": 6.2 },
+    { "player_id": "KSA_003", "rating": 6.0 },
+    { "player_id": "KSA_018", "rating": 6.0 },
+
+    { "player_id": "URU_023", "rating": 7.2 },
+    { "player_id": "URU_013", "rating": 8.6 },
+    { "player_id": "URU_003", "rating": 7.1 },
+    { "player_id": "URU_016", "rating": 7.3 },
+    { "player_id": "URU_017", "rating": 6.6 },
+    { "player_id": "URU_008", "rating": 8.0 },
+    { "player_id": "URU_005", "rating": 7.2 },
+    { "player_id": "URU_006", "rating": 6.2 },
+    { "player_id": "URU_020", "rating": 9.0 },
+    { "player_id": "URU_021", "rating": 8.9 },
+    { "player_id": "URU_009", "rating": 6.3 },
+    { "player_id": "URU_025", "rating": 6.5 },
+    { "player_id": "URU_014", "rating": 7.3 },
+    { "player_id": "URU_007", "rating": 6.6 },
+    { "player_id": "URU_018", "rating": 7.2 },
+    { "player_id": "URU_019", "rating": 6.0 }
+  ],
+
+  "stats_propagated": false
+}
