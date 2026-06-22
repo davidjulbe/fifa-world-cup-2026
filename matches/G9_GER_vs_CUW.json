@@ -77,10 +77,20 @@
   },
 
   "events": [
-    { "type": "goal", "minute": 27, "player_id": "AUS_017", "team": "AUS" },
-    { "type": "assist", "minute": 27, "player_id": "AUS_024", "team": "AUS" },
-    { "type": "goal", "minute": 75, "player_id": "AUS_008", "team": "AUS" },
-    { "type": "yellow_card", "minute": 86, "player_id": "TUR_019", "team": "TUR" }
+    { "type": "goal", "minute": 6, "player_id": "GER_023", "team": "GER" },
+    { "type": "assist", "minute": 6, "player_id": "GER_017", "team": "GER" },
+    { "type": "goal", "minute": 21, "player_id": "CUW_008", "team": "CUW" },
+    { "type": "goal", "minute": 38, "player_id": "GER_015", "team": "GER" },
+    { "type": "assist", "minute": 38, "player_id": "GER_018", "team": "GER" },
+    { "type": "goal", "minute": 45, "player_id": "GER_007", "team": "GER" },
+    { "type": "goal", "minute": 47, "player_id": "GER_010", "team": "GER" },
+    { "type": "assist", "minute": 47, "player_id": "GER_006", "team": "GER" },
+    { "type": "goal", "minute": 68, "player_id": "GER_018", "team": "GER" },
+    { "type": "assist", "minute": 68, "player_id": "GER_026", "team": "GER" },
+    { "type": "goal", "minute": 78, "player_id": "GER_026", "team": "GER" },
+    { "type": "assist", "minute": 78, "player_id": "GER_006", "team": "GER" },
+    { "type": "goal", "minute": 88, "player_id": "GER_007", "team": "GER" },
+    { "type": "assist", "minute": 88, "player_id": "GER_026", "team": "GER" }
   ],
 
   "player_ratings": [
@@ -101,22 +111,20 @@
     { "player_id": "GER_022", "rating": 6.6 },
     { "player_id": "GER_003", "rating": 6.2 },
 
-    { "player_id": "TUR_023", "rating": 7.4 },
-    { "player_id": "TUR_002", "rating": 7.1 },
-    { "player_id": "TUR_003", "rating": 5.8 },
-    { "player_id": "TUR_014", "rating": 5.7 },
-    { "player_id": "TUR_020", "rating": 7.3 },
-    { "player_id": "TUR_016", "rating": 7.6 },
-    { "player_id": "TUR_010", "rating": 8.3 },
-    { "player_id": "TUR_008", "rating": 8.2 },
-    { "player_id": "TUR_006", "rating": 6.2 },
-    { "player_id": "TUR_021", "rating": 6.3 },
-    { "player_id": "TUR_007", "rating": 6.2 },
-    { "player_id": "TUR_011", "rating": 7.1 },
-    { "player_id": "TUR_019", "rating": 5.4 },
-    { "player_id": "TUR_018", "rating": 6.0 },
-    { "player_id": "TUR_005", "rating": 6.0 },
-    { "player_id": "TUR_009", "rating": 5.9 }
+    { "player_id": "CUW_001", "rating": 7.0 },
+    { "player_id": "CUW_005", "rating": 6.7 },
+    { "player_id": "CUW_023", "rating": 5.6 },
+    { "player_id": "CUW_018", "rating": 5.7 },
+    { "player_id": "CUW_024", "rating": 7.4 },
+    { "player_id": "CUW_010", "rating": 7.3 },
+    { "player_id": "CUW_008", "rating": 8.2 },
+    { "player_id": "CUW_007", "rating": 7.5 },
+    { "player_id": "CUW_021", "rating": 5.9 },
+    { "player_id": "CUW_009", "rating": 7.1 },
+    { "player_id": "CUW_012", "rating": 6.8 },
+    { "player_id": "CUW_011", "rating": 6.6 },
+    { "player_id": "CUW_016", "rating": 7.1 },
+    { "player_id": "CUW_019", "rating": 6.0 }
   ],
 
   "stats_propagated": false
