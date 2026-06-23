@@ -1,0 +1,122 @@
+{
+  "match_id": "G23_GHA_vs_PAN",
+  "phase": "Groups",
+  "group": "L",
+  "matchday": 7,
+  "date": "2026-06-17",
+  "venue": "Toronto Stadium, Toronto",
+
+  "home_team": "GHA",
+  "away_team": "PAN",
+  "score": {
+    "home": 1,
+    "away": 0
+  },
+  "clean_sheets": {
+    "home": true,
+    "away": false
+  },
+
+  "lineups": {
+    "home": [
+        { "player_id": "GHA_001", "role": "starter", "minutes_played": 45 },
+        { "player_id": "GHA_026", "role": "starter", "minutes_played": 90 },
+        { "player_id": "GHA_004", "role": "starter", "minutes_played": 90 },
+        { "player_id": "GHA_018", "role": "starter", "minutes_played": 90 },
+        { "player_id": "GHA_014", "role": "starter", "minutes_played": 90 },
+        { "player_id": "GHA_024", "role": "starter", "minutes_played": 58 },
+        { "player_id": "GHA_003", "role": "starter", "minutes_played": 90 },
+        { "player_id": "GHA_015", "role": "starter", "minutes_played": 78 },
+        { "player_id": "GHA_011", "role": "starter", "minutes_played": 90 },
+        { "player_id": "GHA_022", "role": "starter", "minutes_played": 58 },
+        { "player_id": "GHA_009", "role": "starter", "minutes_played": 87 },
+        { "player_id": "GHA_016", "role": "substitute_in", "minutes_played": 45 },
+        { "player_id": "GHA_007", "role": "substitute_in", "minutes_played": 32 },
+        { "player_id": "GHA_010", "role": "substitute_in", "minutes_played": 32 },
+        { "player_id": "GHA_008", "role": "substitute_in", "minutes_played": 12 },
+        { "player_id": "GHA_025", "role": "substitute_in", "minutes_played": 3 },
+        { "player_id": "GHA_012", "role": "bench", "minutes_played": 0 },
+        { "player_id": "GHA_006", "role": "bench", "minutes_played": 0 },
+        { "player_id": "GHA_017", "role": "bench", "minutes_played": 0 },
+        { "player_id": "GHA_002", "role": "bench", "minutes_played": 0 },
+        { "player_id": "GHA_023", "role": "bench", "minutes_played": 0 },
+        { "player_id": "GHA_021", "role": "bench", "minutes_played": 0 },
+        { "player_id": "GHA_013", "role": "bench", "minutes_played": 0 },
+        { "player_id": "GHA_020", "role": "bench", "minutes_played": 0 },
+        { "player_id": "GHA_019", "role": "bench", "minutes_played": 0 }
+    ],
+    "away": [
+        { "player_id": "PAN_022", "role": "starter", "minutes_played": 90 },
+        { "player_id": "PAN_013", "role": "starter", "minutes_played": 90 },
+        { "player_id": "PAN_003", "role": "starter", "minutes_played": 90 },
+        { "player_id": "PAN_016", "role": "starter", "minutes_played": 90 },
+        { "player_id": "PAN_023", "role": "starter", "minutes_played": 85 },
+        { "player_id": "PAN_002", "role": "starter", "minutes_played": 74 },
+        { "player_id": "PAN_014", "role": "starter", "minutes_played": 90 },
+        { "player_id": "PAN_011", "role": "starter", "minutes_played": 57 },
+        { "player_id": "PAN_006", "role": "starter", "minutes_played": 74 },
+        { "player_id": "PAN_007", "role": "starter", "minutes_played": 85 },
+        { "player_id": "PAN_018", "role": "starter", "minutes_played": 90 },
+        { "player_id": "PAN_017", "role": "substitute_in", "minutes_played": 33 },
+        { "player_id": "PAN_024", "role": "substitute_in", "minutes_played": 16 },
+        { "player_id": "PAN_010", "role": "substitute_in", "minutes_played": 16 },
+        { "player_id": "PAN_020", "role": "substitute_in", "minutes_played": 5 },
+        { "player_id": "PAN_012", "role": "bench", "minutes_played": 0 },
+        { "player_id": "PAN_001", "role": "bench", "minutes_played": 0 },
+        { "player_id": "PAN_005", "role": "bench", "minutes_played": 0 },
+        { "player_id": "PAN_015", "role": "bench", "minutes_played": 0 },
+        { "player_id": "PAN_004", "role": "bench", "minutes_played": 0 },
+        { "player_id": "PAN_026", "role": "bench", "minutes_played": 0 },
+        { "player_id": "PAN_025", "role": "bench", "minutes_played": 0 },
+        { "player_id": "PAN_008", "role": "bench", "minutes_played": 0 },
+        { "player_id": "PAN_021", "role": "bench", "minutes_played": 0 },
+        { "player_id": "PAN_019", "role": "bench", "minutes_played": 0 },
+        { "player_id": "PAN_009", "role": "bench", "minutes_played": 0 }
+    ]
+  },
+
+  "events": [
+    { "type": "yellow_card", "minute": 16, "player_id": "GHA_003", "team": "GHA" },
+    { "type": "yellow_card", "minute": 72, "player_id": "PAN_002", "team": "PAN" },
+    { "type": "goal", "minute": 90, "player_id": "GHA_003", "team": "GHA" },
+    { "type": "assist", "minute": 90, "player_id": "GHA_010", "team": "GHA" },
+    { "type": "yellow_card", "minute": 90, "player_id": "PAN_014", "team": "PAN" }
+  ],
+
+  "player_ratings": [
+    { "player_id": "GHA_001", "rating": 7.6 },
+    { "player_id": "GHA_026", "rating": 6.7 },
+    { "player_id": "GHA_004", "rating": 7.6 },
+    { "player_id": "GHA_018", "rating": 7.3 },
+    { "player_id": "GHA_014", "rating": 7.6 },
+    { "player_id": "GHA_024", "rating": 7.2 },
+    { "player_id": "GHA_003", "rating": 6.9 },
+    { "player_id": "GHA_015", "rating": 6.1 },
+    { "player_id": "GHA_011", "rating": 7.9 },
+    { "player_id": "GHA_022", "rating": 7.2 },
+    { "player_id": "GHA_009", "rating": 7.8 },
+    { "player_id": "GHA_016", "rating": 7.2 },
+    { "player_id": "GHA_007", "rating": 6.6 },
+    { "player_id": "GHA_010", "rating": 8.2 },
+    { "player_id": "GHA_008", "rating": 6.1 },
+    { "player_id": "GHA_025", "rating": 5.4 },
+
+    { "player_id": "PAN_022", "rating": 8.1 },
+    { "player_id": "PAN_013", "rating": 8.2 },
+    { "player_id": "PAN_003", "rating": 7.0 },
+    { "player_id": "PAN_016", "rating": 6.4 },
+    { "player_id": "PAN_023", "rating": 8.3 },
+    { "player_id": "PAN_002", "rating": 7.1 },
+    { "player_id": "PAN_014", "rating": 6.5 },
+    { "player_id": "PAN_011", "rating": 6.9 },
+    { "player_id": "PAN_006", "rating": 7.7 },
+    { "player_id": "PAN_007", "rating": 7.1 },
+    { "player_id": "PAN_018", "rating": 7.2 },
+    { "player_id": "PAN_017", "rating": 6.1 },
+    { "player_id": "PAN_024", "rating": 6.8 },
+    { "player_id": "PAN_010", "rating": 6.6 },
+    { "player_id": "PAN_020", "rating": 6.1 }
+  ],
+
+  "stats_propagated": false
+}

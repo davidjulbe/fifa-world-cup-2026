@@ -1,0 +1,120 @@
+{
+  "match_id": "G25_CZE_vs_RSA",
+  "phase": "Groups",
+  "group": "A",
+  "matchday": 8,
+  "date": "2026-06-18",
+  "venue": "Atlanta Stadium, Atlanta",
+
+  "home_team": "CZE",
+  "away_team": "RSA",
+  "score": {
+    "home": 1,
+    "away": 1
+  },
+  "clean_sheets": {
+    "home": false,
+    "away": false
+  },
+
+  "lineups": {
+    "home": [
+        { "player_id": "CZE_001", "role": "starter", "minutes_played": 90 },
+        { "player_id": "CZE_004", "role": "starter", "minutes_played": 90 },
+        { "player_id": "CZE_003", "role": "starter", "minutes_played": 90 },
+        { "player_id": "CZE_007", "role": "starter", "minutes_played": 90 },
+        { "player_id": "CZE_005", "role": "starter", "minutes_played": 90 },
+        { "player_id": "CZE_024", "role": "starter", "minutes_played": 55 },
+        { "player_id": "CZE_012", "role": "starter", "minutes_played": 78 },
+        { "player_id": "CZE_008", "role": "starter", "minutes_played": 55 },
+        { "player_id": "CZE_018", "role": "starter", "minutes_played": 67 },
+        { "player_id": "CZE_009", "role": "starter", "minutes_played": 67 },
+        { "player_id": "CZE_010", "role": "starter", "minutes_played": 90 },
+        { "player_id": "CZE_015", "role": "substitute_in", "minutes_played": 35 },
+        { "player_id": "CZE_020", "role": "substitute_in", "minutes_played": 35 },
+        { "player_id": "CZE_022", "role": "substitute_in", "minutes_played": 23 },
+        { "player_id": "CZE_017", "role": "substitute_in", "minutes_played": 23 },
+        { "player_id": "CZE_002", "role": "substitute_in", "minutes_played": 12 },
+        { "player_id": "CZE_016", "role": "bench", "minutes_played": 0 },
+        { "player_id": "CZE_023", "role": "bench", "minutes_played": 0 },
+        { "player_id": "CZE_006", "role": "bench", "minutes_played": 0 },
+        { "player_id": "CZE_021", "role": "bench", "minutes_played": 0 },
+        { "player_id": "CZE_025", "role": "bench", "minutes_played": 0 },
+        { "player_id": "CZE_026", "role": "bench", "minutes_played": 0 },
+        { "player_id": "CZE_011", "role": "bench", "minutes_played": 0 },
+        { "player_id": "CZE_013", "role": "bench", "minutes_played": 0 },
+        { "player_id": "CZE_019", "role": "bench", "minutes_played": 0 }
+    ],
+    "away": [
+        { "player_id": "RSA_001", "role": "starter", "minutes_played": 90 },
+        { "player_id": "RSA_020", "role": "starter", "minutes_played": 90 },
+        { "player_id": "RSA_021", "role": "starter", "minutes_played": 90 },
+        { "player_id": "RSA_014", "role": "starter", "minutes_played": 90 },
+        { "player_id": "RSA_006", "role": "starter", "minutes_played": 90 },
+        { "player_id": "RSA_004", "role": "starter", "minutes_played": 90 },
+        { "player_id": "RSA_023", "role": "starter", "minutes_played": 45 },
+        { "player_id": "RSA_005", "role": "starter", "minutes_played": 90 },
+        { "player_id": "RSA_012", "role": "starter", "minutes_played": 84 },
+        { "player_id": "RSA_015", "role": "starter", "minutes_played": 66 },
+        { "player_id": "RSA_007", "role": "starter", "minutes_played": 90 },
+        { "player_id": "RSA_010", "role": "substitute_in", "minutes_played": 45 },
+        { "player_id": "RSA_017", "role": "substitute_in", "minutes_played": 24 },
+        { "player_id": "RSA_025", "role": "substitute_in", "minutes_played": 6 },
+        { "player_id": "RSA_022", "role": "bench", "minutes_played": 0 },
+        { "player_id": "RSA_016", "role": "bench", "minutes_played": 0 },
+        { "player_id": "RSA_026", "role": "bench", "minutes_played": 0 },
+        { "player_id": "RSA_003", "role": "bench", "minutes_played": 0 },
+        { "player_id": "RSA_019", "role": "bench", "minutes_played": 0 },
+        { "player_id": "RSA_024", "role": "bench", "minutes_played": 0 },
+        { "player_id": "RSA_018", "role": "bench", "minutes_played": 0 },
+        { "player_id": "RSA_002", "role": "bench", "minutes_played": 0 },
+        { "player_id": "RSA_009", "role": "bench", "minutes_played": 0 },
+        { "player_id": "RSA_008", "role": "bench", "minutes_played": 0 }
+    ]
+  },
+
+  "events": [
+    { "type": "goal", "minute": 6, "player_id": "CZE_018", "team": "CZE" },
+    { "type": "assist", "minute": 6, "player_id": "CZE_024", "team": "CZE" },
+    { "type": "yellow_card", "minute": 33, "player_id": "RSA_004", "team": "RSA" },
+    { "type": "yellow_card", "minute": 40, "player_id": "RSA_005", "team": "RSA" },
+    { "type": "yellow_card", "minute": 75, "player_id": "CZE_007", "team": "CZE" },
+    { "type": "goal", "minute": 83, "player_id": "RSA_004", "team": "RSA" }
+  ],
+
+  "player_ratings": [
+    { "player_id": "CZE_001", "rating": 7.1 },
+    { "player_id": "CZE_004", "rating": 7.2 },
+    { "player_id": "CZE_003", "rating": 6.6 },
+    { "player_id": "CZE_007", "rating": 6.7 },
+    { "player_id": "CZE_005", "rating": 7.0 },
+    { "player_id": "CZE_024", "rating": 8.2 },
+    { "player_id": "CZE_012", "rating": 7.2 },
+    { "player_id": "CZE_008", "rating": 5.8 },
+    { "player_id": "CZE_018", "rating": 8.3 },
+    { "player_id": "CZE_009", "rating": 7.2 },
+    { "player_id": "CZE_010", "rating": 7.1 },
+    { "player_id": "CZE_015", "rating": 4.4 },
+    { "player_id": "CZE_020", "rating": 5.5 },
+    { "player_id": "CZE_022", "rating": 6.1 },
+    { "player_id": "CZE_017", "rating": 6.5 },
+    { "player_id": "CZE_002", "rating": 6.1 },
+
+    { "player_id": "RSA_001", "rating": 7.6 },
+    { "player_id": "RSA_020", "rating": 7.2 },
+    { "player_id": "RSA_021", "rating": 6.5 },
+    { "player_id": "RSA_014", "rating": 6.1 },
+    { "player_id": "RSA_006", "rating": 7.3 },
+    { "player_id": "RSA_004", "rating": 8.3 },
+    { "player_id": "RSA_023", "rating": 6.4 },
+    { "player_id": "RSA_005", "rating": 6.6 },
+    { "player_id": "RSA_012", "rating": 6.3 },
+    { "player_id": "RSA_015", "rating": 7.1 },
+    { "player_id": "RSA_007", "rating": 7.2 },
+    { "player_id": "RSA_010", "rating": 6.7 },
+    { "player_id": "RSA_017", "rating": 6.6 },
+    { "player_id": "RSA_025", "rating": 6.1 }
+  ],
+
+  "stats_propagated": false
+}
